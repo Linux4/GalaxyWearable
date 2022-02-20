@@ -10,6 +10,24 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        include:
+          - package: com.samsung.android.app.watchmanager
+          - package: com.samsung.android.geargplugin
+          - package: com.samsung.android.gearnplugin
+          - package: com.samsung.android.waterplugin
+          - package: com.samsung.android.gearpplugin
+          - package: com.samsung.android.gearrplugin
+          - package: com.samsung.android.gearfit2plugin
+          - package: com.samsung.android.gearoplugin
+          - package: com.samsung.accessory.fridaymgr
+          - package: com.samsung.accessory.atticmgr
+          - package: com.samsung.accessory.berrymgr
+          - package: com.samsung.accessory.popcornmgr
+          - package: com.samsung.accessory.neobeanmgr
+      max-parallel: 1
+
     steps:
     - name: Checkout repo
       uses: actions/checkout@v2
@@ -28,8 +46,8 @@ jobs:
       id: check
       run: |
        need_update=0
-       latest=`curl https://m.apkpure.com/de/galaxy-wearable-samsung-gear/com.samsung.android.app.watchmanager/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP 'data-dt-version="\K[^"]+'`
-       current=`cat src/apktool.yml | grep 'versionName' | cut -f2 -d ' '` || need_update=1
+       latest=`curl -L https://m.apkpure.com/de/galaxy-wearable-samsung-gear/${{ matrix.package }}/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP 'data-dt-version="\K[^"]+'`
+       current=`cat ${{ matrix.package }}/apktool.yml | grep 'versionName' | cut -f2 -d ' '` || need_update=1
        [[ $latest != $current ]] && need_update=1
        echo ::set-output name=latest_version::$latest
        echo ::set-output name=need_update::$need_update
@@ -37,30 +55,34 @@ jobs:
     - name: Fetch APK
       if: steps.check.outputs.need_update == 1
       run: |
-       curl --silent -L --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --output com.samsung.android.app.watchmanager.apk $(curl https://m.apkpure.com/de/galaxy-wearable-samsung-gear/com.samsung.android.app.watchmanager/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP '<a[^<]*id="download_link"[^<]*href="\K[^"]+')
+       curl --silent -L --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --output ${{ matrix.package }}.apk $(curl -L https://m.apkpure.com/de/galaxy-wearable-samsung-gear/${{ matrix.package }}/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP '<a[^<]*id="download_link"[^<]*href="\K[^"]+')
 
     - name: Decompile APK
       if: steps.check.outputs.need_update == 1
       run: |
-       apktool d com.samsung.android.app.watchmanager.apk -o src -f
+       apktool d ${{ matrix.package }}.apk -o ${{ matrix.package }} -f
 
     - name: Remove check for samsung devices running custom ROMs
       if: steps.check.outputs.need_update == 1
       run: |
-       find src/smali/com/sec src/smali/com/samsung/ -name *.smali | xargs sed -i 's|Landroid/os/Build;->MANUFACTURER|Landroid/os/Build;->PRODUCT|g'
-       git add src
+       find ${{ matrix.package }}/smali*/com/sec ${{ matrix.package }}/smali*/com/samsung/ -name *.smali | xargs sed -i 's|Landroid/os/Build;->MANUFACTURER|Landroid/os/Build;->PRODUCT|g'
+
+    - name: Replace samsung certificate
+      if: steps.check.outputs.need_update == 1
+      run: |
+       find ${{ matrix.package }}/smali* -name *.smali | xargs sed -i 's/308202ef308201d7a003020102020414698683300d06092a864886f70d01010b05003028312630240603550403131d53616d73756e6750617463682050617463684365727469666963617465301e170d3231303830323139303032345a170d3436303732373139303032345a3028312630240603550403131d53616d73756e675061746368205061746368436572746966696361746530820122300d06092a864886f70d01010105000382010f003082010a0282010100e7305c88fe815cad51ee59c6d424833dcef3ebcca98a64d43f5e7fce0225dc7131625fb0d07858b64c7a8da6a7c38a6361f3d8a8ef057e2d533c2e35132c5ca1452ef0b3e7b987ff34afc483626f1a8c89f76be9fd4e85c676040906b8601c3bdf01e373c156fbeb94159b0e7cc66c68d6a1900811f0d8d80328bb5807876d7d5f0f9768c0f98e66ebab0aa0f8966f11092d35130f375c06f7ca0d1d5abc2ed4c9eea664349f06e80ed09e4ac214bb61f085848b1733846b1eb771f1b41163e0babc4510392cb15f4f454a4b91bf1a07267e34d7daaa9da811d4c082fccd4ddc028cda3733a85991f7c9c218b14d03cedaa73599a8d8d033a4bfab44dc377cef0203010001a321301f301d0603551d0e0416041439f1b24007584379561b2d19af849f71da60d2dc300d06092a864886f70d01010b050003820101008315f6c17aa4eb4620da01163133265d1b4e8cf0788acaa19cb54c7f8e0fcd683e4aa9da7132db2804fa9feef2d0809a258058aaf75386c53577a12fa9656a6d5a6812aace735196452e51c6a4cdc4a83b5227361e7b1710f1023235206637371974cb95d009777559d05c8af510f80d4d527904039810fd8f887e3a39039bfe62f97d63d9f20df09c2df8d2b2a6e18d4790d38edb61d0685f534333189d938e36c07d6cfe5c67e2df92dabd5c33e57a40885ac8f79ba93223d4917f850b5bdf4cc79a6a73dcca34982efe71a25b5ae12c7dc142b6c62d637b8b061155eb40381be335a7bc159443993ca73fd80e79a4177fc62455fedef6e4c6e405a7f5fb61/3082036930820251a00302010202142d4dd3e80ed0dcca44632972612e3fb19a8f8a6f300d06092a864886f70d01010b05003044310b30090603550406130244453117301506035504030c0e54696d205a696d6d65726d616e6e311c301a06092a864886f70d010901160d74696d406c696e7578342e6465301e170d3232303232303038323433355a170d3439303730383038323433355a3044310b30090603550406130244453117301506035504030c0e54696d205a696d6d65726d616e6e311c301a06092a864886f70d010901160d74696d406c696e7578342e646530820122300d06092a864886f70d01010105000382010f003082010a0282010100baf015cc51a32651f36fb398e2ffa2205bd17af6193dc833bc439e6b365ace6b67cceac70d1a45af68f77163205c431f935dcc7ea6e07ed4d5254f6b04aaafbf896ac402ec282dc0009e6692efb4eeb9b63f8b740c3b280b531aa633605f6adb2656e2a83a9a9b4f16ac55ef515406a13b87d0383ded926ff1136a9f7d9922c0dcfd0d567775e22b412429056a26ed3e3a75aedb549c05918524da20fbf846078e8d6e9157431ea6b2f57cca479a08b57015b1e3a9a584d1a4c4154bd4ae4862085eed20013eed790f6049d71e9cffed6817b023a5284ae5a3f776522a24491718a42c405d742c3426c964004f70a325df026d123d118165b1a15b997040b7910203010001a3533051301d0603551d0e04160414c1d5c8e0f966c1c0d949d6ab5008dd81a9407505301f0603551d23041830168014c1d5c8e0f966c1c0d949d6ab5008dd81a9407505300f0603551d130101ff040530030101ff300d06092a864886f70d01010b05000382010100a875883f73bda65aeab381258d27245acccb8a812613bf637d05bb2db311ea46add58d6de228a2ec46a0b0d3919af074c0c89bed57a505db606ba2693030326c6392e02765fccde7afdc9e8800db7325b2461bfc71494f174d8b99511db2947124fef6a85f565ff93c34f42b3771d8e2bbb6b6ea10e24644b7b24c6042243a39fb9f0d3c9d457ef2109641fc961eaf4d32e698aacf160ab40ea2c03fc7787d8a6d20b9fa14f43b0415fa0543ecd0afbde2819a33df0ae7861da1d5912d9f10b694200921e761f9a59c8f57b0f9bace6ba83e9da8daf7cc7fca8c87e31b422e6dfe61d463de3c05e86d385caed0ecaea6c63a93e3b47444723c4d23043ef11125/g'
 
     - name: Rebuild APK
       if: steps.check.outputs.need_update == 1
       run: |
-       apktool b src
+       apktool b ${{ matrix.package }}
 
     - name: Sign APK
       if: steps.check.outputs.need_update == 1
       run: |
        echo "${{ secrets.RELEASEKEY_X509 }}" > /tmp/releasekey.x509.pem
        echo "${{ secrets.RELEASEKEY_PK8 }}" | base64 -d > /tmp/releasekey.pk8
-       signapk /tmp/releasekey.x509.pem /tmp/releasekey.pk8 src/dist/com.samsung.android.app.watchmanager.apk src/dist/com.samsung.android.app.watchmanager-signed.apk
+       signapk /tmp/releasekey.x509.pem /tmp/releasekey.pk8 ${{ matrix.package }}/dist/${{ matrix.package }}.apk ${{ matrix.package }}/dist/${{ matrix.package }}-signed.apk
 
     - name: Update current version
       if: steps.check.outputs.need_update == 1
@@ -68,8 +90,9 @@ jobs:
        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
        git config --local user.name "github-actions[bot]"
        git pull origin ${{github.ref}} --ff-only
-       git commit -m "Update to ${{ steps.check.outputs.latest_version }}"
-       git tag ${{ steps.check.outputs.latest_version }}
+       git add ${{ matrix.package }}/apktool.yml
+       git commit -m "Update ${{ matrix.package }} to ${{ steps.check.outputs.latest_version }}"
+       git tag ${{ matrix.package }}-${{ steps.check.outputs.latest_version }}
 
     - name: Push changes to repo
       if: steps.check.outputs.need_update == 1
@@ -84,6 +107,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ steps.check.outputs.latest_version }}
+        tag_name: ${{ matrix.package }}-${{ steps.check.outputs.latest_version }}
         files: |
-         src/dist/com.samsung.android.app.watchmanager-signed.apk
+         ${{ matrix.package }}/dist/${{ matrix.package }}-signed.apk
