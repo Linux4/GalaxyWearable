@@ -75,7 +75,7 @@ jobs:
     - name: Rebuild APK
       if: steps.check.outputs.need_update == 1
       run: |
-       apktool b ${{ matrix.package }}
+       apktool b ${{ matrix.package }} --use-aapt2
 
     - name: Sign APK
       if: steps.check.outputs.need_update == 1
