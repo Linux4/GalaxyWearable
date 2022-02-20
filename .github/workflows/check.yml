@@ -47,7 +47,7 @@ jobs:
       run: |
        need_update=0
        latest=`curl -L https://m.apkpure.com/de/galaxy-wearable-samsung-gear/${{ matrix.package }}/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP 'data-dt-version="\K[^"]+'`
-       current=`cat ${{ matrix.package }}/apktool.yml | grep 'versionName' | cut -f2 -d ' '` || need_update=1
+       current=`cat ${{ matrix.package }}/apktool.yml | grep 'versionName' | cut -f2 -d ':' | cut -f2 -d ' '` || need_update=1
        [[ $latest != $current ]] && need_update=1
        echo ::set-output name=latest_version::$latest
        echo ::set-output name=need_update::$need_update
