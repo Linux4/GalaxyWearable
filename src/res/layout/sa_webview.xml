@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="302.0dip" android:layout_height="555.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <WebView android:id="@id/webv" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-</LinearLayout>
