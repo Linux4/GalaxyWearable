@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/dialog_background" android:paddingTop="24.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="@color/main_title_text_color" android:id="@id/no_device_found_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/no_gear_title" android:layout_marginStart="@dimen/main_title_margin_start" android:layout_marginEnd="@dimen/main_title_margin_end" style="@style/robotoRegular" />
+    <TextView android:textSize="@dimen/dialog_description_text_size" android:textColor="@color/inform_text_color" android:id="@id/description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/discovery_guide_description" android:layout_below="@id/no_device_found_title" android:fontFamily="sans-serif" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/description">
+        <ScrollView android:id="@id/description_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_weight="1.0">
+            <RelativeLayout android:layout_gravity="center_horizontal" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="27.0dip" android:paddingEnd="24.0dip">
+                <RelativeLayout android:gravity="center_vertical" android:id="@id/item_1" android:background="@android:color/transparent" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/item_1_grid_image" android:background="@drawable/home_device_watch_line" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginTop="7.0dip" android:adjustViewBounds="true" android:backgroundTint="@color/main_title_text_color" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="24.0dip" android:layout_toEndOf="@id/item_1_grid_image">
+                        <TextView android:textSize="@dimen/list_first_line_desc_text_size" android:textColor="@color/sub_title_text_color" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/watch" style="@style/robotoRegular" />
+                        <TextView android:textSize="@dimen/list_view_subtext_size" android:textColor="@color/description_text_color" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/watch_guide" style="@style/robotoRegular" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_vertical" android:id="@id/item_2" android:background="@android:color/transparent" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/item_1">
+                    <ImageView android:id="@id/item_2_grid_image" android:background="@drawable/home_device_fit_line" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginTop="7.0dip" android:adjustViewBounds="true" android:backgroundTint="@color/main_title_text_color" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="24.0dip" android:layout_toEndOf="@id/item_2_grid_image">
+                        <TextView android:textSize="@dimen/list_first_line_desc_text_size" android:textColor="@color/sub_title_text_color" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/band" style="@style/robotoRegular" />
+                        <TextView android:textSize="@dimen/list_view_subtext_size" android:textColor="@color/description_text_color" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/band_guide" style="@style/robotoRegular" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_vertical" android:background="@android:color/transparent" android:paddingTop="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/item_2">
+                    <ImageView android:id="@id/item_3_grid_image" android:background="@drawable/home_device_buds_pro_line" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginTop="7.0dip" android:adjustViewBounds="true" android:backgroundTint="@color/main_title_text_color" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="24.0dip" android:layout_toEndOf="@id/item_3_grid_image">
+                        <TextView android:textSize="@dimen/list_first_line_desc_text_size" android:textColor="@color/sub_title_text_color" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/earbuds" style="@style/robotoRegular" />
+                        <TextView android:textSize="@dimen/list_view_subtext_size" android:textColor="@color/description_text_color" android:gravity="center_vertical" android:id="@id/item_3_subtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/earbuds_guide" style="@style/robotoRegular" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </ScrollView>
+        <LinearLayout android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="72.0dip" android:layout_below="@id/description_area" android:layout_marginStart="@dimen/main_title_margin_start" android:layout_marginEnd="@dimen/main_title_margin_end">
+            <TextView android:gravity="center" android:id="@id/contact_us" android:focusable="true" android:text="@string/welcome_to_samsung_gear_promotion_contact_us" android:layout_weight="1.0" android:textAllCaps="false" android:layout_marginEnd="@dimen/main_title_margin_end" android:textFontWeight="500" style="@style/TextView_PopupButton" />
+            <View android:layout_gravity="center_vertical" android:background="@color/list_item_divider_color" android:layout_width="@dimen/dialog_bottom_button_divider_width" android:layout_height="@dimen/popup_btn_text_size" />
+            <TextView android:gravity="center" android:id="@id/close_button" android:focusable="true" android:text="@string/button_text_close" android:layout_weight="1.0" android:textAllCaps="false" android:layout_marginStart="@dimen/main_title_margin_start" android:textFontWeight="500" style="@style/TextView_PopupButton" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

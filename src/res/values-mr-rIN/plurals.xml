@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">%d उपकरणे आणि संबंधित अनुप्रयोग काढा ज्याची यापुढे आवश्यकता नाही?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d उपकरण आणि संबंधित अनुप्रयोग काढा ज्याची यापुढे आवश्यकता नाही?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">%d आयटम काढायचे?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d आयटम काढायचा?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

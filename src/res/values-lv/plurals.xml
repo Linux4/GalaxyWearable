@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">Vai noņemt %d ierīces un saistītās programmas, kas vairs nav nepieciešamas?</item>
+        <item quantity="zero">Vai noņemt %d ierīces un saistītās programmas, kas vairs nav nepieciešamas?</item>
+        <item quantity="one">Vai noņemt %d ierīci un saistītās programmas, kas vairs nav nepieciešamas?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">Vai noņemt %d objektus?</item>
+        <item quantity="zero">Vai noņemt %d objektus?</item>
+        <item quantity="one">Vai noņemt %d objektu?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">Pašalinti %d įrenginių ir susijusių programų, kurių nebereikia?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pašalinti %d įrenginį ir susijusias programas, kurių nebereikia?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pašalinti %d įrenginius ir susijusias programas, kurių nebereikia?</item>
+        <item quantity="many">Pašalinti %d įrenginio ir susijusias programas, kurių nebereikia?</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">Šalinti %d elementų?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Šalinti %d elementą?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Šalinti %d elementus?</item>
+        <item quantity="many">Šalinti %d elemento?</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+</resources>

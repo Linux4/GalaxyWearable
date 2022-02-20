@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light" />
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@android:style/Widget.Material.Button.Borderless.Colored" />
+    <style name="Base.Widget.AppCompat.Button.Colored" parent="@android:style/Widget.Material.Button.Colored">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.Button.Colored</item>
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="@style/Base.V7.Widget.AppCompat.EditText">
+        <item name="android:breakStrategy">simple</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.EditText" parent="@style/Base.V7.Widget.AppCompat.Light.EditText">
+        <item name="android:breakStrategy">simple</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="CardView" parent="@style/Base.CardView">
+        <item name="cardBackgroundColor">?android:colorBackgroundFloating</item>
+    </style>
+    <style name="ContactUsListDeviceStyle" parent="@style/Theme.AppCompat.DayNight">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:progressBarStyle">@android:style/Widget.DeviceDefault.ProgressBar</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:actionMenuTextAppearance">@style/ActionBarMenuStyle</item>
+        <item name="android:actionMenuTextColor">@color/action_bar_menu_textcolor</item>
+        <item name="android:statusBarColor">@color/daynight_dark_theme_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="TransActivityFullScreenWithActionbar" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:progressBarStyle">@android:style/Widget.DeviceDefault.ProgressBar</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:actionBarSize">@dimen/action_bar_h</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:actionMenuTextColor">@color/action_bar_menu_textcolor</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/main_background_color</item>
+        <item name="android:navigationIcon">@drawable/tw_ic_ab_back_mtrl</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="seslCircleProgressbarTheme" parent="@style/Theme.AppCompat.DayNight">
+        <item name="progressCircleDotColor1">@color/sesl_progress_bar_dot_color_default_1</item>
+        <item name="progressCircleDotColor2">@color/sesl_progress_bar_dot_color_default_2</item>
+    </style>
+    <style name="whiteColorCircleProgressbarTheme" parent="@style/Theme.AppCompat.DayNight">
+        <item name="progressCircleDotColor1">@color/sesl_progress_bar_dot_color_white_1</item>
+        <item name="progressCircleDotColor2">@color/sesl_progress_bar_dot_color_white_2</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat" parent="@style/Base.V22.Theme.AppCompat" />
+    <style name="Base.V23.Theme.AppCompat.Light" parent="@style/Base.V22.Theme.AppCompat.Light" />
+    <style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="@android:style/Widget.Material.RatingBar.Indicator" />
+    <style name="Base.Widget.AppCompat.RatingBar.Small" parent="@android:style/Widget.Material.RatingBar.Small" />
+    <style name="Base.Widget.AppCompat.TextView" parent="@android:style/Widget.Material.TextView">
+        <item name="android:breakStrategy">high_quality</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+</resources>

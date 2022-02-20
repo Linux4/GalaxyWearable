@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Goşmaça düzüm ulanmak bilen gollanma Bluetooth üsti bilen dataňyzy geçirmeklige rugsat berýär</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Çarçuwa arkaly maglumat geçirmek</string>
+    <string name="access_connected_device_status">Enjamyň birikme ýagdaýyna gir</string>
+    <string name="access_connected_device_status_description">Bu programma dakylýan enjamyň birikme ýagdaýyna girip bilýär.</string>
+    <string name="after_post_they_appear">Iberen seslemäňiz şu ýerde görner.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Bu siziň %s bilen aragatnaşygyňyzy tamamlar.</string>
+    <string name="all">Ähli</string>
+    <string name="always">Hemişe</string>
+    <string name="android_version">Android wersiýa</string>
+    <string name="answered">Jogap berildi</string>
+    <string name="app_details">Goşmaça programmalar</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">Täzeden sora</string>
+    <string name="ask_again_for_additional_questions">Eýýäm iberilen soraglar bilen dahylly sowal soramak üçin, TÄZEDEN SORA basyň.</string>
+    <string name="attach">Goş</string>
+    <string name="attachments">Goşundylar</string>
+    <string name="band">Lenta</string>
+    <string name="band_guide">Lentaňyzy öňki telefonyňyzdan birikmeden aýryň. Öňki telefondaky Galaxy Wearable programmasynda menýu çekerini basyp, Birikmäni kes-i basyň.</string>
+    <string name="benefit_desc_1">Birigen sagadyňyz, goşarlyk ýa-da gulaklyk üçin zarýad derejesini we beýlekileri bir bakyşda görüň.</string>
+    <string name="benefit_desc_2">Sagadyňyzy, goşarlygy ýa-da gulaklygy jikme-jik sazlamalar bilen dolandyryň.</string>
+    <string name="benefit_desc_3">Sagadyňyzyň keşbini we duýgusyny ýeňil sazlaň.</string>
+    <string name="benefit_title_1">Birigiň we ýagdaýy barlaň</string>
+    <string name="benefit_title_2">Kämil aýratynlyklara giriň</string>
+    <string name="benefit_title_3">Sagat ýüzlerini üýtgediň we laýyklaň</string>
+    <string name="bg_update_after_os_up_fail">Täzelemäni gurnap bolmady.</string>
+    <string name="bg_update_after_os_up_noti_desc">Ony gurnamak üçin, şu ýere basyň. Täzeleme wagtynda, dakylýan enjamlaryňyz birikmeden kesilip biler.</string>
+    <string name="bg_update_after_os_up_success">Programma üpjünçiligi şowly täzelenildi.</string>
+    <string name="btn_next">Indiki</string>
+    <string name="build_number">Gurnaw belgisi</string>
+    <string name="button_text_bluetooth_turn_on">Işletmek</string>
+    <string name="button_text_close">Ýap</string>
+    <string name="button_text_continue">Dowam et</string>
+    <string name="cancel">Ýatyr</string>
+    <string name="cant_attach_more_files">%d faýldan köp goşup bolmaýar.</string>
+    <string name="capture_screen">Ekrany düşür</string>
+    <string name="character_counter_content_description">%1$d / %2$d nyşan</string>
+    <string name="check_for_update">Telefon programma üpjünçiligiňiziň häzirki wersiýasy üçin goldanylmaýar. Täzeleme barlap synanyň.</string>
+    <string name="compose">Ýaz</string>
+    <string name="confirm">Tassykla</string>
+    <string name="connect_popup_content">Baglanyşýar</string>
+    <string name="connected">Birikdi</string>
+    <string name="contact_us_ask">Soraglar sora</string>
+    <string name="contact_us_chn_read_and_agree">Aşakdakyny okap ylalaşyň:</string>
+    <string name="contact_us_error">Ýalňyşlyk hasabat</string>
+    <string name="contact_us_faq">KSS</string>
+    <string name="contact_us_feedback">Seslenme sanawy</string>
+    <string name="contact_us_select_device_guide">Mesele bar bolan enjam ýa-da enjamlaryňyzy saýlaň. Bu bize meseläňizi has çalt çözmäge ýardam eder.</string>
+    <string name="custom_binary_error_dialog_title">Telefonyňyzdaky operasion ulgam birugsat üýtgedildi we indi Samsung Gear programmasy bilen ylalaşykly däl. Operasion ulgamyňyzy barlap synanyşyň.</string>
+    <string name="delete">Öçür</string>
+    <string name="dialog_popup_button_later">Soňra</string>
+    <string name="dialog_popup_button_update">Täzele</string>
+    <string name="discovery_guide_description">Başga telefona birigen bolsa, enjamyňyz görünmän biler. Ynha, etmeli zat:</string>
+    <string name="discovery_guide_description_link">Başga telefona birigen bolsa, enjamyňyz görünmän biler. %1$sKömek alyň%2$s.</string>
+    <string name="do_not_show_again">Gaýtadan görkezme</string>
+    <string name="done">Tamam</string>
+    <string name="download_error_chian_sa_not_signed">Ilki bilen, Samsung account-yňyza giriň.</string>
+    <string name="download_error_china_sim_mismatch">SIM karty ýurduňyz Samsung account ýurduňyz bilen deň gelmeýär.</string>
+    <string name="download_error_china_title">Sagadyňyzy sazlap bolmady</string>
+    <string name="download_error_eos_description">"Gadyrly %1$s müşderiler,
+
+Hyzmat iş syýasatyna laýyklykda, %2$s 2021-nji ýyldan soň çykarjak öz mobil telefonlary bilen özara arkalaşygy goldamaýar.
+Bar bolan hyzmatyň hilini diňe bir goýmany täzelemek arkaly saklap bolmajakdygy sebäpli şu karar kabul edildi. Geljekde mobil telefonyňyzy çalşanyňyzda şu ýagdaýdan habarly boluň.
+Eger goşmaça soraglaryňyz bar bolsa, jaň merkezimize (%3$shttp://samsung.com/support%4$s). Samsung Members üçin merkezimize ýa-da %5$shttp://help.content.samsung.com%6$s salgysyna ýüz tutuň we biz size kömek ederis.
+"</string>
+    <string name="download_install_app_restart_description">Täzelemäni ulanmak üçin, Galaxy Wearable ýapylar. Täzeleme gutaransoň, ony täzeden açyň.</string>
+    <string name="download_install_main_description_band">Telefonyňyz bu programma üpjünçiligini goşarlygyňyza birikmek üçin ulanar.</string>
+    <string name="download_install_main_description_earbud">Telefonyňyz bu programma üpjünçiligini gulaklygyňyza birikmek üçin ulanar.</string>
+    <string name="download_install_main_description_watch">Telefonyňyz bu programma üpjünçiligini sagadyňyza birikmek üçin ulanar.</string>
+    <string name="download_install_main_title">Programma üpjünçiligi göçürilip alynýar…</string>
+    <string name="dragndroplist_drag_move">Häzir %d orunda</string>
+    <string name="dragndroplist_drag_release">Madda %d orna oklandy.</string>
+    <string name="dragndroplist_drag_start">%d orundaky maddanyň süýşürilmegi başlandy.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d orundaky maddany tutup süýşürip bolmaýar.</string>
+    <string name="earbuds">Nauşnik</string>
+    <string name="earbuds_guide">Birikmek üçin, gulaklyklary gulagyňyza dakyp, bip sesini eşidýänçäňiz iki gulaklygam 3 sekunt degip saklaň.</string>
+    <string name="earbuds_guide_additional">%s enjamyňyzy birikdirmek üçin, gulaklyklary çehola salyň, soňra çyra gyzyl we ýaşyl ýanyp-sönüp başlaýança, iki gulaklygam 3 sekunt degip saklaň.</string>
+    <string name="error_while_sending">Serwer näsazlygy ýüze çykdy.</string>
+    <string name="feedback">Seslenme</string>
+    <string name="file_already_attached">Faýly goşup bolmaýar. Faýl eýýäm goşuldy.</string>
+    <string name="frequency">Ýygylyk</string>
+    <string name="frequency_not_selected">Ýalňyşlyk hasabatyny iberip bolmady. Problema ýygylygyny saýlap synanyşyň.</string>
+    <string name="gear_not_presesnt">Meniňki bu ýerde däl</string>
+    <string name="hint_text">"Kömekçil boluň we maslahatyňyz peýdaly bolar ýaly, möhüm jikme-jikligi giriziň.
+
+Şahsy maglumatyňyzy girizmäň.
+
+Ulgam log maglumatyny ibermek opsiýasyny saýlaň.
+
+Meseleleriňize ýeňil düşüniler ýaly, wideo ýa-da skrinşot sepläň."</string>
+    <string name="install_from_play_store_device_type_band">Lentaňyzy Galaxy Wearable programma bilen dolandyrmak üçin, size modul gerek.</string>
+    <string name="install_from_play_store_device_type_earbuds">Gulaklyklaryňyzy Galaxy Wearable programma bilen dolandyrmak üçin, size modul gerek.</string>
+    <string name="install_from_play_store_device_type_watch">Sagadyňyzy Galaxy Wearable programma bilen dolandyrmak üçin, size modul gerek.</string>
+    <string name="installed">Gurnaldy.</string>
+    <string name="just_this_time">Diňe şu gezek</string>
+    <string name="loading">Ýükleýär…</string>
+    <string name="manage_devices_delete_btn_text">Aýyr</string>
+    <string name="manage_devices_delete_btn_text_remove_all">Ählisini aýyrmak</string>
+    <string name="manage_devices_deleteing">Aýrylýar…</string>
+    <string name="manage_devices_desc_text1">Telefonyňyzdan aýyrmaly enjamlary saýlaň.</string>
+    <string name="manage_devices_desc_text2">Islendik aýrylgy goşarlygy ýa-da sagady telefonyňyza gaýtadan birikdirmek üçin, olary nol etmeli bolarsyňyz.</string>
+    <string name="manage_devices_title_text">Enjamlary saýla</string>
+    <string name="manage_devices_title_text_select">%d saýlanyldy</string>
+    <string name="max_record_time">Maksimum ýazgy wagty %d sekunda ýetdi. Ýazgyny ýazdyryp, goşunda goşuň.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear aýryldy.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Maksimum güýç tygşytlaýjy tertipde %s açyp bolmaýar.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Gollanmany açmak başardanok</string>
+    <string name="mb">%s MB</string>
+    <string name="model_number">Model belgisi</string>
+    <string name="network_problem_message">Tor birikmäňizi barlap synanyşyň.</string>
+    <string name="no_device_nearby">Enjam tapylmady</string>
+    <string name="no_feedback">Seslenme ýok</string>
+    <string name="no_gear_description1">Goşmak isleýän enjamyňyzy açyň.</string>
+    <string name="no_gear_title">Täze enjam birikdirilýär</string>
+    <string name="no_internet_access">Internet baglanyşygy ýok</string>
+    <string name="no_text_entered">Seslenme iberip bolmaýar. Tekst girizilmedi.</string>
+    <string name="none_paired">Hiçbir enjam goşalanmandyr</string>
+    <string name="not_enough_space_message">%s ulanyp bolmaýar. Käbir faýllary öçürip ýa-da programmalary aýryp synanyň.</string>
+    <string name="not_enough_space_title">Ýeterlik ýer ýok</string>
+    <string name="not_now">Soňra</string>
+    <string name="not_supportable_dialog_description">Bu sagat bu telefonda goldanylmaýar.</string>
+    <string name="not_supportable_dialog_title">%s bilen jübütläp bolmaýar</string>
+    <string name="not_supported">%s goldanylmaýar</string>
+    <string name="not_supported_device_or_version">Android wersiýasy ylalaşykly däl. Telefonyňyz üçin programma üpjünçilik täzelemesi barlaň.</string>
+    <string name="notification_channel_backup_and_restore">Ätiýaçlama we dikeltme</string>
+    <string name="ok">OK</string>
+    <string name="pairing_check_pin_number_band">Goşarlygyňyzdaky belgini barlaň</string>
+    <string name="pairing_check_pin_number_earbud">Gulaklyklaryňyza birigilýär…</string>
+    <string name="pairing_check_pin_number_watch">Sagadyňyzdaky belgini barlaň</string>
+    <string name="pairing_finish_band">Goşarlygyňyz jübütlendi</string>
+    <string name="pairing_finish_watch">Sagadyňyz jübütlendi</string>
+    <string name="percentage">%d%%</string>
+    <string name="permission_dialog_body_1">"Programma hyzmaty üçin, aşakdaky rugsatlar gerek.
+
+Gerekli rugsatlar"</string>
+    <string name="permission_dialog_body_2">Ýerleşiş: Bluetooth arkaly golaýdaky dakylýan enjamlary gözlemek üçin ulanylýar</string>
+    <string name="permission_dialog_body_3">Toplaýjy: Saklanylýan faýllary dakylýan enjamlar bilen geçirmek we almak üçin ulanylýar</string>
+    <string name="permission_dialog_body_4">Telefon: Programmalary täzelemek we modul programmalary gurnamak üçin enjamyň özboluşly identifikasion maglumatyny barlamak üçin ulanylýar</string>
+    <string name="permission_dialog_body_5">Kontaktlar: Bellige alnan Samsung account maglumaty arkaly, hasaplara baglanmaly hyzmatlary üpjün etmek üçin ulanylýar</string>
+    <string name="permission_dialog_title">Programma rugsatlar</string>
+    <string name="permission_guide_location_description">Galaxy Wearable golaýdaky enjamlary gözlemekde Bluetooth-y ulanmak üçin Ýerleşiş rugsadyny ulanýar.</string>
+    <string name="permission_guide_phone_description">Programmalary täzelemek we modullary gurnamak üçin, enjamlary anyklamak üçin ulanylýar.</string>
+    <string name="permission_guide_precise_location_description">Galaxy Wearable ulanmak üçin, onuň bu telefonyň takyk ýerleşişine girmegine rugsat bermegiňiz gerek.</string>
+    <string name="permission_intro_title_one">%s şu rugsady ulanýar</string>
+    <string name="permission_intro_title_others">%s şu rugsatlary ulanýar</string>
+    <string name="permission_link_description">%1$sGalaxy Wearable üçin rugsatlary%2$s we olaryň ulanylyşyny görüň.</string>
+    <string name="permission_location">Ýerleşiş</string>
+    <string name="permission_phone">Telefon</string>
+    <string name="permission_settings_dialog_message">%s ulanyp bolmaýar. SAZLAMALAR-a basyň we aşakdaky rugsatlary berip, täzeden synanyşyň:</string>
+    <string name="permissions">Rugsatlar</string>
+    <string name="permissions_content_title">%s üçin rugsatlar</string>
+    <string name="permissions_detail_required_title">%s-a bu rugsatlar gerek:</string>
+    <string name="permissions_nearby_desc">Golaýdaky enjamlary gözlemek üçin ulanylýar.</string>
+    <string name="permissions_nearby_title">Golaýdaky enjamlar</string>
+    <string name="phone_info">Telefon maglumaty</string>
+    <string name="pick_gear">Enjamyňyzy saýlaň</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth ýapyk. Ony açmak üçin, Aç-a basyň.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth aç</string>
+    <string name="privacypolicy_learn_more">Goşmaça</string>
+    <string name="promotion_main_description">Galaxy sagadyňyzy, goşarlygy ýa-da gulaklygy birikdiriň.</string>
+    <string name="promotion_start_pairing">Başla</string>
+    <string name="qa_store_dialog_password">Parol</string>
+    <string name="rate_response">Jogaba reýting ber</string>
+    <string name="rating1">Peýdaly däl</string>
+    <string name="rating2">Örän peýdaly däl</string>
+    <string name="rating3">Biraz peýdaly</string>
+    <string name="rating4">Peýdaly</string>
+    <string name="rating5">Örän peýdaly</string>
+    <string name="reboot">Açyp ýap</string>
+    <string name="reboot_phone_message">Samsung esbap hyzmaty täzelenildi. Gear-iňize birikmek üçin, telefony açyp ýapyň.</string>
+    <string name="record_screen">Ekrany ýaz</string>
+    <string name="reset_your_watch_body">Sagadyňyzy täze telefon bilen jübütlemek üçin, ilki bilen sagadyňyzy nol ediň, soňra Galaxy Wearable-y açyp birigiň.</string>
+    <string name="reset_your_watch_then_try_again">Täze telefon birikdirmek üçin, ilki bilen sagadyňyzy nol etmegiňiz gerek, ol ähli maglumatyňyzy öçürer.</string>
+    <string name="reset_your_watch_title">Sagadyňyzy täze telefonyňyza birikdirmelimi?</string>
+    <string name="retry">Ýene synan</string>
+    <string name="scan_for_wearable_devices">Goşmaga enjam gözlenilýär…</string>
+    <string name="search_scan_again">Täzeden skanla</string>
+    <string name="select_device">Enjam saýlaň</string>
+    <string name="send">Iber</string>
+    <string name="send_system_log_data">Ulgam log maglumatyny iber</string>
+    <string name="send_system_log_data_popup">Ulgam log maglumatyny ibermelimi?</string>
+    <string name="send_system_log_data_subtext">Soraglaryňyzy çözmäge kömegi deger ýaly, ulgam žurnalyny iberiň.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">Ýokaryk</string>
+    <string name="sesl_action_menu_overflow_badge_description">Täze material elýeterli</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">T</string>
+    <string name="sesl_action_menu_overflow_description">Goşmaça opsiýalar</string>
+    <string name="sesl_index_assistant_text">Süýşürmek üçin, iki barmak bilen ýokaryk ýa-da aşak syryň.</string>
+    <string name="sesl_index_scrollbar">Süýşüriş paneli</string>
+    <string name="sesl_index_section">Bölüm indeksi</string>
+    <string name="sesl_index_selected">Saýlanyldy</string>
+    <string name="sesl_material_badge_description">Täze material elýeterli</string>
+    <string name="sesl_material_overflow_badge_text_n">T</string>
+    <string name="sesl_more_item_label">Başgalar</string>
+    <string name="sesl_preferencecategory_added_title">Sözbaşy</string>
+    <string name="sesl_search_hint">Gözleg</string>
+    <string name="sesl_searchview_description_clear">Gözleg zolagy öçür</string>
+    <string name="sesl_searchview_description_query">Gözleme talaby</string>
+    <string name="sesl_searchview_description_search">Gözleg</string>
+    <string name="sesl_searchview_description_submit">Tassyklama talaby</string>
+    <string name="sesl_searchview_description_voice">Ses gözleme</string>
+    <string name="sesl_switch_off">Ýapyk</string>
+    <string name="sesl_switch_on">Açyk</string>
+    <string name="sesl_switchbar_off_text">Ýapyk</string>
+    <string name="sesl_switchbar_on_text">Aç</string>
+    <string name="sesl_toolbar_collapse_description">Düýrlemek</string>
+    <string name="settings">Sazlamalar</string>
+    <string name="size_limit_exceeds">%s faýldan köp goşup bolmaýar. Käbir faýllary aýryp synanyşyň.</string>
+    <string name="software_update_text">Programma üpjünçilik täzelemesi</string>
+    <string name="something_went_wrong">Bir ýalňyşlyk boldy. Täzeden synanyşyň.</string>
+    <string name="sometimes">Käwagt</string>
+    <string name="support_has_ended">%s üçin goldaw gutardy.</string>
+    <string name="sysytemlogpopupdec">"Ulgam loguňyz Samsung Electronics Co., Ltd-e seljerişe iberiler. Ulgam loguňyzda telefonyňyzda gurnalgy üçünji-tarap programmalardan maglumat bar bolup biler. Ulgam logy maglumaty diňe problemany seljermek we programmany gowulandyrmak üçin ulanylyp, soňra seljerme gutaran badyna öçüriler. Ulgam loguňyzy mobil maglumat arkaly ibermek maglumat ulanyşyňyzy %s çenli köpelder we goşmaça çykdajylara eltip biler. Oňa derek, Wi-Fi ulanyň.
+
+Problemaňyzyň jikme-jikligini ýazmazdan öň, ulgam logunyň goşulmagyna garaşyň."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">Şahsy maglumatlary daşary ýurda geçirmek</string>
+    <string name="turn_on_location_desc">Sagadyňyza birigip, maglumatyňyzy sinhronlamak üçin, Sazlamalary basyp, Ýerleşişi açyň.</string>
+    <string name="turn_on_location_title">Ýerleşişi aç</string>
+    <string name="txt_device">Enjam</string>
+    <string name="txt_devices">Enjamlar</string>
+    <string name="uhm_install_plugin_from_play_store">%s gurna</string>
+    <string name="uhm_update_cancel_popup_button_ok">Programmany ýap</string>
+    <string name="uhm_update_cancel_popup_desc">Häzir täzelemeseňiz, Galaxy Wearable programmasy ulanmaga dowam edip bilmersiňiz.</string>
+    <string name="uhm_update_cancel_popup_title">Galaxy Wearable programmasyny ýapmalymy?</string>
+    <string name="uhm_update_download_progress">Göçürilip alynýar…</string>
+    <string name="uhm_update_exist_notification_subtitle">Täze wersiýa elýeterli</string>
+    <string name="uhm_update_install_disconnect_device">%s-dan baglanyşygy kesilýär…</string>
+    <string name="uhm_update_install_progress">Gurnalýar…</string>
+    <string name="uhm_update_is_available">%s elýeterli.</string>
+    <string name="uhm_update_new_version">täze wersiýa</string>
+    <string name="uhm_update_notice">Habar</string>
+    <string name="uhm_whats_new_popup_title">Täze zatlar</string>
+    <string name="unable_to_enable">Funksiýany işledip bolmaýar</string>
+    <string name="unable_to_install_message">Gurnap bolmaýar. Garaşylmadyk ýalňyşlyk.</string>
+    <string name="update_gms_dialog_description">Sagadyňyzy sazlamak üçin, ilki bilen Google Play hyzmatlaryny täzeläp, sazlawy gaýtadan başlatmagyňyz gerek.</string>
+    <string name="update_gms_dialog_title">Google Play hyzmatlaryny täzelemelimi?</string>
+    <string name="use_network_connection_dialog_body">%s tor birikmelerini ulanyp bilsinmi?</string>
+    <string name="use_network_connection_dialog_title">Tor birikmelerini ulan</string>
+    <string name="watch">Sagat</string>
+    <string name="watch_guide">Programmalar ekranynda Sazlamalar > Täze telefona birik-i basyň.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear-e birik</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Bize ýüz tut</string>
+</resources>

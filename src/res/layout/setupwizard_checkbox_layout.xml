@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/item_title_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <CheckBox android:id="@id/item_checkbox" android:focusable="false" android:clickable="false" android:layout_width="@dimen/new_eula_checkbox_width" android:layout_height="@dimen/new_eula_checkbox_width" android:layout_alignParentStart="true" />
+        <TextView android:textSize="@dimen/list_second_line_desc_text_size" android:textStyle="bold" android:textColor="@color/winset_dark_description_text" android:id="@id/item_title_text" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:lineSpacingExtra="@dimen/new_eula_title_text_linespace" android:fontFamily="sec-roboto-medium" android:layout_marginStart="@dimen/new_eula_checkbox_and_text_start_margin" android:layout_toEndOf="@id/item_checkbox" />
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/new_eula_checkbox_text_size" android:textColor="@color/winset_light_description_text" android:id="@id/item_desc_text" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sec-roboto-regular" android:layout_marginStart="@dimen/new_eula_second_checkbox_desc_text_start_margin" />
+    <LinearLayout android:orientation="vertical" android:id="@id/item_link_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/list_second_line_desc_text_size" android:textColor="@color/learn_more_link_color" android:id="@id/item_learnmore_button" android:background="@drawable/manager_popup_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/privacypolicy_learn_more" android:textAllCaps="false" android:fontFamily="sec-roboto-regular" android:layout_marginStart="@dimen/new_eula_second_checkbox_desc_text_start_margin" />
+    </LinearLayout>
+</LinearLayout>

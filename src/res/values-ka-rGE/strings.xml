@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">საშუალებას აძლევს პროგრამას გადასცეს თქვენი მონაცემები Bluetooth-ით, დამხმარე სტრუქტურის გამოყენებით.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">მონაცემთა გადაცემა ხდება სტრუქტურით</string>
+    <string name="access_connected_device_status">დაკავშირების სტატუსზე წვდომა</string>
+    <string name="access_connected_device_status_description">ამ აპლიკაციას შეუძლია, გაიგოს სატარებელი მოწყობილობის დაკავშირების სტატუსი.</string>
+    <string name="after_post_they_appear">თქვენ მიერ გაგზავნილი გამოხმაურება გამოჩნდება აქ.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ამით შეწყდება კავშირი %s-თან.</string>
+    <string name="all">ყველა</string>
+    <string name="always">ყოველთვის</string>
+    <string name="android_version">Android-ის ვერსია</string>
+    <string name="answered">პასუხი გაცემულია</string>
+    <string name="app_details">დამატებითი აპლიკაციები</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">ისევ მკითხე</string>
+    <string name="ask_again_for_additional_questions">შეეხეთ „ისევ მკითხე“-ს, რომ დასვათ უკვე განთავსებულ ინფორმაციასთან დაკავშირებული დამატებითი კითხვები.</string>
+    <string name="attach">მიბმა</string>
+    <string name="attachments">დანართები</string>
+    <string name="band">გამტარუნარიანობა</string>
+    <string name="band_guide">შეწყვიტეთ თქვენი სამაჯურის კავშირი წინა ტელეფონთან. წინა ტელეფონის Galaxy Wearable აპლიკაციაში შეეხეთ უჯრებიან მენიუს, შემდეგ კი შეეხეთ „გამორთვას“.</string>
+    <string name="benefit_desc_1">თვალის ერთი გადავლებით ნახეთ ენერგიის დონე და სხვა რამ, თქვენს მაჯის საათთან, სამაჯურთან ან ყურსასმენებთან დაკავშირებით.</string>
+    <string name="benefit_desc_2">დეტალური პარამეტრებით მართეთ თქვენი მაჯის საათი, სამაჯური ან ყურსასმენები.</string>
+    <string name="benefit_desc_3">მარტივად შეარჩიოთ თქვენი მაჯის საათის იერი და განწყობა.</string>
+    <string name="benefit_title_1">დაკავშირება და სტატუსის შემოწმება</string>
+    <string name="benefit_title_2">დამატებით ფუნქციებზე წვდომა</string>
+    <string name="benefit_title_3">საათის ციფერბლატების შეცვლა და მორგება</string>
+    <string name="bg_update_after_os_up_fail">განახლება ვერ დაინსტალირდა.</string>
+    <string name="bg_update_after_os_up_noti_desc">შეეხეთ აქ, რომ დააინსტალიროთ იგი. სატარებელ მოწყობილობასთან კავშირი შეიძლება შეწყდეს განახლების დროს.</string>
+    <string name="bg_update_after_os_up_success">პროგრამა წარმატებით განახლდა.</string>
+    <string name="btn_next">შემდეგ</string>
+    <string name="build_number">ჩაშენების რაოდენობა</string>
+    <string name="button_text_bluetooth_turn_on">ჩართვა</string>
+    <string name="button_text_close">დახურვა</string>
+    <string name="button_text_continue">გაგრძელება</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="cant_attach_more_files">%d-ზე მეტი ფაილის მიბმა შეუძლებელია.</string>
+    <string name="capture_screen">ეკრანის გადაღება</string>
+    <string name="character_counter_content_description">%1$d სიმბოლო %2$d-დან</string>
+    <string name="check_for_update">არ არის მხარდაჭერილი თქვენი ტელეფონის პროგრამული უზრუნველყოფის მიმდინარე ვერსიისთვის. შეამოწმეთ განახლება და შემდეგ ისევ სცადეთ.</string>
+    <string name="compose">შექმნა</string>
+    <string name="confirm">დადასტურება</string>
+    <string name="connect_popup_content">დაკავშირება</string>
+    <string name="connected">დაკავშირებულია</string>
+    <string name="contact_us_ask">კითხვების დასმა</string>
+    <string name="contact_us_chn_read_and_agree">გაეცანით და დაეთანხმეთ შემდეგს:</string>
+    <string name="contact_us_error">შეცდომის ტექსტები</string>
+    <string name="contact_us_faq">ხშირად დასმული კითხვები</string>
+    <string name="contact_us_feedback">გამოხმაურებების სია</string>
+    <string name="contact_us_select_device_guide">აირჩიეთ პრობლემური მოწყობილობა ან მოწყობილობები. ეს დაგვეხმარება თქვენი პრობლემის უფრო სწრაფად მოგვარებაში.</string>
+    <string name="custom_binary_error_dialog_title">ტელეფონის ოპერაციული სისტემის მოდიფიცირება მოხდა არაავტორიზებული გზით და ის არ არის თავსებადი Samsung Gear აპლიკაციასთან. შეამოწმეთ ოპერაციული სისტემა და ისევ სცადეთ.</string>
+    <string name="delete">წაშლა</string>
+    <string name="dialog_popup_button_later">მოგვიანებით</string>
+    <string name="dialog_popup_button_update">განახლება</string>
+    <string name="discovery_guide_description">მოწყობილობა შეიძლება არ გამოჩნდეს, თუ ის დაკავშირებულია სხვა ტელეფონთან. იმოქმედეთ შემდეგნაირად:</string>
+    <string name="discovery_guide_description_link">მოწყობილობა შეიძლება არ გამოჩნდეს, თუ ის დაკავშირებულია სხვა ტელეფონთან. %1$sმიიღეთ დახმარება%2$s.</string>
+    <string name="do_not_show_again">აღარ მაჩვენო</string>
+    <string name="done">მზადაა</string>
+    <string name="download_error_chian_sa_not_signed">ჯერ შედით Samsung account-ზე.</string>
+    <string name="download_error_china_sim_mismatch">SIM ბარათის ქვეყანა არ შეესაბამება თქვენი Samsung account-ის ქვეყანას.</string>
+    <string name="download_error_china_title">მაჯის საათი ვერ დაყენდა</string>
+    <string name="download_error_eos_description">"ძვირფასო %1$s მომხმარებლებო,
+
+მომსახურების ოპერაციის პოლიტიკის თანახმად, %2$s თავსებადობის მხარდაჭერა აღარ იქნება მის მობილურ ტელეფონებში, რომელიც გამოვა 2021 წელს.
+ეს გადაწყვეტილება მიღებულია მსჯელობის საფუძველზე, რომ არსებული მომსახურების ხარისხის შენარჩუნება შუძლებელია მხოლოდ აპლიკაციის განახლების საშუალებით. გთხოვთ, გაითვალისწინოთ აღნიშნული მომავალში მობილური ტელეფონის შეცვლის დროს.
+დამატებითი კითხვების შემთხვევაში, დაუკავშირდით სატელეფონო ცენტრს (%3$shttp://samsung.com/support%4$s), Samsung Members ან მისამართზე %5$shttp://help.content.samsung.com%6$s და დაგეხმარებით საფუძვლიანად გარკვევაში.
+"</string>
+    <string name="download_install_app_restart_description">Galaxy Wearable დაიხურება, რომ გამოყენებული იყოს განახლება. ხელახლა გახსენით განახლების დასრულების შემდეგ.</string>
+    <string name="download_install_main_description_band">ტელეფონი ამ პროგრამას გამოიყენებს სამაჯურთან დასაკავშირებლად.</string>
+    <string name="download_install_main_description_earbud">ტელეფონი ამ პროგრამას გამოიყენებს ყურსასმენებთან დასაკავშირებლად.</string>
+    <string name="download_install_main_description_watch">ტელეფონი ამ პროგრამას გამოიყენებს მაჯის საათთან დასაკავშირებლად.</string>
+    <string name="download_install_main_title">იტვირთება პროგრამული უზრუნველყოფა…</string>
+    <string name="dragndroplist_drag_move">ახლა მისი პოზიციაა %d</string>
+    <string name="dragndroplist_drag_release">ელემენტი გადასულია პოზიცია %d-ში.</string>
+    <string name="dragndroplist_drag_start">დაწყებულია ელემენტის გადატანა პოზიცია %d-ში.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">პოზიცია %d-ში მყოფი ელემენტის გადატანა შეუძლებელია.</string>
+    <string name="earbuds">ყურსასმენი</string>
+    <string name="earbuds_guide">დასაკავშირებლად გაიკეთეთ ყურსასმენები და 3 წამით შეეხეთ ორივე ყურსასმენს, სანამ არ გაიგონებთ წრიპინს.</string>
+    <string name="earbuds_guide_additional">%s რომ დააკავშიროთ, ჩადეთ ყურსასმენები ქეისში, შემდეგ კი 3 წამით შეეხეთ ორივე ყურსასმენს, სანამ არ აციმციმდება წითელი და მწვანე შუქი.</string>
+    <string name="error_while_sending">მოხდა სერვერის შეცდომა.</string>
+    <string name="feedback">გამოხმაურება</string>
+    <string name="file_already_attached">ფაილს ვერ მიამაგრებთ. ფაილი უკვე მიმაგრებულია.</string>
+    <string name="frequency">სიხშირე</string>
+    <string name="frequency_not_selected">შეცდომის მოხსენება ვერ გაიგზავნა. აირჩიეთ პრობლემის სიხშირე და ისევ სცადეთ.</string>
+    <string name="gear_not_presesnt">ჩემი არ არის აქ</string>
+    <string name="hint_text">"გამოიჩინეთ ყურადღება და დაურთეთ მნიშვნელოვანი დეტალები, რომ თქვენი კონსულტაცია სასარგებლო იყოს.
+
+არ შეიყვანოთ თქვენი პერსონალური ინფორმაცია.
+
+დარწმუნდით, რომ არჩეულია სისტემის ჟურნალის მონაცემთა გაგზავნის ვარიანტი.
+
+შეგიძლიათ დაურთოთ ვიდეო ან ეკრანის ანაბეჭდი, რომ გაამარტივოთ პრობლემის გაგება."</string>
+    <string name="install_from_play_store_device_type_band">საჭიროა პროგრამული დანამატი, რომ Galaxy Wearable აპლიკაციით მართოთ სამაჯური.</string>
+    <string name="install_from_play_store_device_type_earbuds">საჭიროა პროგრამული დანამატი, რომ Galaxy Wearable აპლიკაციით მართოთ ყურსასმენები.</string>
+    <string name="install_from_play_store_device_type_watch">საჭიროა პროგრამული დანამატი, რომ Galaxy Wearable აპლიკაციით მართოთ მაჯის საათი.</string>
+    <string name="installed">დაინსტალირდა.</string>
+    <string name="just_this_time">მხოლოდ ამჯერად</string>
+    <string name="loading">იტვირთება…</string>
+    <string name="manage_devices_delete_btn_text">წაშლა</string>
+    <string name="manage_devices_delete_btn_text_remove_all">ყველაფრის წაშლა</string>
+    <string name="manage_devices_deleteing">იშლება…</string>
+    <string name="manage_devices_desc_text1">აირჩიეთ ტელეფონში წასაშლელი მოწყობილობები.</string>
+    <string name="manage_devices_desc_text2">თავიდან უნდა დააყენოთ წაშლილი სამაჯურები ან მაჯის საათები, სანამ ხელახლა შეძლებთ მათ დაკავშირებას ტელეფონთან.</string>
+    <string name="manage_devices_title_text">აირჩიეთ მოწყობილობები</string>
+    <string name="manage_devices_title_text_select">არჩეულია %d</string>
+    <string name="max_record_time">მიღწეულია ჩანაწერის მაქსიმალური ხანგრძლივობა - %d წამი. შეინახეთ ჩანაწერი და დაამატეთ ის დანართს.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear-თან კავშირი შეწყდა.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">%s ვერ გაიხსნება ენერგიის მაქსიმალური დაზოგვის რეჟიმში.</string>
+    <string name="maximum_power_saving_mode_dialog_title">პროგრამა ვერ იხსნება</string>
+    <string name="mb">%s მბ</string>
+    <string name="model_number">მოდელის ნომერი</string>
+    <string name="network_problem_message">შეამოწმეთ ქსელთან კავშირი და ისევ სცადეთ.</string>
+    <string name="no_device_nearby">მოწყობილობა ვერ მოიძებნა</string>
+    <string name="no_feedback">გამოხმაურება არ არის</string>
+    <string name="no_gear_description1">დარწმუნდით, რომ მოწყობილობა, რომლის დამატებაც გსურთ, ჩართულია.</string>
+    <string name="no_gear_title">ახალი მოწყობილობის დაკავშირება</string>
+    <string name="no_internet_access">ინტერნეტზე წვდომა არ არის</string>
+    <string name="no_text_entered">გამოხმაურების გაგზავნა შეუძლებელია. ტექსტი არ არის შეყვანილი.</string>
+    <string name="none_paired">მოწყობილობები არ არის დაწყვილებული.</string>
+    <string name="not_enough_space_message">%s-ის გამოყენება შეუძლებელია. წაშალეთ ზოგიერთი ფაილი, ან გააუქმეთ აპლიკაციების ინსტალაცია და შემდეგ ისევ სცადეთ.</string>
+    <string name="not_enough_space_title">არ არის საკმარისი ადგილი</string>
+    <string name="not_now">სხვა დროს</string>
+    <string name="not_supportable_dialog_description">ამ მაჯის საათის მხარდაჭერა არ არის ამ ტელეფონში.</string>
+    <string name="not_supportable_dialog_title">%s ვერ წყვილდება</string>
+    <string name="not_supported">%s არ არის მხარდაჭერილი</string>
+    <string name="not_supported_device_or_version">Android-ის თქვენი ვერსიის მხარდაჭერა არ არის. შეამოწმეთ ამ ტელეფონის პროგრამული უზრუნველყოფის განახლება და ისევ სცადეთ.</string>
+    <string name="notification_channel_backup_and_restore">დამარქაფება და აღდგენა</string>
+    <string name="ok">კი</string>
+    <string name="pairing_check_pin_number_band">იხილეთ ნომერი სამაჯურში</string>
+    <string name="pairing_check_pin_number_earbud">უკავშირდება ყურსასმენებს…</string>
+    <string name="pairing_check_pin_number_watch">იხილეთ ნომერი მაჯის საათში</string>
+    <string name="pairing_finish_band">სამაჯური დაწყვილებულია</string>
+    <string name="pairing_finish_watch">მაჯის საათი დაწყვილებულია</string>
+    <string name="percentage">%d%%</string>
+    <string name="permission_dialog_body_1">"შემდეგი ნებართვები საჭიროა აპლიკაციის სერვისისთვის.
+
+საჭირო ნებართვები"</string>
+    <string name="permission_dialog_body_2">ლოკაცია: გამოიყენება ახლომდებარე სატარებელი მოწყობილობების Bluetooth-ით მოსაძებნად</string>
+    <string name="permission_dialog_body_3">საცავი: გამოიყენება შენახული ფაილების სატარებელ მოწყობილობებთან გასაგზავნად და მათგან მისაღებად</string>
+    <string name="permission_dialog_body_4">ტელეფონი: გამოიყენება მოწყობილობის უნიკალური საიდენტიფიკაციო ინფორმაციის შესამოწმებლად, აპლიკაციის განახლებისთვის და აპლიკაციის დანამატების დასაინსტალირებლად</string>
+    <string name="permission_dialog_body_5">კონტაქტები: გამოიყენება ისეთი სერვისების უზრუნველსაყოფად, რომლებიც ანგარიშებს უნდა მიებას რეგისტრირებული Samsung account-ის ინფორმაციის გამოყენებით</string>
+    <string name="permission_dialog_title">აპლიკაციის ნებართვები</string>
+    <string name="permission_guide_location_description">Galaxy Wearable იყენებს ლოკაციის ნებართვას, რომ ახლომდებარე მოწყობილობების მოსაძებნად გამოიყენოს Bluetooth.</string>
+    <string name="permission_guide_phone_description">გამოიყენება მოწყობილობის ამოსაცნობად, მათში აპლიკაციის განახლებისთვის და დანამატების დასაინსტალირებლად.</string>
+    <string name="permission_guide_precise_location_description">Galaxy Wearable რომ გამოიყენოთ, უნდა მისცეთ წვდომა ამ ტელეფონის ზუსტ ლოკაციაზე.</string>
+    <string name="permission_intro_title_one">%s იყენებს ამ ნებართვას</string>
+    <string name="permission_intro_title_others">%s იყენებს ამ ნებართვებს</string>
+    <string name="permission_link_description">იხილეთ %1$sGalaxy Wearable-ს ნებართვები%2$s და როგორ გამოიყენება ისინი.</string>
+    <string name="permission_location">ლოკაცია</string>
+    <string name="permission_phone">ტელეფონი</string>
+    <string name="permission_settings_dialog_message">%s-ს ვერ გამოიყენებთ. შეეხეთ „პარამეტრებს“, შემდეგ კი დართეთ შემდეგი ნებართვები და ისევ სცადეთ:</string>
+    <string name="permissions">ნებართვები</string>
+    <string name="permissions_content_title">ნებართვები %s-თვის</string>
+    <string name="permissions_detail_required_title">%s-ს სჭირდება ეს ნებართვები:</string>
+    <string name="permissions_nearby_desc">გამოიყენება ახლომდებარე მოწყობილობების მოსაძებნად.</string>
+    <string name="permissions_nearby_title">ახლომდებარე მოწყობილობები</string>
+    <string name="phone_info">ტელეფონის ინფორმაცია</string>
+    <string name="pick_gear">აიღეთ მოწყობილობა</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth გამორთულია. შეეხეთ „ჩართვა“-ს, რომ ჩართოთ.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth-ის ჩართვა</string>
+    <string name="privacypolicy_learn_more">შეიტყვეთ მეტი</string>
+    <string name="promotion_main_description">დააკავშირეთ თქვენი Galaxy მაჯის საათი, სამაჯური ან ყურსასმენები.</string>
+    <string name="promotion_start_pairing">დასაწყისი</string>
+    <string name="qa_store_dialog_password">პაროლი</string>
+    <string name="rate_response">შეაფასეთ პასუხი</string>
+    <string name="rating1">არ არის სასარგებლო</string>
+    <string name="rating2">არც თუ ისე სასარგებლო</string>
+    <string name="rating3">გარკვეულწილად სასარგებლო</string>
+    <string name="rating4">სასარგებლო</string>
+    <string name="rating5">ძალიან სასარგებლო</string>
+    <string name="reboot">გადატვ.</string>
+    <string name="reboot_phone_message">Samsung აქსესუარების სერვისი განახლდა. გადატვირთეთ ტელეფონი, რომ დაუკავშირდეს თქვენს Gear-ს.</string>
+    <string name="record_screen">ჩაწერის ეკრანი</string>
+    <string name="reset_your_watch_body">მაჯის საათი ახალ ტელეფონთან რომ დააწყვილოთ, ჯერ მაჯის საათის საწყისი პარამეტრები უნდა დააბრუნოთ, შემდეგ კი გახსნათ Galaxy Wearable და დააკავშიროთ.</string>
+    <string name="reset_your_watch_then_try_again">ახალ ტელეფონთან რომ დააკავშიროთ, ჯერ უნდა დააბრუნოთ მაჯის საათის საწყისი პარამეტრები, რაც ყველა მონაცემის წაშლას გამოიწვევს.</string>
+    <string name="reset_your_watch_title">დააკავშირებთ მაჯის საათს ახალ ტელეფონთან?</string>
+    <string name="retry">ისევ ცდა</string>
+    <string name="scan_for_wearable_devices">იძებნება დასამატებელი მოწყობილობები…</string>
+    <string name="search_scan_again">ხელახალი ძებნა</string>
+    <string name="select_device">მოწყობილობის შერჩევა</string>
+    <string name="send">გაგზავნა</string>
+    <string name="send_system_log_data">სისტემის ჟურნალის მონაცემთა გაგზავნა</string>
+    <string name="send_system_log_data_popup">გაგზავნით სისტემის ჟურნალის მონაცემებს?</string>
+    <string name="send_system_log_data_subtext">გამოგვიგზავნეთ სისტემის ჟურნალი, რომ დაგვეხმაროთ თქვენი საკითხების მოგვარებაში.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">ნავიგაცია ზემოთ</string>
+    <string name="sesl_action_menu_overflow_badge_description">გამოვიდა ახალი მასალა</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">ა</string>
+    <string name="sesl_action_menu_overflow_description">სხვა ოფციები</string>
+    <string name="sesl_index_assistant_text">გადასახვევად გადაუსვით ორი თითი ზემოთ ან ქვემოთ.</string>
+    <string name="sesl_index_scrollbar">გადასახვევი ზოლი</string>
+    <string name="sesl_index_section">სექციის ინდექსი</string>
+    <string name="sesl_index_selected">არჩეულია</string>
+    <string name="sesl_material_badge_description">გამოვიდა ახალი მასალა</string>
+    <string name="sesl_material_overflow_badge_text_n">ა</string>
+    <string name="sesl_more_item_label">სხვა</string>
+    <string name="sesl_preferencecategory_added_title">თავსართი</string>
+    <string name="sesl_search_hint">ძებნა</string>
+    <string name="sesl_searchview_description_clear">საძიებო ველის გასუფთავება</string>
+    <string name="sesl_searchview_description_query">საძიებო ფრაზა</string>
+    <string name="sesl_searchview_description_search">ძებნა</string>
+    <string name="sesl_searchview_description_submit">მოთხოვნის გაგზავნა</string>
+    <string name="sesl_searchview_description_voice">ძებნა ხმით</string>
+    <string name="sesl_switch_off">გამორთული</string>
+    <string name="sesl_switch_on">ჩართული</string>
+    <string name="sesl_switchbar_off_text">გამორთ.</string>
+    <string name="sesl_switchbar_on_text">ჩართ.</string>
+    <string name="sesl_toolbar_collapse_description">აკეცვა</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="size_limit_exceeds">%s-ზე მეტი ფაილის მიბმა შეუძლებელია. წაშალეთ ზოგიერთი ფაილი და ისევ სცადეთ.</string>
+    <string name="software_update_text">პროგრამის განახლება</string>
+    <string name="something_went_wrong">რაღაც პრობლემაა. ისევ სცადეთ.</string>
+    <string name="sometimes">ზოგჯერ</string>
+    <string name="support_has_ended">%s-ის მხარდაჭერა დასრულდა.</string>
+    <string name="sysytemlogpopupdec">"სისტემის ჟურნალი ანალიზისთვის გაიგზავნება კორპორაციაში Samsung Electronics Co., Ltd. შესაძლოა, სისტემის ჟურნალი შეიცავდეს ინფორმაციას ტელეფონში დაინსტალირებული მესამე მხარის აპლიკაციებიდან. სისტემის ჟურნალის მონაცემების გამოყენება მოხდება მხოლოდ პრობლემის გასაანალიზებლად და აპლიკაციის გასაუმჯობესებლად, შემდეგ კი წაიშლება ანალიზის დასრულებისთანავე. სისტემის ჟურნალის გაგზავნა მობილური მონაცემებით გამოიწვევს მონაცემთა გამოყენების %s-მდე მნიშვნელობით გაზრდას და, ამის გამო, შეიძლება დაგერიცხოთ დამატებითი გადასახადები. შეგიძლიათ სანაცვლოდ გამოიყენოთ Wi-Fi.
+
+დაელოდეთ სანამ მიმაგრდება სისტემის ჟურნალი, რომელშიც მოცემულია პრობლემის დეტალები."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">პერსონალური მონაცემების გადაცემა საზღვარგარეთ</string>
+    <string name="turn_on_location_desc">შეხეთ პარამეტრებს და ჩართეთ ლოკაცია, რომ დაუკავშირდეთ მაჯის საათს და დაასინქრონოთ მონაცემები.</string>
+    <string name="turn_on_location_title">ლოკაციის ჩართვა</string>
+    <string name="txt_device">მოწყობილობა</string>
+    <string name="txt_devices">მოწყობილობები</string>
+    <string name="uhm_install_plugin_from_play_store">დააინსტალირეთ %s</string>
+    <string name="uhm_update_cancel_popup_button_ok">აპლიკაციის დახურვა</string>
+    <string name="uhm_update_cancel_popup_desc">თუ ახლა არ განაახლებთ, Galaxy Wearable აპლიკაციის გამოყენებას ვერ განაგრძობთ.</string>
+    <string name="uhm_update_cancel_popup_title">დაიხუროს Galaxy Wearable აპლიკაცია?</string>
+    <string name="uhm_update_download_progress">ჩამოტვირთვა…</string>
+    <string name="uhm_update_exist_notification_subtitle">გამოვიდა ახალი ვერსია.</string>
+    <string name="uhm_update_install_disconnect_device">წყდება კავშირი %s-სთან…</string>
+    <string name="uhm_update_install_progress">ინსტალირდება…</string>
+    <string name="uhm_update_is_available">%s ხელმისაწვდომია.</string>
+    <string name="uhm_update_new_version">ახალი ვერსია</string>
+    <string name="uhm_update_notice">შენიშვნა</string>
+    <string name="uhm_whats_new_popup_title">სიახლეები</string>
+    <string name="unable_to_enable">ფუნქცია ვერ გააქტიურდება</string>
+    <string name="unable_to_install_message">ვერ დააინსტალირებთ. მოულოდნელი შეცდომა.</string>
+    <string name="update_gms_dialog_description">მაჯის საათი რომ დააყენოთ, ჯერ უნდა განაახლოთ Google Play სერვისები, შემდეგ კი ხელახლა დაიწყოთ დაყენება.</string>
+    <string name="update_gms_dialog_title">განახლდეს Google Play სერვისები?</string>
+    <string name="use_network_connection_dialog_body">%s-ს ჰქონდეს ქსელთან დაკავშირების ნებართვა?</string>
+    <string name="use_network_connection_dialog_title">ქსელური კავშირების გამოყენება</string>
+    <string name="watch">მაჯის საათი</string>
+    <string name="watch_guide">აპლიკაციების ეკრანზე შეხებით აირჩიეთ პარამეტრები > ახალ ტელეფონთან დაკავშირება.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">დააკავშირეთ Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">დაგვიკავშირდით</string>
+</resources>

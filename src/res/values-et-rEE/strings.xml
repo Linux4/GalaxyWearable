@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Lubab rakendusel edastada Bluetooth-ühenduse kaudu teie andmeid, kasutades lisatarviku raamistikku.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Andmete edastamine raamistiku kaudu</string>
+    <string name="access_connected_device_status">Juurdepääs seadme ühen. olekule</string>
+    <string name="access_connected_device_status_description">Sellel rakendusel on juurdepääs kantava seadme ühenduse olekule.</string>
+    <string name="after_post_they_appear">Teie saadetud tagasiside kuvatakse siin.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">See lopetab teie uhenduse seadmega %s.</string>
+    <string name="all">Kõik</string>
+    <string name="always">Alati</string>
+    <string name="android_version">Androidi versioon</string>
+    <string name="answered">Vastatud</string>
+    <string name="app_details">Lisarakendused</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">Küsi uuesti</string>
+    <string name="ask_again_for_additional_questions">Toksake suvandit KÜSI UUESTI, et küsida juba postitatud küsimustega seotud lisaküsimusi.</string>
+    <string name="attach">Manus</string>
+    <string name="attachments">Manused</string>
+    <string name="band">Käevõru</string>
+    <string name="band_guide">Katkestage ühendus oma käevõru ja eelmise telefoni vahel. Toksake eelmise telefoni rakenduses Galaxy Wearable sahtli menüüd, seejärel toksake valikut Katkesta ühendus.</string>
+    <string name="benefit_desc_1">Vaadake kiirelt oma ühendatud kella, käevõru või kõrvaklappide aku taset ja muud.</string>
+    <string name="benefit_desc_2">Juhtige oma kella, käevõru või kõrvaklappe üksikasjalike seadistustega.</string>
+    <string name="benefit_desc_3">Kohandage hõlpsalt kella välimust ja tunnetust.</string>
+    <string name="benefit_title_1">Ühendamine ja oleku kontrollimine</string>
+    <string name="benefit_title_2">Juurdepääs täpsematele funktsioonidele</string>
+    <string name="benefit_title_3">Sihverplaatide muutmine ja kohandamine</string>
+    <string name="bg_update_after_os_up_fail">Värskenduste installimine nurjus.</string>
+    <string name="bg_update_after_os_up_noti_desc">Toksake siia, et see installida. Teie kantavad seadmed võivad värskendamise ajal ühenduse katkestada.</string>
+    <string name="bg_update_after_os_up_success">Tarkvara on edukalt värskendatud.</string>
+    <string name="btn_next">Järgmine</string>
+    <string name="build_number">Järgu number</string>
+    <string name="button_text_bluetooth_turn_on">Lülita sisse</string>
+    <string name="button_text_close">Sulge</string>
+    <string name="button_text_continue">Jätka</string>
+    <string name="cancel">Tühista</string>
+    <string name="cant_attach_more_files">Ei saa lisada üle %d faili.</string>
+    <string name="capture_screen">Jäädvusta ekraan</string>
+    <string name="character_counter_content_description">%1$d tähemärki koguhulgast %2$d</string>
+    <string name="check_for_update">Teie telefoni tarkvara praegune versioon ei toeta seda. Kontrollige värskendust, seejärel proovige uuesti.</string>
+    <string name="compose">Koosta</string>
+    <string name="confirm">Kinnita</string>
+    <string name="connect_popup_content">Ühendamine</string>
+    <string name="connected">Ühendatud</string>
+    <string name="contact_us_ask">Esita küsimusi</string>
+    <string name="contact_us_chn_read_and_agree">Lugege järgnev läbi ja nõustuge sellega:</string>
+    <string name="contact_us_error">Veateated</string>
+    <string name="contact_us_faq">KKK</string>
+    <string name="contact_us_feedback">Tagasiside loend</string>
+    <string name="contact_us_select_device_guide">Valige seade või seadmed, millega teil on probleeme. See aitab meil teie probleemi kiiremini lahendada.</string>
+    <string name="custom_binary_error_dialog_title">Teie telefoni operatsioonisüsteemi on muudetud volitamata viisil ja ei see ühildu rakendusega Samsung Gear. Kontrollige oma operatsioonisüsteemi ja proovige uuesti.</string>
+    <string name="delete">Kustuta</string>
+    <string name="dialog_popup_button_later">Hiljem</string>
+    <string name="dialog_popup_button_update">Värskenda</string>
+    <string name="discovery_guide_description">Teie seadet ei pruugita kuvada, kui see on ühendatud mõne teise telefoniga. Tehke järgmist:</string>
+    <string name="discovery_guide_description_link">Teie seadet ei pruugita kuvada, kui see on ühendatud mõne teise telefoniga. %1$sAbi hankimine%2$s.</string>
+    <string name="do_not_show_again">Ära enam kuva</string>
+    <string name="done">Valmis</string>
+    <string name="download_error_chian_sa_not_signed">Logige esmalt sisse oma Samsung Accounti.</string>
+    <string name="download_error_china_sim_mismatch">Teie SIM-kaardi riik ei ühildu teie Samsung Accounti riigiga.</string>
+    <string name="download_error_china_title">Teie kella seadistamine nurjus</string>
+    <string name="download_error_eos_description">"Head %1$s kliendid,
+
+Vastavalt teenuste osutamise poliitikale ei toeta %2$s pärast 2021. aastat välja tulevat koostööd oma mobiiltelefonidega.
+See otsus lähtub hinnangust, et olemasolevat teenuse kvaliteeti pole võimalik säilitada üksnes rakenduste värskenduste kaudu. Tulevikus mobiiltelefoni vahetades pidage seda silmas.
+Kui teil on täiendavaid küsimusi, võtke ühendust meie kõnekeskusega (%3$shttp://samsung.com/support%4$s), Samsung Membersiga või %5$shttp://help.content.samsung.com%6$s ja me lahendame need.
+"</string>
+    <string name="download_install_app_restart_description">Galaxy Wearable sulgub värskenduse rakendamiseks. Avage see uuesti pärast värskendamist.</string>
+    <string name="download_install_main_description_band">Telefon kasutab seda tarkvara, et luua ühendus teie käevõruga.</string>
+    <string name="download_install_main_description_earbud">Telefon kasutab seda tarkvara, et luua ühendus teie kõrvaklappidega.</string>
+    <string name="download_install_main_description_watch">Telefon kasutab seda tarkvara, et luua ühendus teie kellaga.</string>
+    <string name="download_install_main_title">Tarkvara allalaadimine…</string>
+    <string name="dragndroplist_drag_move">Nüüd kohas %d</string>
+    <string name="dragndroplist_drag_release">Üksus on lohistatud asukohta %d.</string>
+    <string name="dragndroplist_drag_start">Alustati üksuse lohistamist asukohas %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Üksust asukohas %d ei saa lohistada.</string>
+    <string name="earbuds">Kõrvaklapid</string>
+    <string name="earbuds_guide">Ühenduse loomiseks pange kõrvaklapid kõrva, seejärel puudutage ja hoidke kõrvaklappe 3 sekundit, kuni kuulete piiksu.</string>
+    <string name="earbuds_guide_additional">Seadme %s ühendamiseks asetage kõrvaklapid karpi ning puudutage seejärel mõlemat kõrvaklappi kolm sekundit, kuni tuli hakkab punaselt ja roheliselt vilkuma.</string>
+    <string name="error_while_sending">Ilmnes serveritõrge.</string>
+    <string name="feedback">Tagasiside</string>
+    <string name="file_already_attached">Faili ei saa manustada. Fail on juba manustatud.</string>
+    <string name="frequency">Sagedus</string>
+    <string name="frequency_not_selected">Veateatise saatmine nurjus. Valige probleemi sagedus ja proovige uuesti.</string>
+    <string name="gear_not_presesnt">Minu oma pole siin</string>
+    <string name="hint_text">"Olge taktitundeline ja lisage olulisi üksikasju, et teie konsultatsioon oleks kasulik.
+
+Ärge sisestage isiklikke andmeid.
+
+Veenduge, et valik Saada süsteemilogi andmed oleks valitud.
+
+Saate lisada video või ekraanipildi, et probleemi oleks lihtsam mõista."</string>
+    <string name="install_from_play_store_device_type_band">Vajate lisandmoodulit, et juhtida oma käevõru rakendusega Galaxy Wearable.</string>
+    <string name="install_from_play_store_device_type_earbuds">Vajate lisandmoodulit, et juhtida oma kõrvaklappe rakendusega Galaxy Wearable.</string>
+    <string name="install_from_play_store_device_type_watch">Vajate lisandmoodulit, et juhtida oma kella rakendusega Galaxy Wearable.</string>
+    <string name="installed">Installitud.</string>
+    <string name="just_this_time">Ainult see kord</string>
+    <string name="loading">Laadimine…</string>
+    <string name="manage_devices_delete_btn_text">Eemaldamine</string>
+    <string name="manage_devices_delete_btn_text_remove_all">Eemalda kõik</string>
+    <string name="manage_devices_deleteing">Eemaldamine…</string>
+    <string name="manage_devices_desc_text1">Valige seadmed, mida eemaldada oma telefonist.</string>
+    <string name="manage_devices_desc_text2">Kõik eemaldatud käevõrud või kellad tuleb enne nende uuesti telefoniga ühendamist lähtestada.</string>
+    <string name="manage_devices_title_text">Seadmete valimine</string>
+    <string name="manage_devices_title_text_select">%d on valitud</string>
+    <string name="max_record_time">Saavutati maksimaalne salvestusaeg %d sekundit. Salvestage salvestis ja lisage see manusena.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear on lahti ühendatud.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Rakendust %s ei saa avada maksimaalses energiasäästurežiimis.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Rakendust ei saa avada</string>
+    <string name="mb">%s MB</string>
+    <string name="model_number">Mudeli number</string>
+    <string name="network_problem_message">Kontrollige oma võrguühendust ja seejärel proovige uuesti.</string>
+    <string name="no_device_nearby">Ühtegi seadet ei leitud</string>
+    <string name="no_feedback">Tagasisidet pole</string>
+    <string name="no_gear_description1">Veenduge, et seade, millega soovite lisada, oleks sisse lülitatud.</string>
+    <string name="no_gear_title">Uue seadme ühendamine</string>
+    <string name="no_internet_access">Juurdepääs internetile puudub</string>
+    <string name="no_text_entered">Tagasisidet ei saa saata. Teksti pole sisestatud.</string>
+    <string name="none_paired">Uhtegi seadet pole seotud.</string>
+    <string name="not_enough_space_message">%s ei ole kasutatav. Kustutage mõned failid või desinstallige mõned rakendused, seejärel proovige uuesti.</string>
+    <string name="not_enough_space_title">Pole piisavalt ruumi</string>
+    <string name="not_now">Hiljem</string>
+    <string name="not_supportable_dialog_description">See telefon ei toeta seda kella.</string>
+    <string name="not_supportable_dialog_title">Ei saa siduda kellaga %s</string>
+    <string name="not_supported">%s ei ole toetatud</string>
+    <string name="not_supported_device_or_version">Teie Androidi versioon ei ühildu. Kontrollige, kas teie telefonile on tarkvaravärskendusi, ja proovige uuesti.</string>
+    <string name="notification_channel_backup_and_restore">Varunda ja taasta</string>
+    <string name="ok">OK</string>
+    <string name="pairing_check_pin_number_band">Kontrollige numbrit oma käevõrul</string>
+    <string name="pairing_check_pin_number_earbud">Teie kõrvaklappide ühendamine…</string>
+    <string name="pairing_check_pin_number_watch">Kontrollige numbrit oma kellal</string>
+    <string name="pairing_finish_band">Teie käevõru on seotud</string>
+    <string name="pairing_finish_watch">Kell on seotud</string>
+    <string name="percentage">%d%%</string>
+    <string name="permission_dialog_body_1">"Rakenduse teenuse jaoks läheb tarvis järgmiseid lubasid.
+
+Nõutud load"</string>
+    <string name="permission_dialog_body_2">Asukoht: kasutatakse, et otsida lähedalasuvaid kantavaid seadmeid Bluetoothi abil</string>
+    <string name="permission_dialog_body_3">Mälu: kasutatakse, et kantavate seadmetega edastada ja võtta vastu salvestatud faile</string>
+    <string name="permission_dialog_body_4">Telefon: kasutatakse, et kontrollida seadme ainulaadset tuvastusteavet rakenduste värskendamiseks ja lisamoodul-rakenduste installimiseks</string>
+    <string name="permission_dialog_body_5">Kontaktid: kasutatakse, et pakkuda teenuseid, mis on vaja ühendada kontodega, kasutades registreeritud Samsung Accounti teavet</string>
+    <string name="permission_dialog_title">Rakenduse load</string>
+    <string name="permission_guide_location_description">Galaxy Wearable kasutab asukoha luba, et kasutada Bluetoothi lähedalasuvate seadmete otsimiseks.</string>
+    <string name="permission_guide_phone_description">Kasutatakse, et tuvastada seadmeid rakenduste värskendamiseks ja lisandmoodulite installimiseks.</string>
+    <string name="permission_guide_precise_location_description">Galaxy Wearable’i kasutamiseks peate andma sellele loa kasutada telefoni täpset asukohta.</string>
+    <string name="permission_intro_title_one">%s kasutab seda luba</string>
+    <string name="permission_intro_title_others">%s kasutab neid lube</string>
+    <string name="permission_link_description">Vaadake %1$sGalaxy Wearable’i lube%2$s ja seda, kuidas neid kasutatakse.</string>
+    <string name="permission_location">Asukoht</string>
+    <string name="permission_phone">Telefon</string>
+    <string name="permission_settings_dialog_message">Rakendust %s ei saa kasutada. Toksake valikut SEADED, seejärel kinnitage järgnevad load ja proovige uuesti:</string>
+    <string name="permissions">Load</string>
+    <string name="permissions_content_title">Rakenduse %s load</string>
+    <string name="permissions_detail_required_title">%s vajab neid lube:</string>
+    <string name="permissions_nearby_desc">Kasutatakse läheduses olevate seadmete otsimiseks.</string>
+    <string name="permissions_nearby_title">Lähedalasuvad seadmed</string>
+    <string name="phone_info">Telefoni teave</string>
+    <string name="pick_gear">Oma seadme valimine</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth on välja lülitatud. Toksake sisselülitamiseks käsku Lülita sisse.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Lülita Bluetooth sisse</string>
+    <string name="privacypolicy_learn_more">Lisateave</string>
+    <string name="promotion_main_description">Ühendage oma Galaxy kell, käevõru või klapid.</string>
+    <string name="promotion_start_pairing">Käivita</string>
+    <string name="qa_store_dialog_password">Parool</string>
+    <string name="rate_response">Hinda vastust</string>
+    <string name="rating1">Pole kasulik</string>
+    <string name="rating2">Pole väga kasulik</string>
+    <string name="rating3">Mõnevõrra kasulik</string>
+    <string name="rating4">Kasulik</string>
+    <string name="rating5">Väga kasulik</string>
+    <string name="reboot">Taaskäiv.</string>
+    <string name="reboot_phone_message">Teenus Samsung Accessory Service on värskendatud. Geariga ühendamiseks taaskäivitage oma telefon.</string>
+    <string name="record_screen">Salvesta ekraan</string>
+    <string name="reset_your_watch_body">Kella ja uue telefoni sidumiseks lähtestage esmalt oma kell, seejärel avage Galaxy Wearable ja ühendage.</string>
+    <string name="reset_your_watch_then_try_again">Uue telefoniga ühendamise jaoks peate esmalt kella lähtestama; selle käigus kustuvad kõik andmed.</string>
+    <string name="reset_your_watch_title">Kas ühendada kell uue telefoniga?</string>
+    <string name="retry">Uuesti</string>
+    <string name="scan_for_wearable_devices">Lisatavate seadmete otsimine…</string>
+    <string name="search_scan_again">Otsi uuesti</string>
+    <string name="select_device">Vali seade</string>
+    <string name="send">Saada</string>
+    <string name="send_system_log_data">Saada süsteemilogi andmed</string>
+    <string name="send_system_log_data_popup">Kas saata süsteemilogi andmed?</string>
+    <string name="send_system_log_data_subtext">Saatke süsteemilogi, et aidata teie küsimusi lahendada.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">Sirvimisklahv üles</string>
+    <string name="sesl_action_menu_overflow_badge_description">Uus sisu on saadaval</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">U</string>
+    <string name="sesl_action_menu_overflow_description">Veel valikuid</string>
+    <string name="sesl_index_assistant_text">Libistage kerimiseks kahe sõrmega üles või alla.</string>
+    <string name="sesl_index_scrollbar">Kerimisriba</string>
+    <string name="sesl_index_section">Jaotise indeks</string>
+    <string name="sesl_index_selected">Valitud</string>
+    <string name="sesl_material_badge_description">Uus sisu on saadaval</string>
+    <string name="sesl_material_overflow_badge_text_n">U</string>
+    <string name="sesl_more_item_label">Veel</string>
+    <string name="sesl_preferencecategory_added_title">Päis</string>
+    <string name="sesl_search_hint">Otsi</string>
+    <string name="sesl_searchview_description_clear">Tühjenda otsinguväli</string>
+    <string name="sesl_searchview_description_query">Otsingupäring</string>
+    <string name="sesl_searchview_description_search">Otsi</string>
+    <string name="sesl_searchview_description_submit">Edasta päring</string>
+    <string name="sesl_searchview_description_voice">Häälotsing</string>
+    <string name="sesl_switch_off">Väljas</string>
+    <string name="sesl_switch_on">Sees</string>
+    <string name="sesl_switchbar_off_text">Väljas</string>
+    <string name="sesl_switchbar_on_text">Sees</string>
+    <string name="sesl_toolbar_collapse_description">Ahenda</string>
+    <string name="settings">Seaded</string>
+    <string name="size_limit_exceeds">Manusena ei saa lisada üle %s faili. Eemaldage mõned failid ja proovige uuesti.</string>
+    <string name="software_update_text">Tarkvaravärskendus</string>
+    <string name="something_went_wrong">Midagi läks valesti. Proovige uuesti.</string>
+    <string name="sometimes">Vahel</string>
+    <string name="support_has_ended">%s ei ole enam toetatud.</string>
+    <string name="sysytemlogpopupdec">"Teie süsteemilogi saadetakse analüüsimiseks ettevõttele Samsung Electronics Co., Ltd. Teie süsteemilogi võib sisaldada teavet teie telefoni installitud kolmanda osapoole rakendustest. Süsteemilogi andmeid kasutatakse ainult probleemi analüüsimiseks ja rakenduse parandamiseks, pärast analüüsimist need kustutatakse. Süsteemilogi saatmine mobiilse andmesidega suurendab teie andmekasutust kuni %s ja sellega võivad rakenduda lisatasud. Selle asemel võite kasutada Wi-Fi-võrku.
+
+Oodake, kuni süsteemilogi on manusena lisatud, ja kirjeldage alles seejärel oma probleemi üksikasju."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">Isikuandmete edastamine välismaale</string>
+    <string name="turn_on_location_desc">Toksake valikut seaded ja lülitage asukoht sisse, et luua ühendus oma kellaga ja sünkroonida andmed.</string>
+    <string name="turn_on_location_title">Asukoha sisselülitamine</string>
+    <string name="txt_device">Seade</string>
+    <string name="txt_devices">Seadmed</string>
+    <string name="uhm_install_plugin_from_play_store">Installige %s</string>
+    <string name="uhm_update_cancel_popup_button_ok">Sule rakendus</string>
+    <string name="uhm_update_cancel_popup_desc">Kui te ei värskenda kohe, ei saa te jätkata rakenduse Galaxy Wearable kasutamist.</string>
+    <string name="uhm_update_cancel_popup_title">Kas sulgeda rakendus Galaxy Wearable?</string>
+    <string name="uhm_update_download_progress">Allalaadimine…</string>
+    <string name="uhm_update_exist_notification_subtitle">Uus versioon on saadaval.</string>
+    <string name="uhm_update_install_disconnect_device">Ühenduse katkestamine seadmega %s…</string>
+    <string name="uhm_update_install_progress">Installimine…</string>
+    <string name="uhm_update_is_available">Saadaval on %s.</string>
+    <string name="uhm_update_new_version">uus versioon</string>
+    <string name="uhm_update_notice">Teavitus</string>
+    <string name="uhm_whats_new_popup_title">Mis on uut</string>
+    <string name="unable_to_enable">Funkt. ei saa aktiveerida</string>
+    <string name="unable_to_install_message">Ei saa installida. Ootamatu torge.</string>
+    <string name="update_gms_dialog_description">Kella seadistamiseks peate esmalt värskendama Google Play teenuseid ja seejärel alustama seadistamist uuesti.</string>
+    <string name="update_gms_dialog_title">Kas värskendada Google Play teenuseid?</string>
+    <string name="use_network_connection_dialog_body">Kas lubada rakendusel %s kasutada võrguühendusi?</string>
+    <string name="use_network_connection_dialog_title">Võrguühenduste kasutamine</string>
+    <string name="watch">Kell</string>
+    <string name="watch_guide">Avage rakenduste ekraan, toksake valikut Seaded > Uue telefoniga ühendamine.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Ühend. loom. Geariga</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Võtke meiega ühendust</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">Remove %d devices and associated apps that are no longer needed?</item>
+        <item quantity="zero">Remove %d devices and associated apps that are no longer needed?</item>
+        <item quantity="one">Remove %d device and associated apps that are no longer needed?</item>
+        <item quantity="two">Remove %d devices and associated apps that are no longer needed?</item>
+        <item quantity="few">Remove %d devices and associated apps that are no longer needed?</item>
+        <item quantity="many">Remove %d devices and associated apps that are no longer needed?</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">Remove %d items?</item>
+        <item quantity="zero">Remove %d items?</item>
+        <item quantity="one">Remove %d item?</item>
+        <item quantity="two">Remove %d items?</item>
+        <item quantity="few">Remove %d items?</item>
+        <item quantity="many">Remove %d items?</item>
+    </plurals>
+</resources>

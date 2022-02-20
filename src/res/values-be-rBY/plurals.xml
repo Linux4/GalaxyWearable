@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">Выдаліць %d прылад і звязаныя праграмы, якія больш не патрэбны?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выдаліць %d прылад і звязаныя праграмы, якія больш не патрэбны?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выдаліць %d прылады і звязаныя праграмы, якія больш не патрэбны?</item>
+        <item quantity="many">Выдаліць %d прылад і звязаныя праграмы, якія больш не патрэбны?</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">Выдаліць %d элементаў?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выдаліць %d элемент?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выдаліць %d элементы?</item>
+        <item quantity="many">Выдаліць %d элементаў?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">Видалити %d пристрою та всі непотрібні пов’язані програми?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Видалити %d пристрій та всі непотрібні пов’язані програми?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Видалити %d пристрої та всі непотрібні пов’язані програми?</item>
+        <item quantity="many">Видалити %d пристроїв та всі непотрібні пов’язані програми?</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">Видалити %d об’єкта?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Видалити %d об’єкт?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Видалити %d об’єкти?</item>
+        <item quantity="many">Видалити %d об’єктів?</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+</resources>

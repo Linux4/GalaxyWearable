@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Програмд нэмэлт хэрэгслийн хүрээ ашиглан Bluetooth-ээр өгөгдөл дамжуулахыг зөвшөөрнө.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Хүрээгээр өгөгдөл дамжуулах</string>
+    <string name="access_connected_device_status">Төх.мж-н холб-н төлөвт хандах</string>
+    <string name="access_connected_device_status_description">Энэ аппликэйшн өмсдөг төхөөрөмжийн холболтын төлөвт хандаж чадна.</string>
+    <string name="after_post_they_appear">Таны илгээх санал энд гарч ирнэ.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Энэ нь таны %s-тай холбогдсон холболтыг тасална</string>
+    <string name="all">Бүгд</string>
+    <string name="always">Үргэлж</string>
+    <string name="android_version">Android хувилбар</string>
+    <string name="answered">Хариулсан</string>
+    <string name="app_details">Нэмэлт хэрэглүүрүүд</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">Дахин асуу</string>
+    <string name="ask_again_for_additional_questions">ДАХИН АСУУХ дээр товшоод өмнөх нийтлэлтэй холбоотой нэмэлт асуултаа асууна уу.</string>
+    <string name="attach">Хавсарга</string>
+    <string name="attachments">Хавсралтууд</string>
+    <string name="band">Бугуйвч</string>
+    <string name="band_guide">Бугуйвчаа өмнөх утаснаас салгах. Өмнөх утсан дээрх Galaxy Wearable хэрэглүүр дотроос цэсийн шүүгээг товшиж дараа нь Салгахыг товшино уу.</string>
+    <string name="benefit_desc_1">Холбогдсон цаг, бугуйвч эсвэл чихэвчийнхээ зайн түвшин болон бусад зүйлийг нэг дороос харна уу.</string>
+    <string name="benefit_desc_2">Цаг, бугуйвч эсвэл чихэвчээ дэлгэрэнгүй тохиргоотой удирдана уу.</string>
+    <string name="benefit_desc_3">Цагийнхаа харагдах байдал болон мэдрэмжийг амархан тохируулна уу.</string>
+    <string name="benefit_title_1">Холбож, төлөвийг шалгана уу</string>
+    <string name="benefit_title_2">Дэвшилтэт функцүүдэд хандана уу</string>
+    <string name="benefit_title_3">Цагийн нүүрийг өөрчлөх ба тусгайлан тохируулах</string>
+    <string name="bg_update_after_os_up_fail">Шинэчлэлийг суулгаж чадсангүй.</string>
+    <string name="bg_update_after_os_up_noti_desc">Үүнийг суулгахын тулд энд товшино уу. Таны зүүдэг төхөөрөмжүүд шинэчлэлтийн үед салгагдаж магадгүй.</string>
+    <string name="bg_update_after_os_up_success">Програм хангамж амжилттай шинэчлэгдсэн.</string>
+    <string name="btn_next">Дараах</string>
+    <string name="build_number">Угсралтын дугаар</string>
+    <string name="button_text_bluetooth_turn_on">Асаах</string>
+    <string name="button_text_close">Хаах</string>
+    <string name="button_text_continue">Үргэлжлүүл</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="cant_attach_more_files">%d-с олон файл хавсаргах боломжгүй.</string>
+    <string name="capture_screen">Дэлгэцийн зураг авах</string>
+    <string name="character_counter_content_description">%2$d тэмдэгтээс %1$d</string>
+    <string name="check_for_update">Таны утасны програм хангамжийн одоогийн хувилбарыг дэмждэггүй. Шинэчлэлийг шалгаад дахин оролдоно уу.</string>
+    <string name="compose">Бичих</string>
+    <string name="confirm">Бататгах</string>
+    <string name="connect_popup_content">Холбогдож байна</string>
+    <string name="connected">Холбогдлоо</string>
+    <string name="contact_us_ask">Асуулт асуух</string>
+    <string name="contact_us_chn_read_and_agree">Доорхыг уншиж, зөвшөөрнө үү:</string>
+    <string name="contact_us_error">Алдааны тайлан</string>
+    <string name="contact_us_faq">Асуулт хариулт</string>
+    <string name="contact_us_feedback">Саналын жагсаалт</string>
+    <string name="contact_us_select_device_guide">Асуудалтай байгаа төхөөрөмж эсвэл төхөөрөмжүүдийг сонгоно уу. Энэ нь бидэнд таны асуудлыг илүү хурдан шийдэхэд тусална.</string>
+    <string name="custom_binary_error_dialog_title">Таны утасны үйлдлийн системийг зөвшөөрөгдөөгүй аргаар өөрчилсөн бөгөөд Samsung Gear хэрэглүүртэй тохирохгүй. Үйлдлийн системээ шалгаад дахин оролд.</string>
+    <string name="delete">Устгах</string>
+    <string name="dialog_popup_button_later">Дараа</string>
+    <string name="dialog_popup_button_update">Шинэчил</string>
+    <string name="discovery_guide_description">Хэрэв энэ өөр утсанд холбогдсон бол таны төхөөрөмж харагдахгүй байж магадгүй. Юу хийхийг эндээс:</string>
+    <string name="discovery_guide_description_link">Таны төхөөрөмж өөр утсанд холбогдсон бол харагдахгүй байж болно. %1$sТусламж авах%2$s.</string>
+    <string name="do_not_show_again">Дахин бүү харуул</string>
+    <string name="done">Дууслаа</string>
+    <string name="download_error_chian_sa_not_signed">Эхлээд Samsung account-даа нэвтэрнэ үү.</string>
+    <string name="download_error_china_sim_mismatch">Таны SIM картын улс таны Samsung account-н улстай таарахгүй байна.</string>
+    <string name="download_error_china_title">Таны цагийг тохируулж чадсангүй</string>
+    <string name="download_error_eos_description">"Хүндэт %1$s үйлчлүүлэгчдээ,
+
+Үйлчилгээний үйл ажиллагааны журмын дагуу %2$s 2021 он гарснаас хойш худалдаанд гарах гар утастай сүлжээнд ажиллахыг дэмждэггүй.
+Одоогийн үйлчилгээний чанарыг зөвхөн хэрэглүүрийн шинэчлэлээр дамжуулан хадгалах боломжгүй гэсэн дүгнэлтэд үндэслэн энэ шийдвэрийг гаргасан. Цаашид гар утсаа солихдоо үүнийг анхаарна уу.
+Хэрэв танд өөр асуулт байвал манай дуудлагын төв (%3$shttp://samsung.com/support%4$s), Samsung Members эсхүл %5$shttp://help.content.samsung.com%6$s руу холбогдоно уу тэгээд бид танд үүнийг тайлбарлана.
+"</string>
+    <string name="download_install_app_restart_description">Galaxy Wearable хаагдаж, шинэчлэлийг ашиглах болно. Шинэчлэл дууссаны дараа үүнийг дахиж нээ.</string>
+    <string name="download_install_main_description_band">Таны утас энэ програм хангамжийг ашиглан таны бугуйвчид холбогдох болно.</string>
+    <string name="download_install_main_description_earbud">Таны утас таны чихэвчтэй холбогдохын тулд энэ програм хангамжийг ашиглах болно.</string>
+    <string name="download_install_main_description_watch">Таны утас энэ програм хангамжийг ашиглан таны цагт холбогдох болно.</string>
+    <string name="download_install_main_title">Програм хангамж татаж байна…</string>
+    <string name="dragndroplist_drag_move">Одоо %d байрлалд</string>
+    <string name="dragndroplist_drag_release">Зүйлийг байршил %d-д тавьсан.</string>
+    <string name="dragndroplist_drag_start">Зүйлийг байршил %d-д чирж эхэллээ.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Байршил %d дахь зүйлийг чирэх боломжгүй.</string>
+    <string name="earbuds">Чихэвч</string>
+    <string name="earbuds_guide">Холбогдохын тулд чихэвчээ чихэндээ зүүгээд дохио сонсох хүртэл хоёр чихэвчийн хоёуланг 3 секунд товшиж барина уу.</string>
+    <string name="earbuds_guide_additional">%s-ээ холбохын тулд чихэвчээ гэрт нь хийгээд гэрэл улаан, ногоон болж анивчиж эхлэх хүртэл хоёр чихэвчийн хоёуланг 3 секунд удаан дарна уу.</string>
+    <string name="error_while_sending">Серверт алдаа гарлаа.</string>
+    <string name="feedback">Санал хүсэлт</string>
+    <string name="file_already_attached">Файлыг хавсаргах боломжгүй. Файлыг аль хэдийнэ хавсаргасан.</string>
+    <string name="frequency">Давтамж</string>
+    <string name="frequency_not_selected">Алдааны тайлан илгээж чадсангүй. Бэрхшээлийн давтамжийг сонгоод дахин оролдоно уу.</string>
+    <string name="gear_not_presesnt">Минийх энд алга</string>
+    <string name="hint_text">"Чухал дэлгэрэнгүй мэдээллээ оруулснаар таны зөвлөгөөн үр дүнтэй байх болно.
+
+Хувийн мэдээллээ бүү оруул.
+
+Системийн бүртгэлийн өгөгдөл илгээх сонголтыг сонгосон эсэхийг шалга.
+
+Та видео эсвэл дэлгэцийн зураг хавсаргаж асуудлаа ойлгоход хялбар болгох боломжтой."</string>
+    <string name="install_from_play_store_device_type_band">Танд бугуйвчаа Galaxy Wearable хэрэглүүрээр удирдахад залгуур хэрэгтэй.</string>
+    <string name="install_from_play_store_device_type_earbuds">Танд чихэвчээ Galaxy Wearable хэрэглүүрээр удирдахад залгуур хэрэгтэй.</string>
+    <string name="install_from_play_store_device_type_watch">Танд цагаа Galaxy Wearable хэрэглүүрээр удирдахад залгуур хэрэгтэй.</string>
+    <string name="installed">Суурилуулсан.</string>
+    <string name="just_this_time">Зөвхөн энэ удаа</string>
+    <string name="loading">Ачаалж байна…</string>
+    <string name="manage_devices_delete_btn_text">Арилгах</string>
+    <string name="manage_devices_delete_btn_text_remove_all">Бүгдийг устгах</string>
+    <string name="manage_devices_deleteing">Арилгаж байна…</string>
+    <string name="manage_devices_desc_text1">Утаснаасаа арилгах төхөөрөмжүүдийг сонго.</string>
+    <string name="manage_devices_desc_text2">Та салгасан бугуйвч эсвэл цагаа утастайгаа дахин холбохоос өмнө дахин тохируулах хэрэгтэй болно.</string>
+    <string name="manage_devices_title_text">Төхөөрөмжүүдийг сонго</string>
+    <string name="manage_devices_title_text_select">%d сонгосон</string>
+    <string name="max_record_time">%d секундийн бичлэгийн хязгаарт хүрлээ. Бичлэгийг хадгалаад хавсралтанд нэмнэ үү.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear-ийг салгалаа.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Тэжээлийг дээд зэргээр хэмнэх горимд %s-г нээх боломжгүй.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Програм нээх боломжгүй</string>
+    <string name="mb">%s Мбайт</string>
+    <string name="model_number">Загварын дугаар</string>
+    <string name="network_problem_message">Сүлжээний холболтоо шалгаад дахин оролд.</string>
+    <string name="no_device_nearby">Төхөөрөмж олдсонгүй</string>
+    <string name="no_feedback">Хариу байхгүй</string>
+    <string name="no_gear_description1">Таны нэмэхийг хүсэж буй төхөөрөмж тань асаалттай эсэхийг шалгана уу.</string>
+    <string name="no_gear_title">Шинэ төхөөрөмжтэй холбогдох</string>
+    <string name="no_internet_access">Интернэтэд нэвтрэх эрхгүй</string>
+    <string name="no_text_entered">Санал хүсэлт илгээх боломжгүй. Ямар ч бичвэр оруулаагүй.</string>
+    <string name="none_paired">Ямар ч төхөөрөмж хослуулаагүй</string>
+    <string name="not_enough_space_message">%s-г ашиглах боломжгүй. Зарим файлуудыг устгаж эсвэл хэрэглүүрүүдийг устгаад дахин оролдоно уу.</string>
+    <string name="not_enough_space_title">Зай хангалтгүй байна</string>
+    <string name="not_now">Дараа</string>
+    <string name="not_supportable_dialog_description">Энэ цаг энэ утсан дээр дэмжигдээгүй.</string>
+    <string name="not_supportable_dialog_title">%s-тэй хослуулах боломжгүй</string>
+    <string name="not_supported">%s дэмжигдээгүй</string>
+    <string name="not_supported_device_or_version">Таны Android-н хувилбар тохиромжгүй. Утасныхаа програм хангамжийн шинэчлэлийг шалгаад дахин оролдоно уу.</string>
+    <string name="notification_channel_backup_and_restore">Нөөцлөх ба сэргээх</string>
+    <string name="ok">OK</string>
+    <string name="pairing_check_pin_number_band">Бугуйвч дээрх дугаарыг шалга</string>
+    <string name="pairing_check_pin_number_earbud">Таны чихэвчид холбогдож байна…</string>
+    <string name="pairing_check_pin_number_watch">Цаг дээрх дугаарыг шалгана уу</string>
+    <string name="pairing_finish_band">Таны бугуйвчийг хослуулсан</string>
+    <string name="pairing_finish_watch">Таны цагийг хослуулсан</string>
+    <string name="percentage">%d%%</string>
+    <string name="permission_dialog_body_1">"Хэрэглүүрийн үйлчилгээнд дараах зөвшөөрөл шаардлагатай.
+
+Шаардлагатай зөвшөөрлүүд"</string>
+    <string name="permission_dialog_body_2">Байршил: Bluetooth-ээр ойролцоох өмсөж болох төхөөрөмжүүд хайхад ашигласан</string>
+    <string name="permission_dialog_body_3">Санах ой: Хадгалсан файлуудыг зүүж болох төхөөрөмжүүдээр шилжүүлж, хүлээн авахад ашиглана</string>
+    <string name="permission_dialog_body_4">Утас: Хэрэглүүрүүд шинэчлэх ба залгах хэрэглүүрүүдийг суурилуулахад төхөөрөмжийн онцгой таних мэдээллийг шалгахад ашиглана</string>
+    <string name="permission_dialog_body_5">Харилцагчид: Samsung account-н мэдээлэл бүртгэхэд ашиглах данстай холбоотой үйлчилгээнүүдийг үзүүлэхэд ашиглана</string>
+    <string name="permission_dialog_title">Хэрэглүүрийн зөвшөөрлүүд</string>
+    <string name="permission_guide_location_description">Galaxy Wearable нь ойролцоох төхөөрөмжүүдийг хайхад Bluetooth-г ашиглахад Байршлын зөвшөөрлийг ашигладаг.</string>
+    <string name="permission_guide_phone_description">Хэрэглүүрүүд шинэчлэх ба оролтууд суурилуулах төхөөрөмжүүдийг ялгахад ашиглана.</string>
+    <string name="permission_guide_precise_location_description">Galaxy Wearable-г ашиглахын тулд та үүнд энэ утасны нарийн байршилд хандахыг зөвшөөрөх хэрэгтэй.</string>
+    <string name="permission_intro_title_one">%s энэ зөвшөөрлийг ашиглана</string>
+    <string name="permission_intro_title_others">%s эдгээр зөвшөөрлүүдийг ашиглана</string>
+    <string name="permission_link_description">%1$sGalaxy Wearable-н зөвшөөрлүүд%2$s ба тэдгээрийг хэрхэн ашиглахыг харна уу.</string>
+    <string name="permission_location">Байршил</string>
+    <string name="permission_phone">Утас</string>
+    <string name="permission_settings_dialog_message">%s ашиглах боломжгүй. ТОХИРГОО-г товшиж дараах зөвшөөрлийг олгоод дахин оролдоно уу:</string>
+    <string name="permissions">Зөвшөөрлүүд</string>
+    <string name="permissions_content_title">%s-н зөвшөөрлүүд</string>
+    <string name="permissions_detail_required_title">%s-д дараах зөвшөөрлүүд шаардлагатай:</string>
+    <string name="permissions_nearby_desc">Ойролцоох төхөөрөмжүүдийг хайхад ашиглагддаг.</string>
+    <string name="permissions_nearby_title">Ойролцоох төхөөрөмжүүд</string>
+    <string name="phone_info">Утасны мэдээлэл</string>
+    <string name="pick_gear">Төхөөрөмжөө сонгож ав</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth унтарсан байна. Асаахыг товшиж асаа.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Bluetooth-ийг идэвхжүүлэх</string>
+    <string name="privacypolicy_learn_more">Дэлгэрэнгүй</string>
+    <string name="promotion_main_description">Galaxy цаг, бугуйвч эсвэл чихэвчтэй холбогдоно уу.</string>
+    <string name="promotion_start_pairing">Эхлүүлэх</string>
+    <string name="qa_store_dialog_password">Нууц үг</string>
+    <string name="rate_response">Үнэлгээний хариу</string>
+    <string name="rating1">Ашиггүй</string>
+    <string name="rating2">Тийм ч ашигтай биш</string>
+    <string name="rating3">Зарим талаараа ашигтай</string>
+    <string name="rating4">Ашигтай</string>
+    <string name="rating5">Маш ашигтай</string>
+    <string name="reboot">Дах. эхлүүл</string>
+    <string name="reboot_phone_message">Samsung туслах хэрэгслийн үйлчилгээ шинэчлэгдлээ. Утсаа Gear рүү холбохын тулд асаана уу.</string>
+    <string name="record_screen">Дэлгэцийн бичлэг хийх</string>
+    <string name="reset_your_watch_body">Цагаа шинэ утастайгаа хослуулахын тулд эхлээд цагаа дахин тохируулаад дараа нь Galaxy Wearable-г нээж холбоно уу.</string>
+    <string name="reset_your_watch_then_try_again">Шинэ утастай холбогдохын тулд та эхлээд цагаа дахин тохируулах хэрэгтэй, ингэснээр бүх өгөгдөл устана.</string>
+    <string name="reset_your_watch_title">Цагаа шинэ гар утсандаа холбох уу?</string>
+    <string name="retry">Ахин оролд</string>
+    <string name="scan_for_wearable_devices">Нэмэх төхөөрөмж хайж байна…</string>
+    <string name="search_scan_again">Дахин хайх</string>
+    <string name="select_device">Төхөөрөмж сонгох</string>
+    <string name="send">Илгээ</string>
+    <string name="send_system_log_data">Системийн бүртгэлийн өгөгдлийг илгээ</string>
+    <string name="send_system_log_data_popup">Системийн бүртгэлийн өгөгдөл илгээх үү?</string>
+    <string name="send_system_log_data_subtext">Асуултаа шийдэхэд тусалж системийн бүртгэл илгээх.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">Удирдаж дээшлүүлэх</string>
+    <string name="sesl_action_menu_overflow_badge_description">Шинэ контент гарлаа</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Ш</string>
+    <string name="sesl_action_menu_overflow_description">Өөр сонголтууд</string>
+    <string name="sesl_index_assistant_text">Гүйлгэхийн тулд хоёр хуруугаараа дээш эсвэл доош шударна уу.</string>
+    <string name="sesl_index_scrollbar">Гүйлгэх мөр</string>
+    <string name="sesl_index_section">Бүлгийн индекс</string>
+    <string name="sesl_index_selected">Сонгосон</string>
+    <string name="sesl_material_badge_description">Шинэ контент гарлаа</string>
+    <string name="sesl_material_overflow_badge_text_n">Ш</string>
+    <string name="sesl_more_item_label">Бусад</string>
+    <string name="sesl_preferencecategory_added_title">Толгой хэсэг</string>
+    <string name="sesl_search_hint">Хайх</string>
+    <string name="sesl_searchview_description_clear">Хайлтын талбарыг цэвэрлэх</string>
+    <string name="sesl_searchview_description_query">Хайлтын лавлагаа</string>
+    <string name="sesl_searchview_description_search">Хайх</string>
+    <string name="sesl_searchview_description_submit">Лавлагаа оруулах</string>
+    <string name="sesl_searchview_description_voice">Дуу хоолойгоор хайх</string>
+    <string name="sesl_switch_off">Идэвхгүй</string>
+    <string name="sesl_switch_on">Идэвхтэй</string>
+    <string name="sesl_switchbar_off_text">Идэвхгүй</string>
+    <string name="sesl_switchbar_on_text">Идэвхтэй</string>
+    <string name="sesl_toolbar_collapse_description">Хураах</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="size_limit_exceeds">%s-с олон файл хавсаргах боломжгүй. Зарим файлыг арилгаад дахин оролд.</string>
+    <string name="software_update_text">Програм хангамжийн шинэчлэл</string>
+    <string name="something_went_wrong">Ямар нэг алдаа гарлаа. Дахин оролдоно уу.</string>
+    <string name="sometimes">Заримдаа</string>
+    <string name="support_has_ended">%s-н дэмжлэг дууссан.</string>
+    <string name="sysytemlogpopupdec">"Таны системийн бүртгэлийг Samsung Electronics Co., Ltd руу шинжилгээнд илгээнэ. Системийн бүртгэл таны утсанд суулгасан гуравдагч этгээдийн хэрэглүүрийн мэдээллийг агуулсан байж болно. Илгээсэн системийн бүртгэлийн өгөгдлийг зөвхөн доголдлын шинжилгээ, хэрэглүүрийг сайжруулахад ашиглах ба шинжилгээ дуусмагц устгана. Системийн бүртгэлийг мобайл дата ашиглан илгээвэл дата хэрэглээг %s хүртэл өсгөж, нэмэлт төлбөр гарч болзошгүй. Оронд нь Wi-Fi ашиглаж болно.
+
+Бэрхшээлийнхээ талаар бичихээс өмнө системийн бүртгэлийг хавсаргатал хүлээнэ үү."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">Хувийн өгөгдлийг гадаад улс руу дамжуулах</string>
+    <string name="turn_on_location_desc">Тохиргоо дээр товшоод Байршлыг асаагаад өөрийн цагтай холбогдож өгөгдөл синхрончил.</string>
+    <string name="turn_on_location_title">Байршлыг асаа</string>
+    <string name="txt_device">Төхөөрөмж</string>
+    <string name="txt_devices">Төхөөрөмжүүд</string>
+    <string name="uhm_install_plugin_from_play_store">%s суурилуулах</string>
+    <string name="uhm_update_cancel_popup_button_ok">Хэрэглүүрийг хаах</string>
+    <string name="uhm_update_cancel_popup_desc">Хэрэв та одоо шинэчлэхгүй бол Galaxy Wearable хэрэглүүрийг үргэлжлүүлэн ашиглах боломжгүй болно.</string>
+    <string name="uhm_update_cancel_popup_title">Galaxy Wearable хэрэглүүрийг хаах уу?</string>
+    <string name="uhm_update_download_progress">Татаж авч байна…</string>
+    <string name="uhm_update_exist_notification_subtitle">Шинэ хувилбар боломжтой байна</string>
+    <string name="uhm_update_install_disconnect_device">%s-с салгагдаж байна…</string>
+    <string name="uhm_update_install_progress">Суурилуулж байна…</string>
+    <string name="uhm_update_is_available">%s боломжтой.</string>
+    <string name="uhm_update_new_version">шинэ хувилбар</string>
+    <string name="uhm_update_notice">Мэдэгдэл</string>
+    <string name="uhm_whats_new_popup_title">Шинэ мэдээ</string>
+    <string name="unable_to_enable">Функц-г идэвхж.х боломжгүй</string>
+    <string name="unable_to_install_message">Unable to install. Unexpected error.</string>
+    <string name="update_gms_dialog_description">Цагаа тохируулахын тулд та эхлээд Google Play үйлчилгээг шинэчлээд дараа нь тохиргоог дахин эхлэх хэрэгтэй.</string>
+    <string name="update_gms_dialog_title">Google Play үйлчилгээг шинэчлэх үү?</string>
+    <string name="use_network_connection_dialog_body">Сүлжээний холболтуудыг ашиглахыг %s-д зөвшөөрөх үү?</string>
+    <string name="use_network_connection_dialog_title">Сүлжээний холболтууд ашиглах</string>
+    <string name="watch">Цаг</string>
+    <string name="watch_guide">Хэрэглүүрийн дэлгэц дээр Тохиргоо > Шинэ утастай холбогдохыг товшоорой.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Gear-тэй холбогд</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Бидэнтэй холбоо барих</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/dialog_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/popup_title_textview" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:id="@id/popup_body_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/popup_title_textview">
+        <RelativeLayout android:id="@id/popup_message_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/popup_message_imageview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="17.0dip" android:layout_marginBottom="10.0dip" android:layout_marginStart="46.0dip" android:layout_marginEnd="46.0dip" />
+            <View android:id="@id/between_imageview_to_textview_padding_view" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_below="@id/popup_message_imageview" />
+            <TextView android:id="@id/popup_message_textview" android:maxHeight="352.0dip" android:layout_below="@id/between_imageview_to_textview_padding_view" style="@style/TextView_PopupDesc" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/popup_sub_message_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/popup_message_textview" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip">
+                <ImageView android:layout_gravity="center_vertical" android:background="@drawable/circle_shape" android:layout_width="4.0dip" android:layout_height="4.0dip" android:layout_marginStart="9.0dip" />
+                <TextView android:id="@id/popup_sub_message_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="_Plugin_name_(_Size_)" android:layout_marginStart="15.0dip" style="@style/TextView_PopupSubDesc" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/checkbox_textview_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="17.0dip" android:layout_below="@id/popup_message_textview" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin">
+                <CheckBox android:theme="@android:style/Theme.DeviceDefault" android:gravity="center_vertical" android:id="@id/do_not_show_again_checkbox" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="19.0sp" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/do_not_show_again_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/do_not_show_again" android:singleLine="true" android:layout_marginStart="@dimen/checkbox_left_margin" style="@style/TextView_PopupDesc" />
+            </LinearLayout>
+            <View android:id="@id/between_textview_to_checkbox_padding_view" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_below="@id/checkbox_textview_layout" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/circle_progress_popup_layout" android:padding="16.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.samsung.android.app.twatchmanager.uiitems.CircleProgressBar android:id="@id/circle_progress" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+            <TextView android:textColor="@color/main_title_text_color" android:id="@id/circle_progress_message_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="16.0dip" android:layout_toEndOf="@id/circle_progress" style="@style/TextView_PopupDesc" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center" android:id="@id/progress_bar_popup_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="19.0sp" android:id="@id/progress_bar_popup_message_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" android:layout_marginStart="21.0dip" android:layout_marginEnd="21.0dip" style="@style/TextView_PopupDesc" />
+            <TextView android:textSize="19.0sp" android:textColor="@color/progress_percentage" android:id="@id/progress_bar_popup_percent_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:layout_below="@id/progress_bar_popup_message_textview" android:layout_alignEnd="@id/progress_bar_popup_progressbar" />
+            <ProgressBar android:id="@id/progress_bar_popup_progressbar" android:layout_width="fill_parent" android:layout_height="6.0dip" android:layout_marginTop="14.0dip" android:max="100" android:layout_below="@id/progress_bar_popup_percent_textview" android:layout_centerHorizontal="true" android:layout_marginStart="21.0dip" android:layout_marginEnd="21.0dip" style="@style/setupProgressBar" />
+            <View android:layout_width="fill_parent" android:layout_height="34.0dip" android:layout_below="@id/progress_bar_popup_progressbar" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/circle_progress_count_popup_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip">
+                <ImageView android:id="@id/circle_progress_count_imageview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/manager_widget_progressbar" android:minHeight="34.0dip" />
+                <TextView android:textSize="19.0sp" android:id="@id/circle_progress_count_popup_message_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/TextView_PopupDesc" />
+            </LinearLayout>
+            <TextView android:textSize="19.0sp" android:textColor="@color/progress_percentage" android:gravity="" android:id="@id/circle_progress_count_popup_count_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13.0dip" />
+            <View android:layout_width="fill_parent" android:layout_height="34.0dip" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/popup_button_layout" android:paddingTop="26.0dip" android:paddingBottom="26.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/popup_body_layout" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip">
+        <LinearLayout android:gravity="center" android:id="@id/cancel_btn_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:gravity="center" android:id="@id/cancel_btn" android:focusable="true" android:text="@string/cancel" style="@style/TextView_PopupButton" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/mid_btn_divider_outer" android:layout_width="wrap_content" android:layout_height="36.0dip">
+            <View android:background="@color/list_item_divider_color" android:layout_width="@dimen/dialog_bottom_button_divider_width" android:layout_height="@dimen/popup_btn_text_size" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:id="@id/ok_btn_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:gravity="center" android:id="@id/ok_btn" android:focusable="true" android:text="@string/ok" style="@style/TextView_PopupButton" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

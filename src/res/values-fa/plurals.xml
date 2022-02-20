@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">%d دستگاه و برنامه‌های مربوط به آنها که دیگر لازم نیستند حذف شود؟</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دستگاه و برنامه‌های مربوط به آنها که دیگر لازم نیستند حذف شود؟</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">%d مورد حذف شود؟</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد حذف شود؟</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+</resources>

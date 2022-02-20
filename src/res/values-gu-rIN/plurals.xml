@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">%d ડિવાઇસો અને હવે જરૂરી ન હોય તેવી તેની સાથે સંકળાયેલી ઍપ્સ દૂર કરીએ?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ઉપકરણ અને હવે જરૂરી ન હોય તેવી તેની સાથે સંકળાયેલી ઍપ્સ દૂર કરીએ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">%d વસ્તુઓ કાઢીએ?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d વસ્તુ કાઢીએ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

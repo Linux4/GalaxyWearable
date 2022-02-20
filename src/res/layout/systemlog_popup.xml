@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="16.0dip" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/divider">
+        <TextView android:textSize="17.0sp" android:textColor="#ff252525" android:id="@id/explantion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sysytemlogpopupdec" android:fontFamily="sec-roboto-light" />
+    </ScrollView>
+    <View android:id="@id/divider" android:background="#ffefefef" android:layout_width="fill_parent" android:layout_height="2.0px" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_above="@id/radiogroup" />
+    <RadioGroup android:orientation="vertical" android:id="@id/radiogroup" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/popup_button_layout">
+        <RadioButton android:textSize="18.0dip" android:id="@id/alwaystake" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/always" />
+        <RadioButton android:textSize="18.0dip" android:id="@id/justthistime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/just_this_time" />
+    </RadioGroup>
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:id="@id/popup_button_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff32c1e8" android:id="@id/cancel_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="CANCEL" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" />
+        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="#ff32c1e8" android:id="@id/ok_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="OK" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" android:layout_marginStart="32.0dip" />
+    </LinearLayout>
+</RelativeLayout>

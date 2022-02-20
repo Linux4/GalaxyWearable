@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/main_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="30.0dip" android:textStyle="bold" android:textColor="@color/main_title_text_color" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Test Mode" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/main_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Button android:textColor="@color/main_title_text_color" android:id="@id/button1" android:background="@drawable/list_item_ripple_effect" android:layout_width="fill_parent" android:layout_height="70.0dip" android:layout_marginTop="20.0dip" android:text="Get Storage Permission" android:textAllCaps="false" />
+    </LinearLayout>
+</LinearLayout>

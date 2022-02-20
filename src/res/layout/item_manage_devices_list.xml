@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/item_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/item_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="18.0dip" android:paddingEnd="24.0dip">
+        <CheckBox android:layout_gravity="center_vertical" android:id="@id/item_checkbox" android:focusable="false" android:clickable="false" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_alignParentStart="true" />
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/item_image" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:src="@drawable/oobe_drawer_ic_watch" android:tint="@color/main_logo_tint_color" android:layout_marginStart="18.0dip" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingTop="11.0dip" android:paddingBottom="11.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="12.0dip">
+            <TextView android:id="@id/device_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="false" android:fontFamily="sec-roboto-regular" style="@style/TextView_ListDescFirstLine" />
+            <TextView android:id="@id/device_connection_status" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/TextView_deviceStatus" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:id="@id/divider" android:background="@color/list_item_divider_color" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/item_view" android:layout_marginStart="68.0dip" android:layout_marginEnd="24.0dip" />
+</RelativeLayout>

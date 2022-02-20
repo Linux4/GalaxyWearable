@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="150" android:drawable="@drawable/winset_progressbar_indeterminate1_holo_light" />
+    <item android:duration="150" android:drawable="@drawable/winset_progressbar_indeterminate2_holo_light" />
+    <item android:duration="150" android:drawable="@drawable/winset_progressbar_indeterminate3_holo_light" />
+    <item android:duration="150" android:drawable="@drawable/winset_progressbar_indeterminate4_holo_light" />
+</animation-list>

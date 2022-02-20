@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">Wyciepnōńć %d maszin i pożyniōne aplikacyje, kere niy sōm już przidajne?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wyciepnōńć %d maszina i pożyniōne aplikacyje, kere niy sōm już przidajne?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wyciepnōńć %d masziny i pożyniōne aplikacyje, kere niy sōm już przidajne?</item>
+        <item quantity="many">Wyciepnōńć %d maszin i pożyniōne aplikacyje, kere niy sōm już przidajne?</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">Wyciepać %d dingsōw?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wyciepać %d dings?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wyciepać %d dingsy?</item>
+        <item quantity="many">Wyciepać %d dingsōw?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="56.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/app_item_divider" android:background="@color/settings_divider_color" android:layout_width="fill_parent" android:layout_height="@dimen/device_list_item_divider_height" android:layout_marginStart="68.0dip" android:layout_marginEnd="18.0dip" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="18.0dip" android:paddingEnd="18.0dip">
+        <CheckBox android:id="@id/selectBtn" android:background="@drawable/manager_checkbox_selector_2" android:focusable="false" android:clickable="false" android:layout_width="32.0dip" android:layout_height="32.0dip" android:button="@null" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="18.0dip">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/deviceIcon" android:layout_width="36.0dip" android:layout_height="36.0dip" android:scaleType="fitXY" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/daynight_text_color" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/deviceName" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="2" android:layout_marginStart="16.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

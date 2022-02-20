@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="Gear" path="Gear/" />
+    <external-path name="fake_server" path="fake_server/" />
+    <external-path name="local_update" path="local_update.test/" />
+    <files-path name="files" path="/Dump/" />
+    <files-path name="download" path="/Download/" />
+</paths>

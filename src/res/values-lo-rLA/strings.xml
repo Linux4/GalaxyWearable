@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">ອະນຸຍາດໃຫ້ແອັບໂອນຂໍ້ມູນຂອງທ່ານຜ່ານບລູທູດໂດຍການໃຊ້ກອບອຸປະກອນເສີມ.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ໂອນຂໍ້ມູນຜ່ານກອບວຽກ</string>
+    <string name="access_connected_device_status">ເຂົ້າ​ໃຊ້​ສະ​ຖາ​ນະ​ການ​ເຊື່ອມ​ຕໍ່​ອຸ​ປະ​ກອນ</string>
+    <string name="access_connected_device_status_description">ແອ​ພ​ພ​ລິ​ເຄ​ຊັນ​ນີ້​ສາ​ມາ​ດ​ເຂົ້າ​ໃຊ້ສະ​ຖາ​ນະ​ການ​ເຊື່ອມ​ຕໍ່​ອຸ​ປະ​ກອນ​ສາ​ມາດ​ສວມ​ໃສ່​ໄດ້.</string>
+    <string name="after_post_they_appear">ການຕອບໂຕ້ກັບທີ່ທ່ານສົ່ງຈະປະກົດຂຶ້ນທີ່ນີ້.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ການປິດເຊື່ອມຕໍ່ຈະຈົບການເຊື່ອມຕໍ່ຂອງທ່ານກັບ %s.</string>
+    <string name="all">ທັງໝົດ</string>
+    <string name="always">ທຸກຄັ້ງ</string>
+    <string name="android_version">ລຸ້ນແອນດຣອຍ</string>
+    <string name="answered">ຕອບແລ້ວ</string>
+    <string name="app_details">ແອັບເພີ່ມເຕີມ</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">ຖາມອີກຄັ້ງ</string>
+    <string name="ask_again_for_additional_questions">ແຕະ [ຖາມອີກຄັ້ງ] ເພື່ອຖາມຄຳຖາມເພີ່ມເຕີມກ່ຽວກັບສິ່ງທີ່ໄດ້ໂພສທ໌ຮຽບຮ້ອຍແລ້ວ.</string>
+    <string name="attach">ຄັດຕິດ</string>
+    <string name="attachments">ໄຟລ໌ຄັດຕິດ</string>
+    <string name="band">ສາຍຮັດ</string>
+    <string name="band_guide">ຕັດເຊື່ອມຕໍ່ສາຍຮັດຂອງທ່ານຈາກໂທລະສັບກ່ອນໜ້າ. ໃນແອັບ Galaxy Wearable ໃນໂທລະສັບກ່ອນໜ້າ, ແຕະລີ້ນຊັກເມນູ, ຈາກນັ້ນແຕະ [ຕັດເຊື່ອມຕໍ່].</string>
+    <string name="benefit_desc_1">ເບິ່ງລະດັບແບັດເຕີຣີ ແລະ ອື່ນໆໄດ້ທັນທີສຳລັບໂມງ, ສາຍຮັດ, ຫຼື ຫູຟັງທີ່ເຊື່ອມຕໍ່ຂອງທ່ານ.</string>
+    <string name="benefit_desc_2">ຄວບຄຸມໂມງ, ສາຍຮັດ ຫຼື ຫູຟັງຂອງທ່ານດ້ວຍການຕັ້ງຄ່າທີ່ລະອຽດ.</string>
+    <string name="benefit_desc_3">ປັບປ່ຽນຮູບລັກສະນະຂອງໂມງຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍ.</string>
+    <string name="benefit_title_1">ເຊື່ອມຕໍ່ ແລະ ກວດເບິ່ງສະຖານະ</string>
+    <string name="benefit_title_2">ເຂົ້າໃຊ້ຄຸນສົມບັດຂັ້ນສູງ</string>
+    <string name="benefit_title_3">ປ່ຽນ ແລະ ກຳນົດໜ້າໂມງເອງ</string>
+    <string name="bg_update_after_os_up_fail">ບໍ່ສາມາດຕິດຕັ້ງການອັບເດດໄດ້.</string>
+    <string name="bg_update_after_os_up_noti_desc">ແຕະທີ່ນີ້ ເພື່ອຕິດຕັ້ງມັນ. ອຸປະກອນສວມໃສ່ຂອງທ່ານອາດຈະຕັດເຊື່ອມຕໍ່ໃນລະຫວ່າງການອັບເດດ.</string>
+    <string name="bg_update_after_os_up_success">ອັບເດດຊອບແວສຳເລັດແລ້ວ.</string>
+    <string name="btn_next">ຕໍ່ໄປ</string>
+    <string name="build_number">ໝາຍເລກການຜະລິດ</string>
+    <string name="button_text_bluetooth_turn_on">ເປີດ</string>
+    <string name="button_text_close">ປິດ</string>
+    <string name="button_text_continue">ສືບຕໍ່</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="cant_attach_more_files">ບໍ່ສາມາດຄັດຕິດໄດ້ຫຼາຍກວ່າ %d ໄຟລ໌.</string>
+    <string name="capture_screen">ແຄັບເຈີໜ້າຈໍ</string>
+    <string name="character_counter_content_description">%1$d ຈາກ %2$d ຕົວອັກສອນ</string>
+    <string name="check_for_update">ບໍ່ຮອງຮັບສຳລັບເວີຊັນປະຈຸບັນຂອງຊອບແວໂທລະສັບຂອງທ່ານ. ກວດຫາການອັບເດດ, ຈາກນັ້ນລອງໃໝ່ອີກ.</string>
+    <string name="compose">ຂຽນ</string>
+    <string name="confirm">ຢືນຢັນ</string>
+    <string name="connect_popup_content">ກໍາລັງເຊື່ອມຕໍ່</string>
+    <string name="connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="contact_us_ask">ຖາມຄໍາຖາມ</string>
+    <string name="contact_us_chn_read_and_agree">ອ່ານ ແລະ ເຫັນດີນຳສິ່ງດັ່ງຕໍ່ໄປນີ້:</string>
+    <string name="contact_us_error">ລາຍງານຂໍ້ຂັດຂ້ອງ</string>
+    <string name="contact_us_faq">ຄໍາຖາມທີ່ຖາມເລື້ອຍໆ</string>
+    <string name="contact_us_feedback">ລາຍການຕອບໂຕ້ກັບ</string>
+    <string name="contact_us_select_device_guide">ເລືອກອຸປະກອນ ຫຼື ອຸປະກອນທີ່ທ່ານກຳລັງມີບັນຫາ. ນີ້ຊ່ວຍພວກເຮົາແກ້ໄຂບັນຫາຂອງທ່ານໄດ້ຢ່າງວ່ອງໄວຂຶ້ນ.</string>
+    <string name="custom_binary_error_dialog_title">ລະບົບປະຕິບັດການໃນໂທລະສັບຂອງທ່ານໄດ້ຖືກແກ້ໄຂແລ້ວໃນທາງທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດ, ແລະບໍ່ເຂົ້າກັນໄດ້ກັບແອັບ Samsung Gear. ກວດເບິ່ງລະບົບປະຕິບັດການຂອງທ່ານ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="delete">ລຶບ</string>
+    <string name="dialog_popup_button_later">ພາຍຫຼັງ</string>
+    <string name="dialog_popup_button_update">ອັບເດດ</string>
+    <string name="discovery_guide_description">ອຸປະກອນຂອງທ່ານອາດຈະບໍ່ປະກົດຂຶ້ນ ຖ້າມັນບໍ່ຖືກເຊື່ອມຕໍ່ກັບໂທລະສັບອື່ນ. ນີ້ແມ່ນສິ່ງທີ່ຈະຕ້ອງເຮັດ:</string>
+    <string name="discovery_guide_description_link">ອຸປະກອນຂອງທ່ານອາດຈະບໍ່ປະກົດຂຶ້ນ ຖ້າມັນຖືກເຊື່ອມຕໍ່ກັບໂທລະສັບອື່ນ. %1$sຂໍຄວາມຊ່ວຍເຫຼືອ%2$s.</string>
+    <string name="do_not_show_again">ບໍ່ຕ້ອງສະແດງອີກ</string>
+    <string name="done">ສໍາເລັດ</string>
+    <string name="download_error_chian_sa_not_signed">ລົງຊື່ເຂົ້າໃຊ້ Samsung account ຂອງທ່ານກ່ອນ.</string>
+    <string name="download_error_china_sim_mismatch">ປະເທດແຜ່ນ SIM ຂອງທ່ານບໍ່ເຂົ້າກັນກັບປະເທດ Samsung account ຂອງທ່ານ.</string>
+    <string name="download_error_china_title">ບໍ່ສາມາດຕັ້ງໂມວຂອງທ່ານໄດ້</string>
+    <string name="download_error_eos_description">"ທ່ານ ລູກຄ້າ %1$s ທີ່​ຮັກ​ແພງ,
+
+ອີງ​ຕາມ​ນະ​ໂຍ​ບາຍ​ການ​ດຳ​ເນີນ​ການ​ບໍ​ລິ​ການ, %2$s ບໍ່​ຮອງ​ຮັບ​ການ​ເຮັດ​ວຽກຮ່ວມກັນ​ກັບ ໂທລະສັບ ​ມື​ຖື​ຂອງ​ມັນ​ທີ່​ຈະ​ອອກ​ໃນ​ປີ 2021.
+ການ​ຕັດ​ສິນ​ໃຈ​ນີ້​ແມ່ນ​ໄດ້ອີງ​ຕາມ​ຄຳ​ຕັດ​ສິນ​ທີ່​ບໍ່​ສາ​ມາດ​ຮັກ​ສາ​ຄຸນ​ນະ​ພາບ​ການ​ບໍ​ລິ​ການ​ທີ່​ມີ​ຢູ່​ຜ່ານ​ທາງ​ການ ອັບເດດ ​ແອັບ​ເທົ່າ​ນັ້ນໄດ້. ກະ​ລຸ​ນາ​ຮັບ​ຮູ້​ເລື່ອງ​ນີ້​ໄວ້ ​ເມື່ອ ​ປ່ຽນ ​ໂທລະສັບ​ ມືຖື ຂອງ​ທ່ານ​ໃນ​ອະ​ນາ​ຄົດ.
+ຖ້າ​ທ່ານ​ມີ​ຄຳ​ຖາມ​ເພີ່ມ​ເຕີມ, ກະ​ລຸ​ນາ ​ຕິດ​ຕໍ່​ສູນ​ບໍ​ລິ​ການ​ລູກ​ຄ້າ​ຂອງ​ພວກ​ເຮົາ​ທີ່ (%3$shttp://samsung.com/support%4$s), Samsung Members ຫຼື %5$s http://help.content.samsung.com%6$s ແລະ ພວກ​ເຮົາ​ຈະ​ພາ​ທ່ານແກ້ໄຂ.
+"</string>
+    <string name="download_install_app_restart_description">Galaxy Wearable ຈະປິດເພື່ອນຳໃຊ້ການອັບເດດ. ເປີດມັນອີກຄັ້ງຫຼັງຈາກອັບເດດສໍາເລັດແລ້ວ.</string>
+    <string name="download_install_main_description_band">ໂທລະສັບຂອງທ່ານຈະໃຊ້ຊອບແວນີ້ເພື່ອເຊື່ອມຕໍ່ກັບສາຍຮັດຂອງທ່ານ.</string>
+    <string name="download_install_main_description_earbud">ໂທລະສັບຂອງທ່ານຈະໃຊ້ຊອບແວນີ້ເພື່ອເຊື່ອມຕໍ່ກັບຫູຟັງຂອງທ່ານ.</string>
+    <string name="download_install_main_description_watch">ໂທລະສັບຂອງທ່ານຈະໃຊ້ຊອບແວນີ້ເພື່ອເຊື່ອມຕໍ່ກັບໂມງຂອງທ່ານ.</string>
+    <string name="download_install_main_title">ກຳລັງດາວໂຫຼດຊອບແວ…</string>
+    <string name="dragndroplist_drag_move">ຕອນນີ້ຢູ່ທີ່ຕຳແໜ່ງ %d</string>
+    <string name="dragndroplist_drag_release">ລາຍການຕົກລົງໄປສູ່ຕໍາແໜ່ງ %d.</string>
+    <string name="dragndroplist_drag_start">ເລີ່ມຕົ້ນລາກລາຍການຢູ່ທີ່ຕໍາແໜ່ງ %d ແລ້ວ.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">ລາຍການຢູ່ທີ່ຕໍາແໜ່ງ %d ບໍ່ສາມາດລາກໄປໄດ້.</string>
+    <string name="earbuds">ຫູຟັງ</string>
+    <string name="earbuds_guide">ເພື່ອເຊື່ອມຕໍ່, ໃສ່ຫູຟັງໃນຫູຂອງທ່ານ, ຈາກນັ້ນສຳຜັດຫູຟັງທັງສອງເບື້ອງຄ້າງໄວ້ເປັນເວລາ 3 ວິນາທີຈົນກວ່າທ່ານໄດ້ຍິນສຽງບີບ.</string>
+    <string name="earbuds_guide_additional">ເພື່ອເຊື່ອມຕໍ່ %s ຂອງທ່ານ, ໃສ່ຫູຟັງເຂົ້າໃນເຄສ, ຈາກນັ້ນສຳພັດຫູຟັງທັງສອງເບື້ອງຄ້າງໄວ້ເປັນເວລາ 3 ວິນາທີ ຈົນກວ່າແສງໄຟເລີ່ມຕົ້ນກະພິບເປັນສີແດງ ແລະ ສີຂຽວ.</string>
+    <string name="error_while_sending">ເກີດຂໍ້ຂັດຂ້ອງຂອງເຊີບເວີຂຶ້ນ.</string>
+    <string name="feedback">ຕອບໂຕ້ກັບ</string>
+    <string name="file_already_attached">ບໍ່ສາມາດຄັດຕິດໄຟລ໌ໄດ້. ຄັດຕິດໄຟລ໌ຮຽບຮ້ອຍແລ້ວ.</string>
+    <string name="frequency">ຄວາມຖີ່</string>
+    <string name="frequency_not_selected">ບໍ່ສາມາດສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງໄດ້. ເລືອກຄວາມຖີ່ຂອງບັນຫາແລະລອງໃໝ່ອີກ.</string>
+    <string name="gear_not_presesnt">ໄມນ໌ບໍ່ໄດ້ຢູ່ທີ່ນີ້</string>
+    <string name="hint_text">"ມີນ້ຳໃຈ ແລະ ລວມເຖິງລາຍລະອຽດທີ່ສຳຄັນເພື່ອໃຫ້ຄຳປຶກສາຂອງທ່ານມີປະໂຫຍດ.
+
+ຢ່າປ້ອນຂໍ້ມູນສ່ວນຕົວຂອງທ່ານເຂົ້າ.
+
+ເບິ່ງໃຫ້ແນ່ໃຈວ່າຕົວເລືອກສົ່ງຂໍ້ມູນບັນທຶກຂອງລະບົບຖືກເລືອກແລ້ວ.
+
+ທ່ານສາມາດຄັດຕິດວິດີໂອ ຫຼື ພາບຖ່າຍໜ້າຈໍໄດ້ ເພື່ອເຮັດໃຫ້ເຂົ້າໃຈບັນຫາຂອງທ່ານໄດ້ງ່າຍຂຶ້ນ."</string>
+    <string name="install_from_play_store_device_type_band">ທ່ານຈຳເປັນຕ້ອງໄດ້ສຽບເຂົ້າເພື່ອຄວບຄຸມສາຍຮັດຂອງທ່ານດ້ວຍແອັບ Galaxy Wearable.</string>
+    <string name="install_from_play_store_device_type_earbuds">ທ່ານຈຳເປັນຕ້ອງໄດ້ສຽບເຂົ້າເພື່ອຄວບຄຸມຊຸດຫູຟັງຂອງທ່ານດ້ວຍແອັບ Galaxy Wearable.</string>
+    <string name="install_from_play_store_device_type_watch">ທ່ານຈຳເປັນຕ້ອງໄດ້ສຽບເຂົ້າເພື່ອຄວບຄຸມໂມງຂອງທ່ານດ້ວຍແອັບ Galaxy Wearable.</string>
+    <string name="installed">ຕິດຕັ້ງແລ້ວ.</string>
+    <string name="just_this_time">ເວລານີ້ເທົ່ານັ້ນ</string>
+    <string name="loading">ກຳລັງໂຫຼດ…</string>
+    <string name="manage_devices_delete_btn_text">ເອົາອອກໄປ</string>
+    <string name="manage_devices_delete_btn_text_remove_all">ເອົາອອກທັງໝົດ</string>
+    <string name="manage_devices_deleteing">ກຳລັງເອົາອອກໄປ…</string>
+    <string name="manage_devices_desc_text1">ເລືອກອຸປະກອນເພື່ອເອົາອອກໄປຈາກໂທລະສັບຂອງທ່ານ.</string>
+    <string name="manage_devices_desc_text2">ທ່ານຈຳເປັນຈະຕ້ອງຕັ້ງສາຍຮັດທີ່ເອົາອອກແລ້ວໃດໜຶ່ງຄືນໃໝ່ ກ່ອນທີ່ທ່ານສາມາດເຊື່ອມຕໍ່ພວກມັນກັບໂທລະສັບຂອງທ່ານໃໝ່ອີກ.</string>
+    <string name="manage_devices_title_text">ເລືອກອຸປະກອນ</string>
+    <string name="manage_devices_title_text_select">ເລືອກ %d ແລ້ວ</string>
+    <string name="max_record_time">ເວລາການບັນທຶກສູງສຸດຮອດ %d ວິນາທີແລ້ວ. ບັນທຶກການບັນທຶກ ແລະເພີ່ມມັນໃສ່ໄຟລ໌ຄັດຕິດ.</string>
+    <string name="maximum_power_saving_mode_dialog_body">ເກຍ​ຖືກ​ຕັດ​ເຊື່ອມ​ຕໍ່​ແລ້ວ.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">ບໍ່ສາມາດເປີດ %s ໃນໂໝດປະຢັດໄຟສູງສຸດ.</string>
+    <string name="maximum_power_saving_mode_dialog_title">ບໍ່ສາມາດເປີດແອັບໄດ້</string>
+    <string name="mb">%s MB</string>
+    <string name="model_number">ໝາຍເລກລຸ້ນ</string>
+    <string name="network_problem_message">ກວດເບິ່ງການເຊື່ອມຕໍ່ເຄືອຂ່າຍຂອງທ່ານ, ຈາກນັ້ນລອງໃໝ່ອີກ.</string>
+    <string name="no_device_nearby">ບໍ່ພົບອຸປະກອນ</string>
+    <string name="no_feedback">ບໍ່ມີການສະເໜີແນະ</string>
+    <string name="no_gear_description1">ເບິ່ງໃຫ້ແນ່ໃຈວ່າອຸປະກອນທີ່ທ່ານຕ້ອງການເພີ່ມນັ້ນເປີດຢູ່.</string>
+    <string name="no_gear_title">ກຳລັງເຊື່ອມຕໍ່ອຸປະກອນໃໝ່</string>
+    <string name="no_internet_access">ບໍ່ມີອິນເຕີເນັດ</string>
+    <string name="no_text_entered">ບໍ່ສາມາດສົ່ງຕອບໂຕ້ກັບໄດ້. ບໍ່ມີຂໍ້ຄວາມຖືກປ້ອນເຂົ້າ.</string>
+    <string name="none_paired">ບໍ່ມີເຄື່ອງໃດຖືກຈັບຄູ່.</string>
+    <string name="not_enough_space_message">ບໍ່ສາມາດໃຊ້ %s ໄດ້. ລຶບບາງໄຟລ໌ ຫຼື ຖອນຕິດຕັ້ງແອັບ, ຈາກນັ້ນລອງໃໝ່ອີກ.</string>
+    <string name="not_enough_space_title">ເນື້ອທີ່ບໍ່ພຽງພໍ</string>
+    <string name="not_now">ພາຍຫຼັງ</string>
+    <string name="not_supportable_dialog_description">ໂມງນີ້ບໍ່ຖືກຮອງຮັບໃນໂທລະສັບນີ້.</string>
+    <string name="not_supportable_dialog_title">ບໍ່ສາມາດຈັບຄູ່ກັບ %s ໄດ້</string>
+    <string name="not_supported">%s ບໍ່ຖືກຮອງຮັບ</string>
+    <string name="not_supported_device_or_version">ເວີຊັນແອນດຣອຍຂອງທ່ານເຂົ້າກັນບໍ່ໄດ້. ກວດຫາອັບເດດຊອບແວສຳລັບໂທລະສັບຂອງທ່ານ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="notification_channel_backup_and_restore">ແບັກອັບ ແລະເອົາກັບຄືນ</string>
+    <string name="ok">ຕົກລົງ</string>
+    <string name="pairing_check_pin_number_band">ກວດເບິ່ງເບີໂທໃນສາຍຮັດຂອງທ່ານ</string>
+    <string name="pairing_check_pin_number_earbud">ກຳລັງເຊື່ອມຕໍ່ກັບຫູຟັງຂອງທ່ານ…</string>
+    <string name="pairing_check_pin_number_watch">ກວດເບິ່ງເບີໂທໃນໂມງຂອງທ່ານ</string>
+    <string name="pairing_finish_band">ສາຍຮັດຂອງທ່ານຖືກຈັບຄູ່ແລ້ວ</string>
+    <string name="pairing_finish_watch">ໂມງຂອງທ່ານຖືກຈັບຄູ່ແລ້ວ</string>
+    <string name="percentage">%d%%</string>
+    <string name="permission_dialog_body_1">"ຈຳເປັນຕ້ອງມີການອະນຸຍາດຕໍ່ໄປນີ້ສຳລັບການບໍລິການຂອງແອັບ.
+
+ການອະນຸຍາດທີ່ຈຳເປັນ"</string>
+    <string name="permission_dialog_body_2">ຈຸດທີ່ຕັ້ງ: ຖືກໃຊ້ເພື່ອຊອກຫາອຸປະກອນທີ່ສວມໃສ່ໄດ້ໃກ້ຄຽງຜ່ານບລູທູດ</string>
+    <string name="permission_dialog_body_3">ບ່ອນເກັບຂໍ້ມູນ: ຖືກໃຊ້ເພື່ອສົ່ງ ແລະ ຮັບເອົາໄຟລ໌ທີ່ຈັດເກັບດ້ວຍອຸປະກອນທີ່ສວມໃສ່ໄດ້</string>
+    <string name="permission_dialog_body_4">ໂທລະສັບ: ຖືກໃຊ້ເພື່ອກວດເບິ່ງຂໍ້ມູນປະຈຳຕົວສະເພາະຂອງອຸປະກອນສຳລັບການອັບເດດແອັບ ແລະ ການຕິດຕັ້ງແອັບປລັກອິນ</string>
+    <string name="permission_dialog_body_5">ຜູ້ຕິດຕໍ່: ທີ່ໃຊ້ເພື່ອໃຫ້ການບໍລິການທີ່ຈຳເປັນຕ້ອງໄດ້ລິ້ງຫາບັນຊີໂດຍໃຊ້ຂໍ້ມູນ Samsung account ທີ່ລົງທະບຽນໄວ້</string>
+    <string name="permission_dialog_title">ການອະນຸຍາດແອັບ</string>
+    <string name="permission_guide_location_description">Galaxy Wearable ໃຊ້ການອະນຸຍາດຈຸດທີ່ຕັ້ງເພື່ອໃຊ້ບລູທູດເພື່ອຊອກຫາອຸປະກອນໃກ້ຄຽງ.</string>
+    <string name="permission_guide_phone_description">ທີ່ໃຊ້ເພື່ອລະບຸອຸປະກອນສຳລັບການອັບເດດແອັບ ແລະ ການຕິດຕັ້ງປລັກອິນ.</string>
+    <string name="permission_guide_precise_location_description">ເພື່ອໃຊ້ Galaxy Wearable, ທ່ານຈຳເປັນຕ້ອງໄດ້ອະນຸຍາດໃຫ້ມັນເຂົ້າເຖິງຈຸດທີ່ຕັ້ງທີ່ຖືກຕ້ອງໃນໂທລະສັບນີ້.</string>
+    <string name="permission_intro_title_one">%s ໃຊ້ການອະນຸຍາດນີ້</string>
+    <string name="permission_intro_title_others">%s ໃຊ້ການອະນຸຍາດເຫຼົ່ານີ້</string>
+    <string name="permission_link_description">ເບິ່ງ %1$sການອະນຸຍາດສຳລັບ Galaxy Wearable%2$s ແລະ ວິທີທີ່ພວກມັນຖືກໃຊ້.</string>
+    <string name="permission_location">ຈຸດທີ່ຕັ້ງ</string>
+    <string name="permission_phone">ໂທລະສັບ</string>
+    <string name="permission_settings_dialog_message">ບໍ່ສາມາດໃຊ້ %s ໄດ້. ແຕະ [ການຕັ້ງຄ່າ], ຈາກນັ້ນອະນຸຍາດການອະນຸຍາດຕໍ່ໄປນີ້ແລະລອງໃໝ່ອີກ:</string>
+    <string name="permissions">ການອະນຸຍາດ</string>
+    <string name="permissions_content_title">ການອະນຸຍາດສຳລັບ %s</string>
+    <string name="permissions_detail_required_title">%s ຕ້ອງການການອະນຸຍາດເຫຼົ່ານີ້:</string>
+    <string name="permissions_nearby_desc">ທີ່ໃຊ້ເພື່ອສະແກນຫາອຸປະກອນໃກ້ຄຽງ.</string>
+    <string name="permissions_nearby_title">ອຸປະກອນໃກ້ຄຽງ</string>
+    <string name="phone_info">ຂໍ້ມູນໂທລະສັບ</string>
+    <string name="pick_gear">ເລືອກອຸປະກອນຂອງທ່ານ</string>
+    <string name="popup_message_bluetooth_turn_on">ບລູທູດປິດ. ແຕະ​ [ເປີດ] ​ເພື່ອ​ເປີດ​ມັນ.</string>
+    <string name="popup_title_message_bluetooth_turn_on">ເປີດບລູທູດ</string>
+    <string name="privacypolicy_learn_more">ຮຽນຮູ້ເພີ່ມເຕີມ</string>
+    <string name="promotion_main_description">ເຊື່ອມຕໍ່ໂມງ, ສາຍຮັດ, ຫຼື ຫູຟັງ Galaxy ຂອງທ່ານ.</string>
+    <string name="promotion_start_pairing">ເລີ່ມຕົ້ນ</string>
+    <string name="qa_store_dialog_password">ລະຫັດຜ່ານ</string>
+    <string name="rate_response">ປະເມີນຄຳຕອບ</string>
+    <string name="rating1">ບໍ່ມີປະໂຫຍດ</string>
+    <string name="rating2">ບໍ່ມີປະໂຫຍດຫຼາຍ</string>
+    <string name="rating3">ຄ່ອນຂ້າງມີປະໂຫຍດ</string>
+    <string name="rating4">ມີປະໂຫຍດ</string>
+    <string name="rating5">ມີປະໂຫຍດຫຼາຍ</string>
+    <string name="reboot">ປິດເປີດຄືນໃໝ່</string>
+    <string name="reboot_phone_message">Samsung Accessory Service ໄດ້ຖືກອັບເດດແລ້ວ. ປິດເປີດໂທລະສັບຂອງທ່ານຄືນໃໝ່ເພື່ອເຊື່ອມຕໍ່ກັບເກຍຂອງທ່ານ.</string>
+    <string name="record_screen">ບັນທຶກໜ້າຈໍ</string>
+    <string name="reset_your_watch_body">ເພື່ອຈັບຄູ່ໂມງຂອງທ່ານກັບໂທລະສັບໃໝ່ຂອງທ່ານ, ກ່ອນອື່ນໃຫ້ຕັ້ງໂມງຂອງທ່ານຄືນໃໝ່, ຈາກນັ້ນເປີດ Galaxy Wearable ແລະ ເຊື່ອມຕໍ່.</string>
+    <string name="reset_your_watch_then_try_again">ເພື່ອເຊື່ອມຕໍ່ກັບໂທລະສັບໃໝ່, ທ່ານຈຳເປັນຕ້ອງຕັ້ງໂມງຂອງທ່ານຄືນໃໝ່ກ່ອນ, ເຊິ່ງຈະລຶບຂໍ້ມູນທັງໝົດ.</string>
+    <string name="reset_your_watch_title">ເຊື່ອມຕໍ່ໂມງຂອງທ່ານກັບໂທລະສັບໃໝ່ຂອງທ່ານບໍ?</string>
+    <string name="retry">ລອງ​ໃໝ່ອີກ</string>
+    <string name="scan_for_wearable_devices">ກຳລັງສະແກນຫາອຸປະກອນທີ່ຈະເພີ່ມ…</string>
+    <string name="search_scan_again">ສະແກນອີກ</string>
+    <string name="select_device">ເລືອກເຄື່ອງ</string>
+    <string name="send">ສົ່ງ</string>
+    <string name="send_system_log_data">ສົ່ງຂໍ້ມູນບັນທຶກຂອງລະບົບ</string>
+    <string name="send_system_log_data_popup">ສົ່ງຂໍ້ມູນບັນທຶກຂອງລະບົບບໍ?</string>
+    <string name="send_system_log_data_subtext">ສົ່ງບັນທຶກຂອງລະບົບເພື່ອຊ່ວຍແກ້ໄຂບັນຫາຄຳຖາມຂອງທ່ານ.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">ກວດນໍາທາງຂຶ້ນໄປ</string>
+    <string name="sesl_action_menu_overflow_badge_description">ເນື້ອໃນໃໝ່ມີຢູ່</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="sesl_index_assistant_text">ຮູດຂຶ້ນເທິງ ຫຼື ລົງລຸ່ມດ້ວຍມືສອງນິ້ວເພື່ອເລື່ອນ.</string>
+    <string name="sesl_index_scrollbar">ແຖບເລື່ອນ</string>
+    <string name="sesl_index_section">ດັດຊະນີພາກສ່ວນ</string>
+    <string name="sesl_index_selected">ເລືອກແລ້ວ</string>
+    <string name="sesl_material_badge_description">ເນື້ອໃນໃໝ່ມີຢູ່</string>
+    <string name="sesl_material_overflow_badge_text_n">N</string>
+    <string name="sesl_more_item_label">ເພີ່ມເຕີມ</string>
+    <string name="sesl_preferencecategory_added_title">ສ່ວນຫົວ</string>
+    <string name="sesl_search_hint">ຄົ້ນຫາ</string>
+    <string name="sesl_searchview_description_clear">ລຶບຊ່ອງຊອກຫາ</string>
+    <string name="sesl_searchview_description_query">ຄົ້ນຫາການສືບຖາມ</string>
+    <string name="sesl_searchview_description_search">ຄົ້ນຫາ</string>
+    <string name="sesl_searchview_description_submit">ສົ່ງການສືບຖາມ</string>
+    <string name="sesl_searchview_description_voice">ຄົ້ນຫາດ້ວຍສຽງ</string>
+    <string name="sesl_switch_off">ປິດ</string>
+    <string name="sesl_switch_on">ເປີດ</string>
+    <string name="sesl_switchbar_off_text">ປິດ</string>
+    <string name="sesl_switchbar_on_text">ເປີດ</string>
+    <string name="sesl_toolbar_collapse_description">ຫຍໍ້ລົງ</string>
+    <string name="settings">ການຕັ້ງຄ່າ</string>
+    <string name="size_limit_exceeds">ບໍ່ສາມາດຄັດຕິດໄດ້ຫຼາຍກວ່າ %s ຂອງໄຟລ໌. ເອົາບາງໄຟ​ລ໌ອອກໄປ ແລະລອງໃໝ່ອີກ.</string>
+    <string name="software_update_text">ອັບເດດຊອບແວ</string>
+    <string name="something_went_wrong">ມີບາງສິ່ງບາງຢ່າງຜິດພາດ. ລອງ​ໃໝ່ອີກ​.</string>
+    <string name="sometimes">ບາງຄັ້ງຄາວ</string>
+    <string name="support_has_ended">ຮອງຮັບສຳລັບ %s ໄດ້ສິ້ນສຸດແລ້ວ.</string>
+    <string name="sysytemlogpopupdec">"ການ​ບັນ​ທຶກ​ຂອງ​ລະ​ບົບ​ຂອງ​ທ່ານ​ຈະ​ຖືກ​ສົ່ງ​ໄປ​ຫາ Samsung Electronics Co., Ltd ​ສໍາ​ລັບການ​ວິ​ເຄາະ. ການ​ບັນ​ທຶກ​ຂອງ​ລະ​ບົບ​ຂອງ​ທ່ານ​ອາດ​ຈະ​ປະ​ກອບ​ມີ​ຂໍ້​ມູນ​ຈາກ​ແອັບ​ບຸກ​ຄົນ​ທີ່​ສາມ​ທີ່​ຕິດ​ຕັ້​ງ​ໃນ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ. ຂໍ້ມູນການບັນທຶກຂອງລະບົບຈະຖືກໃຊ້ເພື່ອວິເຄາະບັນຫາແລະປັບປຸງແອັບໃຫ້ດີຂຶ້ນເທົ່ານັ້ນ, ຈາກນັ້ນຈະຖືກລຶບທັນທີເມື່ອການວິເຄາະສຳເລັດແລ້ວ. ການສົ່ງການບັນທຶກຂອງລະບົບຂອງທ່ານໂດຍໃຊ້ຂໍ້ມູນມືຖືຈະເພີ່ມການນຳໃຊ້ຂໍ້ມູນຂອງທ່ານຂຶ້ນເຖິງ %s ແລະ ອາດຈະເກີດມີຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ. ທ່ານສາມາດໃຊ້ Wi-Fi ແທນ.
+
+ລໍຖ້າໃຫ້ບັນທຶກຂອງລະບົບຖືກຄັດຕິດ ກ່ອນຂຽນລາຍລະອຽດກ່ຽວກັບບັນຫາຂອງທ່ານ."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">ການໂອນຂໍ້ມູນສ່ວນບຸກຄົນໄປຕ່າງປະເທດ</string>
+    <string name="turn_on_location_desc">ແຕະ [ການຕັ້ງຄ່າ] ແລະ ເປີດຈຸດທີ່ຕັ້ງ ເພື່ອເຊື່ອມຕໍ່ກັບໂມງຂອງທ່ານ ແລະ ຊິງຄ໌ຂໍ້ມູນ.</string>
+    <string name="turn_on_location_title">ເປີດຈຸດທີ່ຕັ້ງ</string>
+    <string name="txt_device">ອຸປະກອນ</string>
+    <string name="txt_devices">ອຸປະກອນ</string>
+    <string name="uhm_install_plugin_from_play_store">ຕິດຕັ້ງ %s</string>
+    <string name="uhm_update_cancel_popup_button_ok">ປິດແອັບ</string>
+    <string name="uhm_update_cancel_popup_desc">ຖ້າທ່ານບໍ່ອັບເດດດຽວນີ້, ທ່ານບໍ່ສາມາດສືບຕໍ່ໃຊ້ແອັບ Galaxy Wearable.</string>
+    <string name="uhm_update_cancel_popup_title">ປິດແອັບ Galaxy Wearable ບໍ?</string>
+    <string name="uhm_update_download_progress">ກໍາລັງ​ດາວ​ໂຫຼດ…</string>
+    <string name="uhm_update_exist_notification_subtitle">ມີເວີເຊິນໃໝ່ໃຫ້ຢູ່.</string>
+    <string name="uhm_update_install_disconnect_device">ກໍາລັງຢຸດເຊື່ອມຕໍ່ຈາກ %s…</string>
+    <string name="uhm_update_install_progress">ກໍາລັງຕິດຕັ້ງ…</string>
+    <string name="uhm_update_is_available">%s ມີຢູ່.</string>
+    <string name="uhm_update_new_version">ເວີຊັນໃໝ່</string>
+    <string name="uhm_update_notice">ແຈ້ງການ</string>
+    <string name="uhm_whats_new_popup_title">ມີອັນໃດໃໝ່</string>
+    <string name="unable_to_enable">ບໍ່ສາມາດເປີດໃຊ້ງານຟັງຄ໌ຊັນໄດ້</string>
+    <string name="unable_to_install_message">Unable to install. Unexpected error.</string>
+    <string name="update_gms_dialog_description">ເພື່ອຕັ້ງໂມງຂອງທ່ານ, ທ່ານຈຳເປັນຕ້ອງອັບເດດການບໍລິການ Google Play ກ່ອນ, ຈາກນັ້ນ ເລີ່ມຕົ້ນຕັ້ງອີກຄັ້ງ.</string>
+    <string name="update_gms_dialog_title">ອັບເດດການບໍລິການ Google Play ບໍ?</string>
+    <string name="use_network_connection_dialog_body">ອະນຸຍາດໃຫ້ %s ໃຊ້ການເຊື່ອມຕໍ່ເຄືອຂ່າຍບໍ?</string>
+    <string name="use_network_connection_dialog_title">ໃຊ້ການເຊື່ອມຕໍ່ເຄືອຂ່າຍ</string>
+    <string name="watch">ໂມງ</string>
+    <string name="watch_guide">ໃນໜ້າຈໍແອັບ, ແຕະ ການຕັ້ງຄ່າ > ເຊື່ອມຕໍ່ກັບໂທລະສັບໃໝ່.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">ເຊື່ອມຕໍ່ກັບເກຍ</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ຕິດຕໍ່ພວກເຮົາ</string>
+</resources>

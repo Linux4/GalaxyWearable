@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/main_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/download_install_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <ViewStub android:id="@id/download_install_layout_stub" android:layout="@layout/download_install_layout" android:inflatedId="@id/download_install_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/transtition_view" android:background="@color/main_background_color" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <com.samsung.android.app.twatchmanager.uiitems.CircleProgressBar android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/transtition_view_switching" android:visibility="gone" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+        <include layout="@layout/infinite_progress_switching" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/plugin_main_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/actionbar_container" android:layout_width="fill_parent" android:layout_height="64.0dip" android:layout_marginTop="40.0dip">
+        <RelativeLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/checkbox_container" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginStart="18.0dip">
+            <CheckBox android:id="@id/all_checkbox" android:clickable="true" android:duplicateParentState="true" android:layout_width="32.0dip" android:layout_height="32.0dip" />
+            <TextView android:textSize="12.0dip" android:textColor="@color/main_title_text_color" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/all" android:layout_below="@id/all_checkbox" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <TextView android:textSize="21.0dip" android:textColor="@color/main_title_text_color" android:id="@id/manage_device_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.5dip" android:text="@string/manage_devices_title_text" android:layout_marginStart="18.0dip" android:layout_toEndOf="@id/checkbox_container" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/desc_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/actionbar_container" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip">
+        <TextView android:textSize="16.0sp" android:textColor="@color/description_text_color" android:id="@id/main_text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/manage_devices_desc_text1" />
+        <TextView android:textSize="16.0sp" android:textColor="@color/description_text_color" android:id="@id/main_text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/manage_devices_desc_text2" />
+    </LinearLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="54.0dip" android:layout_above="@id/bottom_layout" android:layout_below="@id/desc_layout">
+        <com.samsung.android.app.twatchmanager.uiitems.NonScrollListView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/device_item_listview" android:background="@drawable/plugin_list_item_shape" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="#ffe6e6e6" android:splitMotionEvents="false" />
+    </ScrollView>
+    <RelativeLayout android:gravity="center" android:id="@id/bottom_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="56.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="@dimen/bottom_single_button_text_size" android:textColor="@color/main_title_text_color" android:gravity="center" android:id="@id/delete_device_button" android:background="@drawable/button_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/dialog_bottom_button_height" android:text="@string/manage_devices_delete_btn_text" android:textAllCaps="false" android:paddingStart="@dimen/main_title_margin_start" android:paddingEnd="@dimen/main_title_margin_end" style="@style/robotoMedium" />
+    </RelativeLayout>
+</RelativeLayout>

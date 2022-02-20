@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">%d ಸಾಧನ ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಸಂಯೋಜಿತ ಅನ್ವಯಿಸುವಿಕೆಗಳು ಇನ್ನೂ ಮುಂದೆ ಅಗತ್ಯವಿರುವುದಿಲ್ಲವೇ?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಸಾಧನ ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಸಂಯೋಜಿತ ಅನ್ವಯಿಸುವಿಕೆಗಳು ಇನ್ನೂ ಮುಂದೆ ಅಗತ್ಯವಿರುವುದಿಲ್ಲವೇ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">%d ಅಂಶಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಅಂಶ ತೆಗೆದುಹಾಕುವುದೇ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

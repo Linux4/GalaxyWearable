@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">Дазваляе праграме перадаваць даныя праз Bluetooth, ужываючы структуру аксесуараў.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">Перадача даных з праз сэрвіс</string>
+    <string name="access_connected_device_status">Атрым дост да стану падл прыл.</string>
+    <string name="access_connected_device_status_description">Гэта праграма можа мець доступ да стану падлучэння нацельнай пралады.</string>
+    <string name="after_post_they_appear">Водгук, які вы нам адправіце, будзе паказаны тут.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Пры гэтым падлучэнне да %s будзе разарвана.</string>
+    <string name="all">Усе</string>
+    <string name="always">Always</string>
+    <string name="android_version">Версія Android</string>
+    <string name="answered">Адказана</string>
+    <string name="app_details">Дадатковыя праграмы</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">Спытаць зноў</string>
+    <string name="ask_again_for_additional_questions">Націсніце «СПЫТАЦЬ ЗНОЎ», каб задаць дадатковыя пытанні, звязаныя з тымі, што ўжо апублікаваны.</string>
+    <string name="attach">Далуч</string>
+    <string name="attachments">Далучэнні</string>
+    <string name="band">Бранзалет</string>
+    <string name="band_guide">Адлучыць свой бранзалет ад папярэдняга тэлефона. У праграме Galaxy Wearable на папярэднім тэлефоне націсніце кнопку выпадаючага меню, затым выберыце «Адлучыць».</string>
+    <string name="benefit_desc_1">Адразу правярайце ўзровень зараду акумулятара і іншае на падлучаным гадзінніку, бранзалеце або навушніках.</string>
+    <string name="benefit_desc_2">Кіруйце сваім гадзіннікам, бранзалетам або навушнікамі з дапамогай падрабязных налад.</string>
+    <string name="benefit_desc_3">Лёгка рэгулюйце знешні выгляд вашага гадзінніка.</string>
+    <string name="benefit_title_1">Падлучайцеся і правярайце стан</string>
+    <string name="benefit_title_2">Атрымайце доступ да дадатковых функцый</string>
+    <string name="benefit_title_3">Мяняйце і дапасоўвайце цыферблаты</string>
+    <string name="bg_update_after_os_up_fail">Не атрымалася ўсталяваць абнаўленне.</string>
+    <string name="bg_update_after_os_up_noti_desc">Націсніце тут, каб усталяваць яго. Падчас абнаўлення нацельныя прылады могуць адлучыцца.</string>
+    <string name="bg_update_after_os_up_success">Праграмнае забеспячэнне паспяхова абноўлена.</string>
+    <string name="btn_next">Далей</string>
+    <string name="build_number">Нумар зборкі</string>
+    <string name="button_text_bluetooth_turn_on">Уключыць</string>
+    <string name="button_text_close">Закрыць</string>
+    <string name="button_text_continue">Працягнуць</string>
+    <string name="cancel">Скасав.</string>
+    <string name="cant_attach_more_files">Немагчыма далучыць больш за наступную колькасць файлаў: %d.</string>
+    <string name="capture_screen">Здымак экрана</string>
+    <string name="character_counter_content_description">%1$d з %2$d сімвалаў</string>
+    <string name="check_for_update">Не падтрымліваецца для бягучай версіі праграмнага забеспячэння тэлефона. Праверце наяўнасць абнаўлення, затым паўтарыце спробу.</string>
+    <string name="compose">Ствар.</string>
+    <string name="confirm">Пацвердзіць</string>
+    <string name="connect_popup_content">Падлучэнне</string>
+    <string name="connected">Падлучана</string>
+    <string name="contact_us_ask">Задаць пытанні</string>
+    <string name="contact_us_chn_read_and_agree">Прачытайце і пагадзіцеся з наступным:</string>
+    <string name="contact_us_error">Справазд пра пам.</string>
+    <string name="contact_us_faq">Пытанні і адказы</string>
+    <string name="contact_us_feedback">Спіс водгукаў</string>
+    <string name="contact_us_select_device_guide">Выберыце прыладу або прылады, з якімі ў вас узнікае праблема. Гэта дапаможа нам хутчэй вырашыць яе.</string>
+    <string name="custom_binary_error_dialog_title">Была выканана несанкцыянаваная мадыфікацыя аперацыйнай сістэмы вашага тэлефона, і зараз яна несумяшчальная з праграмай Samsung Gear. Праверце аперацыйную сістэму і паўтарыце спробу.</string>
+    <string name="delete">Выдаліць</string>
+    <string name="dialog_popup_button_later">Пазней</string>
+    <string name="dialog_popup_button_update">Абнавіць</string>
+    <string name="discovery_guide_description">Прылада можа не паказвацца, калі яна падключана да іншага тэлефона. Вось што трэба зрабіць:</string>
+    <string name="discovery_guide_description_link">Прылада можа не паказвацца, калі яна падлучана да іншага тэлефона. %1$sАтрымайце дапамогу%2$s.</string>
+    <string name="do_not_show_again">Больш не паказваць</string>
+    <string name="done">Гатова</string>
+    <string name="download_error_chian_sa_not_signed">Спачатку ўвайдзіце ў Samsung account.</string>
+    <string name="download_error_china_sim_mismatch">Краіна SIM-карты не супадае з краінай Samsung account.</string>
+    <string name="download_error_china_title">Не атрымалася наладзіць гадзіннік</string>
+    <string name="download_error_eos_description">"Паважаныя кліенты %1$s!
+
+Згодна з палітыкай эксплуатацыі сэрвісу, %2$s не падтрымлівае ўзаемадзеянне з мабільнымі тэлефонамі, якія будуць выпушчаны пасля 2021 г.
+Такое рашэнне прынята на падставе высновы, што цяперашнюю якасць работы сэрвісу немагчыма падтрымліваць выключна шляхам абнаўлення праграмы. Памятайце пра гэта, калі будзеце мяняць мабільны тэлефон у будучыні.
+Калі ў вас засталіся пытанні, звяртайцеся ў наш цэнтр апрацоўкі выклікаў (%3$shttp://samsung.com/support%4$s), у раздзел Samsung Members або на старонку %5$shttp://help.content.samsung.com%6$s — і мы пастараемся вам дапамагчы.
+"</string>
+    <string name="download_install_app_restart_description">Galaxy Wearable закрыецца, каб прымяніць абнаўленне. Адкрыйце яго зноў пасля завяршэння абнаўлення.</string>
+    <string name="download_install_main_description_band">Тэлефон будзе выкарыстоўваць гэта праграмнае забеспячэнне, каб падлучыцца да бранзалета.</string>
+    <string name="download_install_main_description_earbud">Тэлефон будзе выкарыстоўваць гэта праграмнае забеспячэнне для падлучэння да навушнікаў.</string>
+    <string name="download_install_main_description_watch">Тэлефон будзе выкарыстоўваць гэта праграмнае забеспячэнне, каб падлучыцца да гадзінніка.</string>
+    <string name="download_install_main_title">Спампоўванне праграмнага забеспячэння…</string>
+    <string name="dragndroplist_drag_move">Зараз у пазіцыі %d</string>
+    <string name="dragndroplist_drag_release">Элемент перацягнуты ў пазіцыю %d.</string>
+    <string name="dragndroplist_drag_start">Пачалося перацягванне элемента ў пазіцыю %d.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Элемент у пазіцыі %d немагчыма перацягнуць.</string>
+    <string name="earbuds">Навушнікі</string>
+    <string name="earbuds_guide">Для падлучэння ўстаўце навушнікі ў вушы, потым націсніце абодва навушнікі і ўтрымлівайце іх 3 секунды, пакуль не пачуеце гукавы сігнал.</string>
+    <string name="earbuds_guide_additional">Каб падлучыць %s, памясціце навушнікі ў чахол, потым націсніце абодва навушнікі і ўтрымлівайце іх 3 секунды, пакуль індыкатар не заміргае чырвоным і зялёным.</string>
+    <string name="error_while_sending">Aдбылася памылка сервера.</string>
+    <string name="feedback">Зваротная сувязь</string>
+    <string name="file_already_attached">Немагчыма далучыць файл. Файл ужо далучаны.</string>
+    <string name="frequency">Частата</string>
+    <string name="frequency_not_selected">Не атрымалася адправіць справаздачу пра памылку. Выберыце частату праблемы і паўтарыце спробу.</string>
+    <string name="gear_not_presesnt">Не тут</string>
+    <string name="hint_text">"Будзьце ўважлівымі і пазначце ўсе важныя звесткі, каб кансультацыя была карыснай.
+
+Асабістую інфармацыю ўводзіць не трэба.
+
+Упэўніцеся, што ў вас выбрана опцыя «Адпраўляць даныя журнала сістэмы».
+
+Вы можаце далучыць відэа або здымак экрана, каб дапамагчы нам зразумець праблемы."</string>
+    <string name="install_from_play_store_device_type_band">Для кіравання бранзалетам з дапамогай праграмы Galaxy Wearable патрэбны плагін.</string>
+    <string name="install_from_play_store_device_type_earbuds">Для кіравання навушнікамі з дапамогай праграмы Galaxy Wearable патрэбны плагін.</string>
+    <string name="install_from_play_store_device_type_watch">Для кіравання гадзіннікам з дапамогай праграмы Galaxy Wearable патрэбны плагін.</string>
+    <string name="installed">Усталявана.</string>
+    <string name="just_this_time">Толькі ў гэты раз</string>
+    <string name="loading">Загрузка…</string>
+    <string name="manage_devices_delete_btn_text">Выдаліць</string>
+    <string name="manage_devices_delete_btn_text_remove_all">Выдаліць усё</string>
+    <string name="manage_devices_deleteing">Выдаленне…</string>
+    <string name="manage_devices_desc_text1">Выберыце прылады, якія трэба выдаліць з тэлефона.</string>
+    <string name="manage_devices_desc_text2">Трэба будзе скінуць налады ўсіх выдаленых бранзалетаў або гадзіннікаў, перш чым вы зможаце зноў падлучыць іх да тэлефона.</string>
+    <string name="manage_devices_title_text">Выбраць прылады</string>
+    <string name="manage_devices_title_text_select">Выбрана: %d</string>
+    <string name="max_record_time">Максімальны час запісу дасягнуў %d с. Захавайце запіс і дадайце яго да далучэння.</string>
+    <string name="maximum_power_saving_mode_dialog_body">Gear быў адлучаны.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">Немагчыма адкрыць %s у рэжыме максімальнага энергазберажэння.</string>
+    <string name="maximum_power_saving_mode_dialog_title">Праграма не адкрылася</string>
+    <string name="mb">%s МБ</string>
+    <string name="model_number">Нумар мадэлі</string>
+    <string name="network_problem_message">Праверце сеткавае падлучэнне, потым паўтарыце спробу.</string>
+    <string name="no_device_nearby">Не знойдзена прылад</string>
+    <string name="no_feedback">Няма зваротнай сувязі</string>
+    <string name="no_gear_description1">Упэўніцеся, што прылада, якую вы хочаце дадаць, уключана.</string>
+    <string name="no_gear_title">Злучэнне з новай прыладай</string>
+    <string name="no_internet_access">Доступ да інтэрнэту адсутнічае</string>
+    <string name="no_text_entered">Немагчыма адправіць водгук. Тэкст не ўведзены.</string>
+    <string name="none_paired">Няма спалучаных прылад.</string>
+    <string name="not_enough_space_message">Немагчыма выкарыстоўваць %s. Выдаліце частку файлаў або праграм, потым паўтарыце спробу.</string>
+    <string name="not_enough_space_title">Недастаткова прасторы</string>
+    <string name="not_now">Пазней</string>
+    <string name="not_supportable_dialog_description">Гэты гадзіннік не падтрымліваецца на гэтым тэлефоне.</string>
+    <string name="not_supportable_dialog_title">Немагчыма спалучыць %s</string>
+    <string name="not_supported">%s не падтрымліваецца</string>
+    <string name="not_supported_device_or_version">Ваша версія Android несумяшчальная. Праверце наяўнасць абнаўлення праграмнага забеспячэння для тэлефона і паўтарыце спробу.</string>
+    <string name="notification_channel_backup_and_restore">Рэз. капіраванне і аднаўленне</string>
+    <string name="ok">ОК</string>
+    <string name="pairing_check_pin_number_band">Праверце нумар на бранзалеце</string>
+    <string name="pairing_check_pin_number_earbud">Падлучэнне да навушнікаў…</string>
+    <string name="pairing_check_pin_number_watch">Праверце нумар на гадзінніку</string>
+    <string name="pairing_finish_band">Бранзалет спалучаны</string>
+    <string name="pairing_finish_watch">Гадзіннік спалучаны</string>
+    <string name="percentage">%d %%</string>
+    <string name="permission_dialog_body_1">"Для функцыянавання праграмы патрабуюцца наступныя дазволы.
+
+Неабходныя дазволы"</string>
+    <string name="permission_dialog_body_2">Месцазнаходжанне: Выкарыстоўваецца для пошуку паблізу нацельных прылад, якія выкарыстоўваюць Bluetooth</string>
+    <string name="permission_dialog_body_3">Сховішча: Выкарыстоўваецца для перадачы і атрымання захаваных файлаў на нацельных прыладах</string>
+    <string name="permission_dialog_body_4">Тэлефон: Выкарыстоўваецца для праверкі ўнікальнай ідэнтыфікацыйнай інфармацыі аб прыладзе для абнаўлення праграм і ўсталёўкі праграм-плагінаў</string>
+    <string name="permission_dialog_body_5">Кантакты: Выкарыстоўваецца для прадстаўлення паслуг, якія трэба прывязваць да ўліковых запісаў з дапамогай інфармацыі зарэгістраванага Samsung account</string>
+    <string name="permission_dialog_title">Дазволы праграмы</string>
+    <string name="permission_guide_location_description">Galaxy Wearable выкарыстоўвае дазвол на доступ да месцазнаходжання, каб выкарыстоўваць Bluetooth для пошуку прылад паблізу.</string>
+    <string name="permission_guide_phone_description">Выкарыстоўваецца для ідэнтыфікацыі прылад для абнаўлення праграм і ўсталёўкі плагінаў.</string>
+    <string name="permission_guide_precise_location_description">Для выкарыстання Galaxy Wearable трэба дазволіць яму доступ да дакладнага месцазнаходжання гэтага тэлефона.</string>
+    <string name="permission_intro_title_one">%s выкарыстоўвае гэты дазвол</string>
+    <string name="permission_intro_title_others">%s выкарыстоўвае гэтыя дазволы</string>
+    <string name="permission_link_description">Даведайцеся аб %1$sдазволах для Galaxy Wearable%2$s і іх выкарыстанні.</string>
+    <string name="permission_location">Месцазнаходжанне</string>
+    <string name="permission_phone">Тэлефон</string>
+    <string name="permission_settings_dialog_message">Немагчыма выкарыстаць %s. Націсніце «НАЛАДЫ», затым дайце наступныя дазволы і паўтарыце спробу:</string>
+    <string name="permissions">Дазволы</string>
+    <string name="permissions_content_title">Дазволы для %s</string>
+    <string name="permissions_detail_required_title">%s патрабуюцца наступныя дазволы:</string>
+    <string name="permissions_nearby_desc">Выкарыстоўваецца для пошуку прылад паблізу.</string>
+    <string name="permissions_nearby_title">Прылады паблізу</string>
+    <string name="phone_info">Інфармацыя тэлефона</string>
+    <string name="pick_gear">Выберыце сваю прыладу</string>
+    <string name="popup_message_bluetooth_turn_on">Bluetooth выключаны. Націсніце «Уключыць», каб уключыць.</string>
+    <string name="popup_title_message_bluetooth_turn_on">Уключыць Bluetooth</string>
+    <string name="privacypolicy_learn_more">Даведацца больш</string>
+    <string name="promotion_main_description">Падлучыце гадзіннік, бранзалет або навушнікі Galaxy.</string>
+    <string name="promotion_start_pairing">Пачаць</string>
+    <string name="qa_store_dialog_password">Пароль</string>
+    <string name="rate_response">Ацаніць адказ</string>
+    <string name="rating1">Не карысна</string>
+    <string name="rating2">Не вельмі карысна</string>
+    <string name="rating3">Даволі карысна</string>
+    <string name="rating4">Карысна</string>
+    <string name="rating5">Вельмі карысна</string>
+    <string name="reboot">Перазап</string>
+    <string name="reboot_phone_message">Samsung Accessory Service абноўлены. Перазапусціце тэлефон, каб падлучыцца да Gear.</string>
+    <string name="record_screen">Экран запісу</string>
+    <string name="reset_your_watch_body">Каб спалучыць гадзіннік з новым тэлефонам, перш скіньце налады гадзінніка, потым адкрыйце Galaxy Wearable і падлучыце.</string>
+    <string name="reset_your_watch_then_try_again">Каб падлучыць новы тэлефон, перш трэба скінуць налады гадзінніка, што прывядзе да выдалення ўсіх даных.</string>
+    <string name="reset_your_watch_title">Падлучыць гадзіннік да новага тэлефона?</string>
+    <string name="retry">Паўтарыць</string>
+    <string name="scan_for_wearable_devices">Пошук прылад для дадавання…</string>
+    <string name="search_scan_again">Сканірав зноў</string>
+    <string name="select_device">Выберыце прыладу</string>
+    <string name="send">Адправіць</string>
+    <string name="send_system_log_data">Адправіць даныя журнала сістэмы</string>
+    <string name="send_system_log_data_popup">Адправіць даныя журнала сістэмы?</string>
+    <string name="send_system_log_data_subtext">Адпраўце журнал сістэмы, каб дапамагчы вырашыць пытанні.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">Пераход уверх</string>
+    <string name="sesl_action_menu_overflow_badge_description">Даступна новае змесціва</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Н</string>
+    <string name="sesl_action_menu_overflow_description">Іншыя параметры</string>
+    <string name="sesl_index_assistant_text">Каб прагартаць, правядзіце ўверх або ўніз двума пальцамі.</string>
+    <string name="sesl_index_scrollbar">Паласа прагорткі</string>
+    <string name="sesl_index_section">Індэкс раздзелу</string>
+    <string name="sesl_index_selected">Выбрана</string>
+    <string name="sesl_material_badge_description">Даступна новае змесціва</string>
+    <string name="sesl_material_overflow_badge_text_n">Н</string>
+    <string name="sesl_more_item_label">Болей</string>
+    <string name="sesl_preferencecategory_added_title">Загаловак</string>
+    <string name="sesl_search_hint">Пошук</string>
+    <string name="sesl_searchview_description_clear">Ачысціць поле пошуку</string>
+    <string name="sesl_searchview_description_query">Пошукавы запыт</string>
+    <string name="sesl_searchview_description_search">Пошук</string>
+    <string name="sesl_searchview_description_submit">Адправіць запыт</string>
+    <string name="sesl_searchview_description_voice">Галасавы пошук</string>
+    <string name="sesl_switch_off">Не выкарыстоўваецца</string>
+    <string name="sesl_switch_on">Выкарыстоўваецца</string>
+    <string name="sesl_switchbar_off_text">Выкл.</string>
+    <string name="sesl_switchbar_on_text">Укл.</string>
+    <string name="sesl_toolbar_collapse_description">Згарнуць</string>
+    <string name="settings">Налады</string>
+    <string name="size_limit_exceeds">Немагчыма далучыць больш за %s файлаў. Выдаліце частку файлаў і паўтарыце спробу.</string>
+    <string name="software_update_text">Абнаўленне праграмнага забеспячэння</string>
+    <string name="something_went_wrong">Узнікла праблема. Паўтарыце спробу.</string>
+    <string name="sometimes">Часам</string>
+    <string name="support_has_ended">Падтрымка %s скончылася.</string>
+    <string name="sysytemlogpopupdec">"Журнал сістэмы будзе адпраўлены Samsung Electronics Co., Ltd для аналізу. Журнал сістэмы можа ўтрымліваць інфармацыю ад старонніх праграм, якія ўсталяваны на тэлефоне. Даныя журнала сістэмы будуць выкарыстоўвацца толькі ў мэтах аналізу праблемы і паляпшэння праграмы і будуць выдалены пасля завярншэння аналізу. Адпраўка даных журнала сістэмы з выкарыстаннем мабільнай перадачы даных павялічыць выкарыстанне даных да %s максімум і можа прывесці да дадатковай аплаты. Замест гэтага вы можаце скарыстацца Wi-Fi.
+
+Пачакайце, пакуль будзе далучаны журнал сістэмы, перш чым уводзіць інфармацыю аб праблеме."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">Перадача асабістых даных за мяжу</string>
+    <string name="turn_on_location_desc">Націсніце «Налады» і ўключыце вызначэнне месцазнаходжання, каб падлучыцца да гадзінніка і сінхранізаваць даныя.</string>
+    <string name="turn_on_location_title">Уключыць вызначэнне месцазнаходжання</string>
+    <string name="txt_device">Прылада</string>
+    <string name="txt_devices">Прылады</string>
+    <string name="uhm_install_plugin_from_play_store">Усталяваць %s</string>
+    <string name="uhm_update_cancel_popup_button_ok">Закрыць праграму</string>
+    <string name="uhm_update_cancel_popup_desc">Калі вы не абновіце праграму Galaxy Wearable зараз, вы не зможаце працягнуць карыстацца ёй.</string>
+    <string name="uhm_update_cancel_popup_title">Закрыць праграму Galaxy Wearable?</string>
+    <string name="uhm_update_download_progress">Спампоўванне…</string>
+    <string name="uhm_update_install_disconnect_device">Адлучэнне ад %s…</string>
+    <string name="uhm_update_install_progress">Усталёўка…</string>
+    <string name="uhm_update_is_available">Даступна %s.</string>
+    <string name="uhm_update_new_version">новая версія</string>
+    <string name="uhm_update_notice">Папярэджанне</string>
+    <string name="uhm_whats_new_popup_title">Што новага</string>
+    <string name="unable_to_enable">Немагчыма ўключыць функцыю</string>
+    <string name="unable_to_install_message">Unable to install. Unexpected error.</string>
+    <string name="update_gms_dialog_description">Каб наладзіць гадзіннік, спачатку трэба абнавіць сэрвісы Google Play, а потым зноў пачаць наладжванне.</string>
+    <string name="update_gms_dialog_title">Абнавіць сэрвісы Google Play?</string>
+    <string name="use_network_connection_dialog_body">Дазволіць %s выкарыстоўваць падлучэнні да сеткі?</string>
+    <string name="use_network_connection_dialog_title">Выкарыстоўваць сеткавыя падлучэнні</string>
+    <string name="watch">Гадзіннік</string>
+    <string name="watch_guide">Націсніце «Налады > Падлучыцца да новага тэлефона» на экране праграм.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">Падлучыцеся да Gear</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">Звязацца з намі</string>
+</resources>

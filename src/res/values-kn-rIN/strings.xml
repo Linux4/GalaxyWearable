@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK">ಅಸೆಸರಿ ಫ್ರೇಮ್‌ವರ್ಕ್ ಬಳಸಿಕೊಂಡು ಬ್ಲೂಟೂತ್ ಮೂಲಕ ನಿಮ್ಮ ಡೇಟಾ ವರ್ಗಾವಣೆ ಮಾಡಲು ಅನ್ವಯಿಸುವಿಕೆಗೆ ಅನುಮತಿಸುತ್ತದೆ.</string>
+    <string name="SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB">ಫ್ರೇಮ್‌ವರ್ಕ್ ಮೂಲಕ ಡೇಟಾ ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="access_connected_device_status">ಸಾಧನ ಸಂಪರ್ಕ ಸ್ಥಿತಿಯನ್ನು ಪ್ರವೇಶಿಸಿ</string>
+    <string name="access_connected_device_status_description">ಈ ಅನ್ವಯಿಸುವಿಕೆಯು ಧರಿಸಬಹುದಾದ ಸಾಧನ ಸಂಪರ್ಕದ ಸ್ಥಿತಿಯನ್ನು ಪ್ರವೇಶಿಸಬಹುದು.</string>
+    <string name="after_post_they_appear">ನೀವು ಕಳುಹಿಸುವ ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">%s ನೊಂದಿಗೆ ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸುತ್ತದೆ.</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="always">ಯಾವಾಗಲೂ</string>
+    <string name="android_version">ಆಂಡ್ರಾಯ್ಡ್ ಆವೃತ್ತಿ</string>
+    <string name="answered">ಉತ್ತರಿಸಿರುವುದು</string>
+    <string name="app_details">ಹೆಚ್ಚುವರಿ ಆ್ಯಪ್‌ಗಳು</string>
+    <string name="app_name">Galaxy Wearable</string>
+    <string name="ask_again">ಮತ್ತೆ ಕೇಳಿ</string>
+    <string name="ask_again_for_additional_questions">ಈಗಾಗಲೇ ಪೋಸ್ಟ್ ಮಾಡಿರುವ ಸಂಗತಿಗಳ ಕುರಿತು ಹೇಚ್ಚುವರಿ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಲು “ಮತ್ತೊಮ್ಮೆ ಕೇಳು” ತಟ್ಟಿ.</string>
+    <string name="attach">ಲಗತ್ತು</string>
+    <string name="attachments">ಲಗತ್ತುಗಳು</string>
+    <string name="band">ಬ್ಯಾಂಡ್</string>
+    <string name="band_guide">ಹಿಂದಿನ ಫೋನ್‌ನಿಂದ ನಿಮ್ಮ ಬ್ಯಾಂಡ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ. ಹಿಂದಿನ ಫೋನ್‌ನಲ್ಲಿನ Galaxy Wearable ಅನ್ವಯಿಸುವಿಕೆಯಲ್ಲಿ, ಮೆನು ಡ್ರಾವರ್ ತಟ್ಟಿ, ನಂತರ “ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ” ಅನ್ನು ತಟ್ಟಿ.</string>
+    <string name="benefit_desc_1">ನಿಮ್ಮ ಸಂಪರ್ಕಿತ ವಾಚ್, ಬ್ಯಾಂಡ್ ಅಥವಾ ಇಯರ್‌ಬಡ್‌ಗಳಿಗೆ ಬ್ಯಾಟರಿ ಮಟ್ಟ ಮತ್ತು ಹೆಚ್ಚಿನದನ್ನು ಇಣುಕು ನೋಟದಲ್ಲಿ ನೋಡಿ.</string>
+    <string name="benefit_desc_2">ವಿವರವಾದ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಜೊತೆಗೆ ನಿಮ್ಮ ವಾಚ್, ಬ್ಯಾಂಡ್ ಅಥವಾ ಬಡ್ಸ್ ಅನ್ನು ನಿಯಂತ್ರಿಸಿ.</string>
+    <string name="benefit_desc_3">ನಿಮ್ಮ ವಾಚ್‌ನ ನೋಟ ಮತ್ತು ಭಾವನೆಯನ್ನು ಸುಲಭವಾಗಿ ಸರಿಹೊಂದಿಸಿ.</string>
+    <string name="benefit_title_1">ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ಸ್ಥಿತಿಯನ್ನು ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="benefit_title_2">ಸುಧಾರಿತ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸಿ</string>
+    <string name="benefit_title_3">ವಾಚ್ ಫೇಸ್‌ಗಳನ್ನು ಬದಲಿಸಿ ಮತ್ತು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ</string>
+    <string name="bg_update_after_os_up_fail">ನವೀಕರಣ ಸ್ಥಾಪನೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
+    <string name="bg_update_after_os_up_noti_desc">ಅದನ್ನು ಸ್ಥಾಪಿಸಲು ಇಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ. ಅಪ್‌ಡೇಟ್ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಧರಿಸಬಹುದಾದ ಸಾಧನಗಳು ಸಂಪರ್ಕ ಕಡಿತಗೊಳ್ಳಬಹುದು.</string>
+    <string name="bg_update_after_os_up_success">ಸಾಫ್ಟ್‌ವೇರ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ.</string>
+    <string name="btn_next">ನಂತರ</string>
+    <string name="build_number">ಬಿಲ್ಡ್ ಸಂಖ್ಯೆ</string>
+    <string name="button_text_bluetooth_turn_on">ಆನ್ ಮಾಡಿ</string>
+    <string name="button_text_close">ಮುಚ್ಚಿ</string>
+    <string name="button_text_continue">ಮುಂದುವರೆ</string>
+    <string name="cancel">ರದ್ದು</string>
+    <string name="cant_attach_more_files">%dಕ್ಕೂ ಹೆಚ್ಚು ಫೈಲ್‍ಗಳನ್ನು ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="capture_screen">ಸ್ಕ್ರೀನ್ ಸೆರೆಹಿಡಿಯಿರಿ</string>
+    <string name="character_counter_content_description">%2$d ರಲ್ಲಿ %1$d ಅಕ್ಷರಗಳು</string>
+    <string name="check_for_update">ನಿಮ್ಮ ಫೋನ್ ಸಾಫ್ಟ್‌ವೇರ್‌ನ ಪ್ರಸ್ತುತ ಆವೃತ್ತಿಗೆ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ. ಅಪ್‌ಡೇಟ್‌ಗಾಗಿ ಪರೀಕ್ಷಿಸಿ, ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="compose">ರಚಿಸಿ</string>
+    <string name="confirm">ಖಚಿತಪಡಿಸಿ</string>
+    <string name="connect_popup_content">ಸಂಪರ್ಕಿಸುತ್ತಿದೆ</string>
+    <string name="connected">ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</string>
+    <string name="contact_us_ask">ಪ್ರಶ್ನೆ. ಕೇಳಿ</string>
+    <string name="contact_us_chn_read_and_agree">ಈ ಮುಂದಿನ ಸಂಗತಿಗಳನ್ನು ಓದಿ ಮತ್ತು ಸಮ್ಮತಿಸಿ:</string>
+    <string name="contact_us_error">ದೋಷ ವರದಿಗಳು</string>
+    <string name="contact_us_faq">FAQ</string>
+    <string name="contact_us_feedback">ಪ್ರತಿಕ್ರಿಯೆ ಪಟ್ಟಿ</string>
+    <string name="contact_us_select_device_guide">ನೀವು ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಿರುವ ಸಾಧನ ಅಥವಾ ಸಾಧನಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಇದು ನಮಗೆ ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ಹೆಚ್ಚು ತ್ವರಿತವಾಗಿ ಪರಿಹರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.</string>
+    <string name="custom_binary_error_dialog_title">ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿರುವ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂ ಅನ್ನು ಅನಧಿಕೃತ ವಿಧಾನದಲ್ಲಿ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ ಮತ್ತು ಇದು ಸ್ಯಾಮ್‌ಸಂಗ್ ಗೇರ್ ಅನ್ವಯಿಸುವಿಕೆಯೊಡನೆ ಹೊಂದಾಣಿಕೆಯಾಗುವುದಿಲ್ಲ. ನಿಮ್ಮ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂ ಅನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="dialog_popup_button_later">ಆನಂತರ</string>
+    <string name="dialog_popup_button_update">ನವೀಕರಣ</string>
+    <string name="discovery_guide_description">ನಿಮ್ಮ ಸಾಧನವು ಬೇರೆ ಫೋನ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿದ್ದರೆ ಅದು ಗೋಚರಿಸದೇ ಇರಬಹುದು. ಏನು ಮಾಡಬೇಕೆಂದು ಇಲ್ಲಿದೆ:</string>
+    <string name="discovery_guide_description_link">ನಿಮ್ಮ ಸಾಧನವು ಬೇರೆ ಫೋನ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿದ್ದರೆ ಅದು ಗೋಚರಿಸದೇ ಇರಬಹುದು. %1$sಸಹಾಯ ಪಡೆಯಿರಿ%2$s.</string>
+    <string name="do_not_show_again">ಮತ್ತೊಮ್ಮೆ ತೋರಿಸಬೇಡಿ</string>
+    <string name="done">ಮುಗಿದಿದೆ</string>
+    <string name="download_error_chian_sa_not_signed">ಮೊದಲು ನಿಮ್ಮ Samsung accountಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</string>
+    <string name="download_error_china_sim_mismatch">ನಿಮ್ಮ SIM ಕಾರ್ಡ್ ದೇಶವು ನಿಮ್ಮ Samsung account ದೇಶಕ್ಕೆ ಹೊಂದಾಣಿಕೆಯಾಗುವುದಿಲ್ಲ.</string>
+    <string name="download_error_china_title">ನಿಮ್ಮ ವಾಚ್ ಸೆಟಪ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ</string>
+    <string name="download_error_eos_description">"ಆತ್ಮೀಯ %1$s ಗ್ರಾಹಕರೇ,
+
+ಸೇವಾ ಕಾರ್ಯಾಚರಣೆ ನೀತಿಯ ಪ್ರಕಾರ, 2021 ರ ನಂತರ ಬಿಡುಗಡೆ ಮಾಡಲಾಗುವ ತನ್ನ ಮೊಬೈಲ್‌ ಫೋನ್‌ಗಳೊಂದಿಗಿನ ಕಾರ್ಯಾಚರಣೆಗಳಿಗೆ %2$s ಬೆಂಬಲ ನೀಡುವುದಿಲ್ಲ.
+ಪ್ರಸ್ತುತ ಒದಗಿಸಲಾಗುತ್ತಿರುವ ಸೇವಾ ಗುಣಮಟ್ಟವನ್ನು ಕೇವಲ ಆಪ್ ನವೀಕರಣದ ಮೂಲಕ ಮಾತ್ರ ಕಾಪಾಡಿಕೊಳ್ಳಾಲಾಗುವುದಿಲ್ಲ ಎಂಬ ನಿರ್ಧರಣೆಯನ್ನು ಆಧರಿಸಿ ಈ ನಿರ್ಧಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ. ಭವಿಷ್ಯದಲ್ಲಿ ನಿಮ್ಮ ಮೊಬೈಲ್‌ ಫೋನನ್ನು ಬದಲಾಯಿಸುವಾಗ ಈ ವಿಷಯವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ.
+ನೀವು ಇನ್ನೂ ಹೆಚ್ಚಿನ ಪೆಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದಲ್ಲಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ಸಂಪರ್ಕ ಕೇಂದ್ರವನ್ನು (%3$shttp://samsung.com/support%4$s), Samsung Members ರನ್ನು ಅಥವಾ %5$shttp://help.content.samsung.com%6$s ವನ್ನು ಸಂಪರ್ಕಿಸಿ ಹಾಗೂ ನಾವು ನಿಮಗೆ ಅದನ್ನು ವಿವರಿಸಿ ತಿಳಿಸುವೆವು.
+"</string>
+    <string name="download_install_app_restart_description">ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಅನ್ವಯಿಸಲು Galaxy Wearable ಮುಚ್ಚುತ್ತದೆ. ಅಪ್‌ಡೇಟ್ ಪೂರ್ಣಗೊಂಡ ನಂತರ ಅದನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯಿರಿ.</string>
+    <string name="download_install_main_description_band">ನಿಮ್ಮ ಬ್ಯಾಂಡ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ಈ ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ನಿಮ್ಮ ಫೋನ್ ಬಳಸುತ್ತದೆ.</string>
+    <string name="download_install_main_description_earbud">ನಿಮ್ಮ ಇಯರ್‌ಬಡ್‌ಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಈ ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ನಿಮ್ಮ ಫೋನ್ ಬಳಸುತ್ತದೆ.</string>
+    <string name="download_install_main_description_watch">ನಿಮ್ಮ ವಾಚ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ಈ ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ನಿಮ್ಮ ಫೋನ್ ಬಳಸುತ್ತದೆ.</string>
+    <string name="download_install_main_title">ಸಾಫ್ಟ್‌ವೇರ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="dragndroplist_drag_move">ಇದೀಗ %d ಸ್ಥಾನದಲ್ಲಿದೆ</string>
+    <string name="dragndroplist_drag_release">ಅಂಶವನ್ನು %d ಸ್ಥಾನಕ್ಕೆ ಡ್ರಾಪ್ ಮಾಡಲಾಗಿದೆ.</string>
+    <string name="dragndroplist_drag_start">ಅಂಶವನ್ನು %d ಸ್ಥಾನದಲ್ಲಿ ಡ್ರ್ಯಾಗ್ ಮಾಡುವುದಕ್ಕೆ ಆರಂಭಿಸಲಾಗಿದೆ.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d ಸ್ಥಾನದಲ್ಲಿರುವ ಅಂಶವನ್ನು ಡ್ರ್ಯಾಗ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="earbuds">ಇಯರ್‌ಬಡ್‍ಗಳು</string>
+    <string name="earbuds_guide">ಸಂಪರ್ಕಿಸಲು, ನಿಮ್ಮ ಕಿವಿಗಳಲ್ಲಿ ಇಯರ್‌ಬಡ್‌ಗಳನ್ನು ಇರಿಸಿ, ನಂತರ ನೀವು ಬೀಪ್ ಶಬ್ಧವನ್ನು ಆಲಿಸುವ ತನಕ 3 ಸೆಕೆಂಡುಗಳವರೆಗೆ ಇಯರ್‌ಬಡ್‌ಗಳನ್ನು ಸ್ಪರ್ಶಿಸಿ ಹಿಡಿಯಿರಿ.</string>
+    <string name="earbuds_guide_additional">ನಿಮ್ಮ %s ಸಂಪರ್ಕಿಸಲು, ಕೇಸ್‌ನಲ್ಲಿ ಇಯರ್‌ಬಡ್‌ಗಳನ್ನು ಇರಿಸಿ, ನಂತರ ದೀಪವು ಕೆಂಪು ಮತ್ತು ಹಸಿರು ಬಣ್ಣದಲ್ಲಿ ಮಿನುಗಲು ಆರಂಭಿಸುವ ತನಕ ಎರಡೂ ಇಯರ್‌ಬಡ್‌ಗಳನ್ನು 3 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಸ್ಪರ್ಶಿಸಿ ಮತ್ತು ಹೋಲ್ಡ್ ಮಾಡಿ.</string>
+    <string name="error_while_sending">ಸರ್ವರ್ ದೋಷ ಸಂಭವಿಸಿದೆ.</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="file_already_attached">ಫೈಲ್ ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಫೈಲ್ ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.</string>
+    <string name="frequency">ಆವರ್ತನೆ</string>
+    <string name="frequency_not_selected">ದೋಷ ವರದಿ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ಸಮಸ್ಯೆಯ ಫ್ರೀಕ್ವೆನ್ಸಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="gear_not_presesnt">ನನ್ನ ಗೇರ್ ಇಲ್ಲಿಲ್ಲ</string>
+    <string name="hint_text">"ನಿಮ್ಮ ಸಮಾಲೋಚನೆಯು ಉಪಯುಕ್ತವಾಗಿರುವಂತೆ ವಿವೇಚನೆಯಿಂದಿರಿ ಮತ್ತು ಪ್ರಮುಖ ವಿವರಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಿ.
+
+ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಬೇಡಿ.
+
+ಡೇಟಾ ಆಯ್ಕೆಯನ್ನು ಸಿಸ್ಟಂಗೆ ಕಳುಹಿಸು ಎಂಬ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿಕೊಂಡಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+
+ನಿಮ್ಮ ಸಮಸ್ಯೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸುಲಭಗೊಳಿಸಲು ವೀಡಿಯೊ ಅಥವಾ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅನ್ನು ನೀವು ಲಗತ್ತಿಸಬಹುದು."</string>
+    <string name="install_from_play_store_device_type_band">ನಿಮಗೆ Galaxy Wearable ಅನ್ವಯಿಸುವಿಕೆ ಮೂಲಕ ನಿಮ್ಮ ಬ್ಯಾಂಡ್ ನಿಯಂತ್ರಿಸಲು ಪ್ಲಗಿನ್ ಬೇಕಿದೆ.</string>
+    <string name="install_from_play_store_device_type_earbuds">‌ನಿಮಗೆ Galaxy Wearable ಅನ್ವಯಿಸುವಿಕೆ ಮೂಲಕ ನಿಮ್ಮ ಇಯರ್‌ಬಡ್‌ಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಪ್ಲಗಿನ್ ಬೇಕಿದೆ.</string>
+    <string name="install_from_play_store_device_type_watch">ನಿಮಗೆ Galaxy Wearable ಅನ್ವಯಿಸುವಿಕೆ ಮೂಲಕ ನಿಮ್ಮ ವಾಚ್ ನಿಯಂತ್ರಿಸಲು ಪ್ಲಗಿನ್ ಬೇಕಿದೆ.</string>
+    <string name="installed">ಸ್ಥಾಪಿಸಲಾಗಿದೆ.</string>
+    <string name="just_this_time">ಕೇವಲ ಈ ಸಮಯ</string>
+    <string name="loading">ಲೋಡಿಂಗ್…</string>
+    <string name="manage_devices_delete_btn_text">ತೆಗೆಯಿರಿ</string>
+    <string name="manage_devices_delete_btn_text_remove_all">ಎಲ್ಲಾ ತೆಗೆದುಹಾಕಿರಿ</string>
+    <string name="manage_devices_deleteing">ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ…</string>
+    <string name="manage_devices_desc_text1">ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ತೆಗದುಹಾಕಲು ಸಾಧನಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="manage_devices_desc_text2">ಯಾವುದೇ ತೆಗೆದುಹಾಕಲಾದ ಬ್ಯಾಂಡ್‌ಗಳು ಅಥವಾ ವಾಚ್‌ಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ನಿಮ್ಮ ಫೋನ್‌ಗೆ ನೀವು ಸಂಪರ್ಕಿಸಬಹುದಾದ ಮೊದಲು ಅವುಗಳನ್ನು ನೀವು ಮರುಹೊಂದಿಸಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="manage_devices_title_text">ಸಾಧನಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="manage_devices_title_text_select">%d ಆಯ್ಕೆಯಾಗಿದೆ</string>
+    <string name="max_record_time">ಗರಿಷ್ಠ ರೆಕಾರ್ಡಿಂಗ್ ಸಮಯ %d ಸೆಕೆಂಡುಗಳಷ್ಟು ತಲುಪಿದೆ. ರೆಕಾರ್ಡಿಂಗ್ ಉಳಿಸಿ ಹಾಗೂ ಅದನ್ನು ಲಗತ್ತಿಗೆ ಸೇರಿಸಿ.</string>
+    <string name="maximum_power_saving_mode_dialog_body">ಗೇರ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="maximum_power_saving_mode_dialog_body_p2">ಗರಿಷ್ಠ ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್‌ನಲ್ಲಿ %s ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="maximum_power_saving_mode_dialog_title">ಅನ್ವಯಿಸುವಿಕೆ ತೆರೆಯಲು ಅಸಮರ್ಥ</string>
+    <string name="mb">%s MB</string>
+    <string name="model_number">ಮಾದರಿ ಸಂಖ್ಯೆ</string>
+    <string name="network_problem_message">ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="no_device_nearby">ಯಾವುದೇ ಸಾಧನ ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="no_feedback">ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆಯಿಲ್ಲ</string>
+    <string name="no_gear_description1">ನೀವು ಸೇರಿಸಲು ಬಯಸುತ್ತಿರುವ ಸಾಧನವು ಆನ್ ಆಗಿದೆಯೇ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="no_gear_title">ಹೊಸ ಸಾಧನ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="no_internet_access">ಇಂಟರ್ನೆಟ್ ಪ್ರವೇಶವಿಲ್ಲ</string>
+    <string name="no_text_entered">ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಯಾವುದೇ ಪಠ್ಯವನ್ನು ನಮೂದಿಸಿಲ್ಲ.</string>
+    <string name="none_paired">ಯಾವುದೇ ಸಾಧನಗಳು ಜೊತೆಯಾಗಿಲ್ಲ.</string>
+    <string name="not_enough_space_message">%s ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಿ ಅಥವಾ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ, ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="not_enough_space_title">ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ</string>
+    <string name="not_now">ನಂತರ</string>
+    <string name="not_supportable_dialog_description">ಈ ಫೋನ್‌ನಲ್ಲಿ ಈ ವಾಚ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.</string>
+    <string name="not_supportable_dialog_title">%s ಜೊತೆಗೆ ಜೋಡಿಯಾಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="not_supported">%s ಬೆಂಬಲಿತವಾಗಿಲ್ಲ</string>
+    <string name="not_supported_device_or_version">ನಿಮ್ಮ ಅಂಡ್ರಾಯ್ಡ್ ಆವೃತ್ತಿ ಸರಿಹೊಂದುತ್ತಿಲ್ಲ. ನಿಮ್ಮ ಫೋನ್‌ಗಾಗಿ ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="notification_channel_backup_and_restore">ಬ್ಯಾಕ್‌ ಅಪ್ ಮತ್ತು ಮರುಸ್ಥಾಪನೆ</string>
+    <string name="ok">ಓಕೆ</string>
+    <string name="pairing_check_pin_number_band">ನಿಮ್ಮ ಬ್ಯಾಂಡ್‌ನಲ್ಲಿನ ಸಂಖ್ಯೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="pairing_check_pin_number_earbud">ನಿಮ್ಮ ಇಯರ್‌ಬಡ್‌ಗಳನ್ನು ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="pairing_check_pin_number_watch">ನಿಮ್ಮ ವಾಚ್‌ನಲ್ಲಿನ ಸಂಖ್ಯೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="pairing_finish_band">ನಿಮ್ಮ ಬ್ಯಾಂಡ್ ಅನ್ನು ಜೊತೆಗೂಡಿಸಲಾಗಿದೆ</string>
+    <string name="pairing_finish_watch">ನಿಮ್ಮ ವಾಚ್ ಜೊತೆಗೂಡಿಸಲಾಗಿದೆ</string>
+    <string name="percentage">%d%%</string>
+    <string name="permission_dialog_body_1">"ಅನ್ವಯಿಸುವಿಕೆ ಸೇವೆಗಾಗಿ ಈ ಮುಂದಿನ ಅನುಮತಿಗಳು ಅಗತ್ಯವಿರುತ್ತದೆ.
+
+ಅನುಮತಿಗಳು ಅಗತ್ಯವಿದೆ"</string>
+    <string name="permission_dialog_body_2">ಸ್ಥಳ: ಬ್ಲೂಟೂತ್ ಬಳಸಿಕೊಂಡು ಧರಿಸಬಹುದಾದ ಸಾಧನಗಳಿಗೆ ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ಹುಡುಕಲು ಬಳಸಲಾಗುತ್ತದೆ</string>
+    <string name="permission_dialog_body_3">ಸಂಗ್ರಹಣೆ: ಧರಿಸಬಹುದಾದ ಸಾಧನಗಳೊಂದಿಗೆ ಸಂಗ್ರಹಿಸಿದ ಫೈಲ್‍ಗಳನ್ನು ಕಳುಹಿಸಲು ಮತ್ತು ಸ್ವೀಕರಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ</string>
+    <string name="permission_dialog_body_4">ಟೆಲಿಫೋನ್: ಅನ್ವಯಿಸುವಿಕೆಗಳ ನವೀಕರಣಕ್ಕಾಗಿ ಅಥವಾ ಪ್ಲಗಿನ್ ಸ್ಥಾಪಿಸುವಿಕೆಗಾಗಿ ಸಾಧನದ ಅನನ್ಯ ಗುರುತಿಸುವಿಕೆಯ ಮಾಹಿತಿಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ</string>
+    <string name="permission_dialog_body_5">ಸಂಪರ್ಕಗಳು: Samsung account ಮಾಹಿತಿ ಮೂಲಕ ನೋಂದಾಯಿಸಿದ ಖಾತೆಗಳಿಗೆ ಲಿಂಕ್ ಮಾಡಬೇಕಿರುವ ಸೇವೆಗಳನ್ನು ಒದಗಿಸಲು ಬಳಸಲಾಗುತ್ತದೆ</string>
+    <string name="permission_dialog_title">ಅನ್ವಯಿಸುವಿಕೆ ಅನುಮತಿಗಳು</string>
+    <string name="permission_guide_location_description">ಹತ್ತಿರದ ಸಾಧನಗಳಿಗಾಗಿ ಹುಡುಕುವುದಕ್ಕಾಗಿ ಬ್ಲೂಟೂತ್ ಬಳಸಲು ಸ್ಥಳ ಅನುಮತಿಯನ್ನು Galaxy Wearable ಬಳಸುತ್ತದೆ.</string>
+    <string name="permission_guide_phone_description">ಅನ್ವಯಿಸುವಿಕೆಗಳ ನವೀಕರಣ ಮತ್ತು ಪ್ಲಗಿನ್‌ಗಳ ಸ್ಥಾಪಿಸುವಿಕೆಗಾಗಿ ಸಾಧನಗಳನ್ನು ಗುರುತಿಸಲು ಬಳಸಲಾಗುವುದು.</string>
+    <string name="permission_guide_precise_location_description">Galaxy Wearable ಬಳಸುವುದಕ್ಕಾಗಿ, ಈ ಫೋನ್‌ನ ನಿಖರವಾದ ಸ್ಥಳವನ್ನು ಪ್ರವೇಶಿಸಲು ಅದಕ್ಕೆ ನೀವು ಅನುಮತಿಸಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="permission_intro_title_one">%s ಈ ಅನುಮತಿಯನ್ನು ಬಳಸುತ್ತದೆ</string>
+    <string name="permission_intro_title_others">%s ಈ ಅನುಮತಿಗಳನ್ನು ಬಳಸುತ್ತದೆ</string>
+    <string name="permission_link_description">%1$sGalaxy Wearableಗಾಗಿ ಅನುಮತಿಗಳು%2$s ಮತ್ತು ಅವುಗಳನ್ನು ಹೇಗೆ ಬಳಸಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಿ.</string>
+    <string name="permission_location">ಸ್ಥಳ</string>
+    <string name="permission_phone">ಫೋನ್</string>
+    <string name="permission_settings_dialog_message">%s ಬಳಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. “ಸಂಯೋಜನೆಗಳು” ತಟ್ಟಿ, ಈ ಕೆಳಗಿನ ಅನ್ವಯಿಸುವಿಕೆಗಳಿಗೆ ಅವಕಾಶ ನೀಡಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ:</string>
+    <string name="permissions">ಅನುಮತಿಗಳು</string>
+    <string name="permissions_content_title">%sಗೆ ಅನುಮತಿಗಳು</string>
+    <string name="permissions_detail_required_title">%sಗೆ ಈ ಅನುಮತಿಗಳು ಅಗತ್ಯವಿರುತ್ತವೆ:</string>
+    <string name="permissions_nearby_desc">ಹತ್ತಿರದ ಸಾಧನಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಬಳಸಲಾಗುತ್ತದೆ.</string>
+    <string name="permissions_nearby_title">ಹತ್ತಿರದ ಸಾಧನಗಳು</string>
+    <string name="phone_info">ಫೋನ್ ಮಾಹಿತಿ</string>
+    <string name="pick_gear">ನಿಮ್ಮ ಸಾಧನ ಆರಿಸಿ</string>
+    <string name="popup_message_bluetooth_turn_on">ಬ್ಲೂಟೂತ್ ಆಫ್ ಆಗಿದೆ. ಅದನ್ನು ಆನ್ ಮಾಡಲು “ಆನ್ ಮಾಡಿ” ತಟ್ಟಿ.</string>
+    <string name="popup_title_message_bluetooth_turn_on">ಬ್ಲೂಟೂತ್ ಆನ್ ಮಾಡಿ</string>
+    <string name="privacypolicy_learn_more">ಹೆಚ್ಚು ತಿಳಿಯಿರಿ</string>
+    <string name="promotion_main_description">ನಿಮ್ಮ Galaxy watch, ಬ್ಯಾಂಡ್ ಅಥವಾ ಬಡ್ಸ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="promotion_start_pairing">ಆರಂಭಿಸಿ</string>
+    <string name="qa_store_dialog_password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="rate_response">ಪ್ರತಿಕ್ರಿಯೆ ರೇಟ್ ಮಾಡಿ</string>
+    <string name="rating1">ಉಪಯುಕ್ತಕಾರಿಯಾಗಿಲ್ಲ</string>
+    <string name="rating2">ತುಂಬಾ ಉಪಯುಕ್ತಕಾರಿಯಲ್ಲ</string>
+    <string name="rating3">ಸ್ವಲ್ಪ ಉಪಯುಕ್ತ</string>
+    <string name="rating4">ಉಪಯುಕ್ತ</string>
+    <string name="rating5">ತುಂಬಾ ಉಪಯುಕ್ತ</string>
+    <string name="reboot">ಮರುಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="reboot_phone_message">Samsung Accessory Service ನವೀಕರಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಗೇರ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ನಿಮ್ಮ ಫೋನ್ ಪುನಾರಂಭಿಸಿ.</string>
+    <string name="record_screen">ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
+    <string name="reset_your_watch_body">ನಿಮ್ಮ ಹೊಸ ಫೋನ್ ಜೊತೆಗೆ ನಿಮ್ಮ ವಾಚ್ ಅನ್ನು ಜೊತೆಯಾಗಿಸಲು, ಮೊದಲು ನಿಮ್ಮ ವಾಚ್ ಮರುಹೊಂದಿಸಿ, ನಂತರ Galaxy Wearable ತೆರೆಯಿರಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="reset_your_watch_then_try_again">ಹೊಸ ಫೋನ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು, ಮೊದಲು ನಿಮ್ಮ ವಾಚ್ ಅನ್ನು ನೀವು ಮರುಹೊಂದಿಸಬೇಕಾಗುತ್ತದೆ, ಅದು ಎಲ್ಲ ಡೇಟಾ ಅಳಿಸುತ್ತದೆ.</string>
+    <string name="reset_your_watch_title">ನಿಮ್ಮ ವಾಚ್ ಅನ್ನು ನಿಮ್ಮ ಹೊಸ ಫೋನ್‌ಗೆ ಸಂಪರ್ಕಿಸುವುದೇ?</string>
+    <string name="retry">ಮರುಪ್ರಯತ್ನ</string>
+    <string name="scan_for_wearable_devices">ಸೇರಿಸಲು ಸಾಧನಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡುತ್ತಿದೆ…</string>
+    <string name="search_scan_again">ಮತ್ತೊಮ್ಮೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="select_device">ಸಾಧನ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="send">ಕಳುಹಿಸಿ</string>
+    <string name="send_system_log_data">ಸಿಸ್ಟಂ ಲಾಗ್ ಡೇಟಾ ಕಳುಹಿಸಿ</string>
+    <string name="send_system_log_data_popup">ಸಿಸ್ಟಂ ಲಾಗ್ ಡೇಟಾ ಕಳುಹಿಸುವುದೇ?</string>
+    <string name="send_system_log_data_subtext">ನಿಮ್ಮ ಪ್ರಶ್ನೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಸಹಾಯ ಮಾಡಲು ಸಿಸ್ಟಂ ಲಾಗ್ ಕಳುಹಿಸಿ.</string>
+    <string name="sensitive_privacy_legal_text">"To complete the following required functions, we will collect the sensitive personal data specified below:
+
+To listen to the Voice of the Customer and provide you with services, we will collect your Samsung account information.
+
+If you don’t provide us with the sensitive personal data specified above or disagree with our collection and use of such data, the product (or service) won’t function correctly and we will not be able to provide you with the service. Visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+
+By checking the confirmation box, you acknowledge and agree to our collection and use of your sensitive personal data."</string>
+    <string name="sensitive_privacy_text">Use of sensitive personal data for required functions</string>
+    <string name="sesl_action_bar_up_description">ಮೇಲೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="sesl_action_menu_overflow_badge_description">ಹೊಸ ವಿಷಯ ಲಭ್ಯವಿದೆ</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">ಹೊ</string>
+    <string name="sesl_action_menu_overflow_description">ಹೆಚ್ಚು ಆಯ್ಕೆಗಳು</string>
+    <string name="sesl_index_assistant_text">ಸ್ಕ್ರಾಲ್ ಮಾಡಲು ಎರಡು ಕೈಬೆರಳುಗಳೊಂದಿಗೆ ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ.</string>
+    <string name="sesl_index_scrollbar">ಸ್ಕ್ರಾಲ್ ಬಾರ್</string>
+    <string name="sesl_index_section">ವಿಭಾಗ ಇಂಡೆಕ್ಸ್</string>
+    <string name="sesl_index_selected">ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</string>
+    <string name="sesl_material_badge_description">ಹೊಸ ವಿಷಯ ಲಭ್ಯವಿದೆ</string>
+    <string name="sesl_material_overflow_badge_text_n">ಹೊ</string>
+    <string name="sesl_more_item_label">ಅಧಿಕ</string>
+    <string name="sesl_preferencecategory_added_title">ತಲೆಬರಹ</string>
+    <string name="sesl_search_hint">ಹುಡುಕಿ</string>
+    <string name="sesl_searchview_description_clear">ಹುಡುಕಾಟ ಕ್ಷೇತ್ರ ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="sesl_searchview_description_query">ಪ್ರಶ್ನೆ ಶೋಧಿಸಿ</string>
+    <string name="sesl_searchview_description_search">ಹುಡುಕಿ</string>
+    <string name="sesl_searchview_description_submit">ಪ್ರಶ್ನೆ ಸಲ್ಲಿಸಿ</string>
+    <string name="sesl_searchview_description_voice">ಧ್ವನಿ ಶೋಧ</string>
+    <string name="sesl_switch_off">ಆಫ್</string>
+    <string name="sesl_switch_on">ಆನ್</string>
+    <string name="sesl_switchbar_off_text">ಆಫ್</string>
+    <string name="sesl_switchbar_on_text">ಆನ್</string>
+    <string name="sesl_toolbar_collapse_description">ಕುಸಿತ</string>
+    <string name="settings">ಸಂಯೋಜನೆಗಳು</string>
+    <string name="size_limit_exceeds">%sಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಫೈಲ್‍ಗಳನ್ನು ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ತೆಗೆಯಿರಿ ಹಾಗೂ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="software_update_text">ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ</string>
+    <string name="something_went_wrong">ಏನೋ ತಪ್ಪಾಗಿದೆ. ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="sometimes">ಕೆಲವೊಮ್ಮೆ</string>
+    <string name="support_has_ended">%sಗಾಗಿ ಬೆಂಬಲ ಮುಕ್ತಾಯಗೊಂಡಿದೆ.</string>
+    <string name="sysytemlogpopupdec">"ನಿಮ್ಮ ಸಿಸ್ಟಮ್ ಲಾಗ್ ಅನ್ನು ವಿಶ್ಲೇಷಣೆಯ ಸಲುವಾಗಿ Samsung Electronics Co., Ltdಗೆ ಕಳುಹಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್‍ನಲ್ಲಿ ಸ್ಥಾಪಿಸಿದ ಥರ್ಡ್ ಪಾರ್ಟಿ ಅನ್ವಯಿಸುವಿಕೆಗಳಿಂದ ಸಂಗ್ರಹಿಸಿದ ಮಾಹಿತಿಯನ್ನು ನಿಮ್ಮ ಸಿಸ್ಟಮ್ ಲಾಗ್ ಒಳಗೊಂಡಿರಬಹುದು. ಸಿಸ್ಟಮ್ ಲಾಗ್ ಡೇಟಾವನ್ನು ಸಮಸ್ಯೆ ವಿಶ್ಲೇಷಣೆ ಮತ್ತು ಅನ್ವಯಿಸುವಿಕೆ ಸುಧಾರಣೆಗೆ ಮಾತ್ರವೇ ಬಳಸಲಾಗುತ್ತದೆ, ತದನಂತರ ವಿಶ್ಲೇಷಣೆ ಪೂರ್ಣಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ ಶೀಘ್ರವೇ ಅಳಿಸಲಾಗುತ್ತದೆ. ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಸಿಸ್ಟಮ್ ಲಾಗ್ ಕಳುಹಿಸುವಿಕೆಯು ಸುಮಾರು %sವರೆಗೆ ನಿಮ್ಮ ಡೇಟಾ ಬಳಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು. ಬದಲಿಗೆ ನೀವು Wi-Fi ಬಳಸಬಹುದು.
+
+ನಿಮ್ಮ ಸಮಸ್ಯೆಯ ವಿವರಗಳನ್ನು ಬರೆಯುವುದಕ್ಕೂ ಮೊದಲು ಸಿಸ್ಟಮ್ ಲಾಗ್ ಲಗತ್ತು ಆಗುವುದಕ್ಕೆ ಕಾಯಿರಿ."</string>
+    <string name="transfer_privacy_legal_text">"For our global service and management purposes, we may transfer personal data, such as your Samsung account, device information, logs, and information you submit regarding inquiries, to the Republic of Korea. It is possible that the data protection measures and other laws set forth in the country or region to which your personal data is transferred may not be as complete as the ones available in the country or region where you reside. However, we guarantee that your personal data will receive the same level of protection as it does in the country or region where you reside. You may visit https://account.samsung.com/membership/pp at any time and read our Privacy Policy.
+Please specify whether you agree to the transfer of your personal data abroad."</string>
+    <string name="transfer_privacy_text">ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ವಿದೇಶಕ್ಕೆ ವರ್ಗಾಯಿಸುವುದು</string>
+    <string name="turn_on_location_desc">ನಿಮ್ಮ ವಾಚ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ಮತ್ತು ಡೇಟಾ ಸಿಂಕ್ ಮಾಡಲು “ಸಂಯೋಜನೆಗಳು” ಅನ್ನು ತಟ್ಟಿ ಮತ್ತು ಸ್ಥಳವನ್ನು ಆನ್ ಮಾಡಿ.</string>
+    <string name="turn_on_location_title">ಸ್ಥಳ ಆನ್ ಮಾಡಿ</string>
+    <string name="txt_device">ಸಾಧನ</string>
+    <string name="txt_devices">ಸಾಧನಗಳು</string>
+    <string name="uhm_install_plugin_from_play_store">%s ಸ್ಥಾಪಸಿ</string>
+    <string name="uhm_update_cancel_popup_button_ok">ಅನ್ವಯಿಸುವಿಕೆ ಮುಚ್ಚಿ</string>
+    <string name="uhm_update_cancel_popup_desc">ನೀವು ಈಗ ನವೀಕರಿಸದಿದ್ದರೆ, ನೀವು Galaxy Wearable ಆಪ್ ಬಳಕೆಯನ್ನು ಮುಂದುವರಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="uhm_update_cancel_popup_title">Galaxy Wearable ಅನ್ವಯಿಸುವಿಕೆ ಮುಚ್ಚುವುದೇ?</string>
+    <string name="uhm_update_download_progress">ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತಿದೆ…</string>
+    <string name="uhm_update_exist_notification_subtitle">ಒಂದು ಹೊಸ ಆವೃತ್ತಿಯು ಲಭ್ಯವಿರುತ್ತದೆ.</string>
+    <string name="uhm_update_install_disconnect_device">%s ನಿಂದ ಸಂಪರ್ಕ ಕಡಿತಗೋಳಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="uhm_update_install_progress">ಸ್ಥಾಪಿಸುತ್ತಿದೆ…</string>
+    <string name="uhm_update_is_available">%s ಲಭ್ಯವಿದೆ.</string>
+    <string name="uhm_update_new_version">ಹೊಸ ಆವೃತ್ತಿ</string>
+    <string name="uhm_update_notice">ಪ್ರಕಟಣೆ</string>
+    <string name="uhm_whats_new_popup_title">ಹೊಸತು ಏನಿದೆ</string>
+    <string name="unable_to_enable">ಕಾರ್ಯಗಳನ್ನು ಶಕ್ತಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="unable_to_install_message">ಸ್ತಾಪಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಅನಿರೀಕ್ಷಿತ ದೋಷ.</string>
+    <string name="update_gms_dialog_description">ನಿಮ್ಮ ವಾಚ್ ಹೊಂದಿಸಲು, ನೀವು ಮೊದಲು Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ, ನಂತರ ಮತ್ತೊಮ್ಮೆ ಸೆಟಪ್ ಆರಂಭಿಸಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="update_gms_dialog_title">Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡುವುದೇ?</string>
+    <string name="use_network_connection_dialog_body">ನೆಟ್‍ವರ್ಕ್ ಸಂಪರ್ಕಗಳನ್ನು ಬಳಸಲು %s ಅನುಮತಿ ನೀಡುವುದೇ?</string>
+    <string name="use_network_connection_dialog_title">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="watch">ವೀಕ್ಷಿಸಿ</string>
+    <string name="watch_guide">ಅನ್ವಯಿಸುವಿಕೆಗಳ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ, ಸಂಯೋಜನೆಗಳು > ಹೊಸ ಫೋನ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ ಅನ್ನು ತಟ್ಟಿ.</string>
+    <string name="welcome_to_samsung_gear_promotion_connect_to_gear">ಗೇರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="welcome_to_samsung_gear_promotion_contact_us">ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="other">هل تريد إزالة %d جهاز والتطبيقات المرتبطة بها التي لم تعد مطلوبة؟</item>
+        <item quantity="zero">هل تريد إزالة %d جهاز والتطبيقات المرتبطة به التي لم تعد مطلوبة؟</item>
+        <item quantity="one">هل تريد إزالة جهاز واحد والتطبيقات المرتبطة به التي لم تعد مطلوبة؟</item>
+        <item quantity="two">هل تريد إزالة جهازَين والتطبيقات المرتبطة بهما التي لم تعد مطلوبة؟</item>
+        <item quantity="few">هل تريد إزالة %d أجهزة والتطبيقات المرتبطة بها التي لم تعد مطلوبة؟</item>
+        <item quantity="many">هل تريد إزالة %d جهازاً والتطبيقات المرتبطة بها التي لم تعد مطلوبة؟</item>
+    </plurals>
+    <plurals name="manage_devices_delete_popup_main_text_non_samsung">
+        <item quantity="other">هل تريد إزالة %d عنصر؟</item>
+        <item quantity="zero">هل تريد إزالة %d عنصر؟</item>
+        <item quantity="one">هل تريد إزالة عنصر واحد؟</item>
+        <item quantity="two">هل تريد إزالة عنصرَين؟</item>
+        <item quantity="few">هل تريد إزالة %d عناصر؟</item>
+        <item quantity="many">هل تريد إزالة %d عنصراً؟</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+</resources>
