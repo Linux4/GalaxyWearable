@@ -1,0 +1,89 @@
+name: Check for app updates
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Install dependencies
+      run: |
+       sudo apt-get update
+       sudo apt-get install -y signapk
+       sudo wget -O /usr/local/bin/apktool https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool
+       sudo chmod +x /usr/local/bin/apktool
+       sudo wget -O /usr/local/bin/apktool.jar https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.6.0.jar
+
+    - name: Compare latest version with current version
+      id: check
+      run: |
+       need_update=0
+       latest=`curl https://m.apkpure.com/de/galaxy-wearable-samsung-gear/com.samsung.android.app.watchmanager/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP 'data-dt-version="\K[^"]+'`
+       current=`cat src/apktool.yml | grep 'versionName' | cut -f2 -d ' '` || need_update=1
+       [[ $latest != $current ]] && need_update=1
+       echo ::set-output name=latest_version::$latest
+       echo ::set-output name=need_update::$need_update
+
+    - name: Fetch APK
+      if: steps.check.outputs.need_update == 1
+      run: |
+       curl --silent -L --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --output com.samsung.android.app.watchmanager.apk $(curl https://m.apkpure.com/de/galaxy-wearable-samsung-gear/com.samsung.android.app.watchmanager/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP '<a[^<]*id="download_link"[^<]*href="\K[^"]+')
+
+    - name: Decompile APK
+      if: steps.check.outputs.need_update == 1
+      run: |
+       apktool d com.samsung.android.app.watchmanager.apk -o src -f
+
+    - name: Remove check for samsung devices running custom ROMs
+      if: steps.check.outputs.need_update == 1
+      run: |
+       find src/smali/com/sec src/smali/com/samsung/ -name *.smali | xargs sed -i 's|Landroid/os/Build;->MANUFACTURER|Landroid/os/Build;->PRODUCT|g'
+       git add src
+
+    - name: Rebuild APK
+      if: steps.check.outputs.need_update == 1
+      run: |
+       apktool b src
+
+    - name: Sign APK
+      if: steps.check.outputs.need_update == 1
+      run: |
+       echo "${{ secrets.RELEASEKEY_X509 }}" > /tmp/releasekey.x509.pem
+       echo "${{ secrets.RELEASEKEY_PK8 }}" | base64 -d > /tmp/releasekey.pk8
+       signapk /tmp/releasekey.x509.pem /tmp/releasekey.pk8 src/dist/com.samsung.android.app.watchmanager.apk src/dist/com.samsung.android.app.watchmanager-signed.apk
+
+    - name: Update current version
+      if: steps.check.outputs.need_update == 1
+      run: |
+       git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+       git config --local user.name "github-actions[bot]"
+       git pull origin ${{github.ref}} --ff-only
+       git commit -m "Update to ${{ steps.check.outputs.latest_version }}"
+       git tag ${{ steps.check.outputs.latest_version }}
+
+    - name: Push changes to repo
+      if: steps.check.outputs.need_update == 1
+      uses: ad-m/github-push-action@master
+      with:
+        tags: true
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload release assets
+      if: steps.check.outputs.need_update == 1
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.check.outputs.latest_version }}
+        files: |
+         src/dist/com.samsung.android.app.watchmanager-signed.apk
