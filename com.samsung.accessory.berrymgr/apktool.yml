@@ -45,8 +45,16 @@ doNotCompress:
 - png
 - lib/arm64-v8a/libDiagMonKey.so
 - lib/arm64-v8a/libFotaServiceInfo.so
+- lib/arm64-v8a/libRelativeQuat.so
+- lib/arm64-v8a/libSwPedometer.so
 - lib/armeabi-v7a/libDiagMonKey.so
 - lib/armeabi-v7a/libFotaServiceInfo.so
+- lib/armeabi-v7a/libRelativeQuat.so
+- lib/armeabi-v7a/libSwPedometer.so
+- lib/x86/libRelativeQuat.so
+- lib/x86/libSwPedometer.so
+- lib/x86_64/libRelativeQuat.so
+- lib/x86_64/libSwPedometer.so
 - wav
 isFrameworkApk: false
 packageInfo:
@@ -75,5 +83,5 @@ usesFramework:
   tag: null
 version: 2.6.0
 versionInfo:
-  versionCode: '2022012051'
-  versionName: 4.0.22012051
+  versionCode: '2022031451'
+  versionName: 4.1.22031451
