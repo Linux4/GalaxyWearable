@@ -21,6 +21,7 @@ jobs:
           - package: com.samsung.android.gearrplugin
           - package: com.samsung.android.gearfit2plugin
           - package: com.samsung.android.gearoplugin
+          - package: com.samsung.accessory
           - package: com.samsung.accessory.fridaymgr
           - package: com.samsung.accessory.atticmgr
           - package: com.samsung.accessory.berrymgr
