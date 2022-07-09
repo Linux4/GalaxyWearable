@@ -11,7 +11,7 @@ packageInfo:
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '18'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -511,5 +511,5 @@ usesFramework:
   tag: null
 version: 2.6.0
 versionInfo:
-  versionCode: '2122033061'
-  versionName: 2.2.48.22033061
+  versionCode: '2122062261'
+  versionName: 2.2.49.22062261
