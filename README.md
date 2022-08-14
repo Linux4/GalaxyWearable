@@ -15,4 +15,3 @@ You can download the apks from [Releases](https://github.com/Linux4/GalaxyWearab
 * gearrplugin = Watch Active2
 * gearpplugin = Watch Active
 * gearoplugin = Gear S Plugin
-* 
