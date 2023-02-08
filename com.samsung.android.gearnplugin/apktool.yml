@@ -5,6 +5,7 @@ doNotCompress:
 - resources.arsc
 - META-INF/androidx.activity_activity-ktx.version
 - META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
 - META-INF/androidx.appcompat_appcompat-resources.version
 - META-INF/androidx.appcompat_appcompat.version
 - META-INF/androidx.arch.core_core-runtime.version
@@ -61,6 +62,7 @@ doNotCompress:
 - META-INF/androidx.savedstate_savedstate.version
 - META-INF/androidx.sqlite_sqlite-framework.version
 - META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
 - META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
 - META-INF/androidx.tracing_tracing.version
 - META-INF/androidx.transition_transition.version
@@ -109,7 +111,7 @@ packageInfo:
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '23'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -1182,7 +1184,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.0
+version: 2.7.0
 versionInfo:
-  versionCode: '122092941'
-  versionName: 2.2.09.22092941N
+  versionCode: '123011941'
+  versionName: 2.2.09.23011941N
