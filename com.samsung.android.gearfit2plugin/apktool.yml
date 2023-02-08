@@ -11,6 +11,7 @@ doNotCompress:
 - META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
 - META-INF/androidx.cardview_cardview.version
 - META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
 - META-INF/androidx.core_core.version
 - META-INF/androidx.cursoradapter_cursoradapter.version
 - META-INF/androidx.customview_customview.version
@@ -57,6 +58,7 @@ sharedLibrary: false
 sparseResources: false
 unknownFiles:
   androidsupportmultidexversion.txt: '0'
+  DebugProbesKt.bin: '8'
   LICENSE-junit.txt: '8'
   build-data.properties: '8'
   firebase-common.properties: '8'
@@ -587,7 +589,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.0
+version: 2.7.0
 versionInfo:
-  versionCode: '2022032341'
-  versionName: 2.2.04.22032341N
+  versionCode: '2022101341'
+  versionName: 2.2.04.22101341N
