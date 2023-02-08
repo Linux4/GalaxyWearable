@@ -39,9 +39,9 @@ jobs:
       run: |
        sudo apt-get update
        sudo apt-get install -y openssl signapk xxd
-       sudo wget -O /usr/local/bin/apktool https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool
+       sudo wget -O /usr/local/bin/apktool https://bitbucket.org/iBotPeaches/apktool/raw/master/scripts/linux/apktool
        sudo chmod +x /usr/local/bin/apktool
-       sudo wget -O /usr/local/bin/apktool.jar https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.6.0.jar
+       sudo wget -O /usr/local/bin/apktool.jar https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.7.0.jar
 
     - name: Compare latest version with current version
       id: check
