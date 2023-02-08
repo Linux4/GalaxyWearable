@@ -50,8 +50,8 @@ jobs:
        latest=`curl -L https://m.apkpure.com/de/galaxy-wearable-samsung-gear/${{ matrix.package }}/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -oP 'data-dt-version="\K[^"]+' | head -n 1`
        current=`cat ${{ matrix.package }}/apktool.yml | grep 'versionName' | cut -f2 -d ':' | cut -f2 -d ' '` || need_update=1
        [[ $latest != $current ]] && need_update=1
-       echo ::set-output name=latest_version::$latest
-       echo ::set-output name=need_update::$need_update
+       echo "latest_version=$latest" >> $GITHUB_OUTPUT
+       echo "need_update=$need_update" >> $GITHUB_OUTPUT
 
     - name: Fetch APK
       if: steps.check.outputs.need_update == 1
@@ -75,7 +75,7 @@ jobs:
        echo "${{ secrets.RELEASEKEY_X509 }}" > /tmp/releasekey.x509.pem
        echo "${{ secrets.RELEASEKEY_PK8 }}" | base64 -d > /tmp/releasekey.pk8
        cert_hex=`openssl x509 -in /tmp/releasekey.x509.pem -out - -outform DER | xxd -p | tr -d \\n`
-       echo ::set-output name=cert_hex::$cert_hex
+       echo "cert_hex=$cert_hex" >> $GITHUB_OUTPUT
 
     - name: Replace samsung certificate
       if: steps.check.outputs.need_update == 1
