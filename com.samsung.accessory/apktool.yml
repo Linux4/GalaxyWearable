@@ -46,7 +46,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.0
+version: 2.7.0
 versionInfo:
-  versionCode: '319630104'
-  versionName: 3.1.96.30104
+  versionCode: '319630607'
+  versionName: 3.1.96.30607
