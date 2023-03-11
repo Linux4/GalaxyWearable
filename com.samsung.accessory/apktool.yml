@@ -3,6 +3,7 @@ apkFileName: com.samsung.accessory.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
+- META-INF/androidx.annotation_annotation-experimental.version
 - META-INF/androidx.appcompat_appcompat.version
 - META-INF/androidx.arch.core_core-runtime.version
 - META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
@@ -19,16 +20,23 @@ doNotCompress:
 - META-INF/androidx.lifecycle_lifecycle-livedata-core.version
 - META-INF/androidx.lifecycle_lifecycle-livedata.version
 - META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-service.version
 - META-INF/androidx.lifecycle_lifecycle-viewmodel.version
 - META-INF/androidx.loader_loader.version
 - META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
 - META-INF/androidx.print_print.version
+- META-INF/androidx.room_room-runtime.version
 - META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
 - META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.tracing_tracing.version
 - META-INF/androidx.vectordrawable_vectordrawable-animated.version
 - META-INF/androidx.vectordrawable_vectordrawable.version
 - META-INF/androidx.versionedparcelable_versionedparcelable.version
 - META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.work_work-runtime.version
 - png
 isFrameworkApk: false
 packageInfo:
@@ -36,7 +44,7 @@ packageInfo:
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '15'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -48,5 +56,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '319630607'
-  versionName: 3.1.96.30607
+  versionCode: '319640130'
+  versionName: 3.1.96.40130
