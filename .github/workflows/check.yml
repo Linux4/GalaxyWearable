@@ -74,7 +74,7 @@ jobs:
       run: |
        echo "${{ secrets.RELEASEKEY_X509 }}" > /tmp/releasekey.x509.pem
        echo "${{ secrets.RELEASEKEY_PK8 }}" | base64 -d > /tmp/releasekey.pk8
-       cert_hex=`openssl x509 -in /tmp/releasekey.x509.pem -out - -outform DER | xxd -p | tr -d \\n`
+       cert_hex=`openssl x509 -in /tmp/releasekey.x509.pem -out - -outform DER | xxd -p | tr -d \\\n`
        echo "cert_hex=$cert_hex" >> $GITHUB_OUTPUT
 
     - name: Replace samsung certificate
