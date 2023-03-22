@@ -55,21 +55,19 @@ doNotCompress:
 - META-INF/services/io.grpc.NameResolverProvider
 - META-INF/services/org.xmlpull.v1.XmlPullParserFactory
 - jpg
-- assets/rule.xml
 - m4a
-- assets/Category_watchface/CategoryListVersion.txt
 - png
+- ogg
+- mp4
 - webp
 - gif
-- mp4
-- ogg
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '21'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -1141,7 +1139,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.0
+version: 2.7.0
 versionInfo:
-  versionCode: '122042841'
-  versionName: 2.2.07.22042841N
+  versionCode: '123030741'
+  versionName: 2.2.07.23030741N
