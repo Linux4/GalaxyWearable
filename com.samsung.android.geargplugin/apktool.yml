@@ -7,6 +7,7 @@ doNotCompress:
 - META-INF/androidx.appcompat_appcompat.version
 - META-INF/androidx.arch.core_core-runtime.version
 - META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.browser_browser.version
 - META-INF/androidx.cardview_cardview.version
 - META-INF/androidx.coordinatorlayout_coordinatorlayout.version
 - META-INF/androidx.core_core.version
@@ -54,21 +55,19 @@ doNotCompress:
 - META-INF/services/io.grpc.NameResolverProvider
 - META-INF/services/org.xmlpull.v1.XmlPullParserFactory
 - jpg
-- assets/rule.xml
 - m4a
-- assets/Category_watchface/CategoryListVersion.txt
 - png
+- ogg
+- mp4
 - webp
 - gif
-- mp4
-- ogg
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '21'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -1142,5 +1141,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '123013051'
-  versionName: 2.2.05.23013051
+  versionCode: '123030741'
+  versionName: 2.2.05.23030741N
