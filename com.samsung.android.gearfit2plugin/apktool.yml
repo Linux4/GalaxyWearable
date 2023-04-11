@@ -44,7 +44,6 @@ doNotCompress:
 - META-INF/com.google.android.material_material.version
 - META-INF/services/io.grpc.LoadBalancerProvider
 - META-INF/services/io.grpc.NameResolverProvider
-- assets/rule.xml
 - m4a
 - png
 isFrameworkApk: false
@@ -53,7 +52,7 @@ packageInfo:
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '21'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -591,5 +590,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2022101341'
-  versionName: 2.2.04.22101341N
+  versionCode: '2023030341'
+  versionName: 2.2.04.23030341N
