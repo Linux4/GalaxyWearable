@@ -37,15 +37,15 @@ doNotCompress:
 - META-INF/androidx.viewpager_viewpager.version
 - META-INF/com.google.android.material_material.version
 - png
-- wav
 - mp4
+- wav
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '21'
-  targetSdkVersion: '30'
+  targetSdkVersion: '31'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -55,7 +55,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.0
+version: 2.7.0
 versionInfo:
-  versionCode: '2022040151'
-  versionName: 2.1.22040151
+  versionCode: '2023041351'
+  versionName: 2.1.23041351
