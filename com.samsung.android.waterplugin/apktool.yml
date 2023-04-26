@@ -17,6 +17,7 @@ doNotCompress:
 - META-INF/androidx.cursoradapter_cursoradapter.version
 - META-INF/androidx.customview_customview.version
 - META-INF/androidx.databinding_baseAdapters.version
+- META-INF/androidx.databinding_databindingKtx.version
 - META-INF/androidx.databinding_library.version
 - META-INF/androidx.databinding_viewbinding.version
 - META-INF/androidx.datastore_datastore-preferences.version
@@ -94,8 +95,6 @@ doNotCompress:
 - META-INF/kotlinx_coroutines_guava.version
 - META-INF/kotlinx_coroutines_reactive.version
 - META-INF/kotlinx_coroutines_rx2.version
-- META-INF/services/io.grpc.LoadBalancerProvider
-- META-INF/services/io.grpc.NameResolverProvider
 - META-INF/services/org.xmlpull.v1.XmlPullParserFactory
 - jpg
 - png
@@ -146,6 +145,7 @@ unknownFiles:
   play-services-stats.properties: '8'
   play-services-tasks.properties: '8'
   play-services-wearable-oem.properties: '8'
+  provisioning_service.proto: '8'
   transport-api.properties: '8'
   transport-backend-cct.properties: '8'
   transport-runtime.properties: '8'
@@ -644,11 +644,21 @@ unknownFiles:
   org/bouncycastle/x509/CertPathReviewerMessages_de.properties: '8'
   SEC-INF/buildConfirm.crt: '8'
   SEC-INF/buildinfo.xml: '8'
+  google/protobuf/any.proto: '8'
+  google/protobuf/api.proto: '8'
+  google/protobuf/duration.proto: '8'
+  google/protobuf/empty.proto: '8'
+  google/protobuf/field_mask.proto: '8'
+  google/protobuf/source_context.proto: '8'
+  google/protobuf/struct.proto: '8'
+  google/protobuf/timestamp.proto: '8'
+  google/protobuf/type.proto: '8'
+  google/protobuf/wrappers.proto: '8'
 usesFramework:
   ids:
   - 1
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '123011051'
-  versionName: 2.2.11.23011051
+  versionCode: '123040751'
+  versionName: 2.2.11.23040751
