@@ -4,19 +4,21 @@ compressionType: false
 doNotCompress:
 - resources.arsc
 - png
+- mp4
 - webp
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '18'
-  targetSdkVersion: '31'
+  minSdkVersion: '21'
+  targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
   DebugProbesKt.bin: '8'
   androidsupportmultidexversion.txt: '8'
+  kotlin-tooling-metadata.json: '8'
   SEC-INF/buildConfirm.crt: '8'
   SEC-INF/buildinfo.xml: '8'
   org/bouncycastle/x509/CertPathReviewerMessages.properties: '8'
@@ -511,5 +513,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2123033161'
-  versionName: 2.2.55.23033161
+  versionCode: '2123071861'
+  versionName: 2.2.56.23071861
