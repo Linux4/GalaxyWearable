@@ -61,6 +61,7 @@ doNotCompress:
 - META-INF/androidx.navigation_navigation-ui-ktx.version
 - META-INF/androidx.navigation_navigation-ui.version
 - META-INF/androidx.palette_palette.version
+- META-INF/androidx.percentlayout_percentlayout.version
 - META-INF/androidx.picker_picker-basic.version
 - META-INF/androidx.preference_preference.version
 - META-INF/androidx.print_print.version
@@ -82,6 +83,18 @@ doNotCompress:
 - META-INF/androidx.versionedparcelable_versionedparcelable.version
 - META-INF/androidx.viewpager2_viewpager2.version
 - META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.wear.tiles_tiles.version
+- META-INF/androidx.wear.watchface_watchface-client.version
+- META-INF/androidx.wear.watchface_watchface-complications-data.version
+- META-INF/androidx.wear.watchface_watchface-complications-rendering.version
+- META-INF/androidx.wear.watchface_watchface-complications.version
+- META-INF/androidx.wear.watchface_watchface-data.version
+- META-INF/androidx.wear.watchface_watchface-editor-guava.version
+- META-INF/androidx.wear.watchface_watchface-editor.version
+- META-INF/androidx.wear.watchface_watchface-guava.version
+- META-INF/androidx.wear.watchface_watchface-style.version
+- META-INF/androidx.wear.watchface_watchface.version
+- META-INF/androidx.wear_wear-phone-interactions.version
 - META-INF/androidx.window_window.version
 - META-INF/androidx.work_work-runtime-ktx.version
 - META-INF/androidx.work_work-runtime.version
@@ -96,15 +109,12 @@ doNotCompress:
 - META-INF/kotlinx_coroutines_reactive.version
 - META-INF/kotlinx_coroutines_rx2.version
 - META-INF/services/org.xmlpull.v1.XmlPullParserFactory
-- jpg
 - png
-- lib/arm64-v8a/libDiagMonKey.so
-- lib/arm64-v8a/libJniMobileKey.so
-- lib/arm64-v8a/libphotoeditorEngine.so
-- lib/armeabi-v7a/libDiagMonKey.so
-- lib/armeabi-v7a/libJniMobileKey.so
-- lib/armeabi-v7a/libphotoeditorEngine.so
+- jpg
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
 - mp4
+- res/drawable/image_tbd.png
 - webp
 isFrameworkApk: false
 packageInfo:
@@ -112,7 +122,7 @@ packageInfo:
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '23'
-  targetSdkVersion: '31'
+  targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -120,9 +130,11 @@ unknownFiles:
   XPP3_1.1.3.3_VERSION: '0'
   DebugProbesKt.bin: '8'
   LICENSE-junit.txt: '8'
+  firebase-analytics.properties: '8'
   firebase-annotations.properties: '8'
   firebase-common.properties: '8'
   firebase-components.properties: '8'
+  firebase-core.properties: '8'
   firebase-datatransport.properties: '8'
   firebase-encoders-json.properties: '8'
   firebase-encoders-proto.properties: '8'
@@ -133,13 +145,23 @@ unknownFiles:
   firebase-installations.properties: '8'
   firebase-measurement-connector.properties: '8'
   firebase-messaging.properties: '8'
+  jacoco-agent.properties: '8'
   kotlin-tooling-metadata.json: '8'
   log4j.properties: '8'
+  play-services-ads-identifier.properties: '8'
   play-services-base.properties: '8'
   play-services-basement.properties: '8'
   play-services-cloud-messaging.properties: '8'
+  play-services-cronet.properties: '8'
   play-services-location.properties: '8'
   play-services-maps.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-pay.properties: '8'
   play-services-places-placereport.properties: '8'
   play-services-smartdevice.properties: '8'
   play-services-stats.properties: '8'
@@ -660,5 +682,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '123050851'
-  versionName: 2.2.11.23050851
+  versionCode: '123080951'
+  versionName: 2.2.11.23080951
