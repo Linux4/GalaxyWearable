@@ -3,6 +3,8 @@ apkFileName: com.samsung.android.app.watchmanager.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
 - png
 - mp4
 - webp
@@ -21,6 +23,9 @@ unknownFiles:
   kotlin-tooling-metadata.json: '8'
   SEC-INF/buildConfirm.crt: '8'
   SEC-INF/buildinfo.xml: '8'
+  org/bouncycastle/pqc/crypto/picnic/lowmcL1.bin.properties: '8'
+  org/bouncycastle/pqc/crypto/picnic/lowmcL3.bin.properties: '8'
+  org/bouncycastle/pqc/crypto/picnic/lowmcL5.bin.properties: '8'
   org/bouncycastle/x509/CertPathReviewerMessages.properties: '8'
   org/bouncycastle/x509/CertPathReviewerMessages_de.properties: '8'
   org/joda/time/format/messages.properties: '8'
@@ -513,5 +518,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2123071861'
-  versionName: 2.2.56.23071861
+  versionCode: '2123102461'
+  versionName: 2.2.57.23102461
