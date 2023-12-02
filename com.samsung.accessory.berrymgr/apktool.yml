@@ -3,6 +3,55 @@ apkFileName: com.samsung.accessory.berrymgr.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core-ktx_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview-poolingcontainer.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.dynamicanimation_dynamicanimation.version
+- META-INF/androidx.emoji2_emoji2-views-helper.version
+- META-INF/androidx.emoji2_emoji2.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-process.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-service.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.picker_picker-basic.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.room_room-runtime.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.work_work-runtime.version
+- META-INF/com.google.android.material_material.version
+- META-INF/kotlinx_coroutines_android.version
+- META-INF/kotlinx_coroutines_core.version
 - jpg
 - png
 - assets/dexopt/baseline.prof
@@ -20,18 +69,7 @@ doNotCompress:
 - lib/x86_64/libRelativeQuat.so
 - lib/x86_64/libSwPedometer.so
 - webp
-- res/mipmap-hdpi/ic_launcher.webp
-- res/mipmap-hdpi/ic_launcher_round.webp
-- res/raw/keep.xml
-- res/mipmap-xxhdpi/ic_launcher_round.webp
 - wav
-- res/mipmap-xxhdpi/ic_launcher.webp
-- res/mipmap-mdpi/ic_launcher.webp
-- res/mipmap-mdpi/ic_launcher_round.webp
-- res/mipmap-xxxhdpi/ic_launcher_round.webp
-- res/mipmap-xhdpi/ic_launcher_round.webp
-- res/mipmap-xhdpi/ic_launcher.webp
-- res/mipmap-xxxhdpi/ic_launcher.webp
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
@@ -64,10 +102,10 @@ unknownFiles:
   transport-api.properties: '8'
   transport-backend-cct.properties: '8'
   transport-runtime.properties: '8'
-  SEC-INF/buildConfirm.crt: '8'
-  SEC-INF/buildinfo.xml: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
   okhttp3/internal/publicsuffix/NOTICE: '8'
-  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+  org/codehaus/jackson/impl/VERSION.txt: '0'
+  org/codehaus/jackson/map/VERSION.txt: '0'
   org/apache/commons/codec/language/dmrules.txt: '8'
   org/apache/commons/codec/language/bm/ash_approx_any.txt: '8'
   org/apache/commons/codec/language/bm/ash_approx_common.txt: '8'
@@ -198,13 +236,13 @@ unknownFiles:
   org/apache/commons/codec/language/bm/sep_rules_spanish.txt: '8'
   org/bouncycastle/x509/CertPathReviewerMessages.properties: '8'
   org/bouncycastle/x509/CertPathReviewerMessages_de.properties: '8'
-  org/codehaus/jackson/impl/VERSION.txt: '8'
-  org/codehaus/jackson/map/VERSION.txt: '8'
+  SEC-INF/buildConfirm.crt: '8'
+  SEC-INF/buildinfo.xml: '8'
 usesFramework:
   ids:
   - 1
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2023100651'
-  versionName: 6.0.23100651
+  versionCode: '2023111651'
+  versionName: 6.0.23111651
