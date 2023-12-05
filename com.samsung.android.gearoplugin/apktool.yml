@@ -7,6 +7,7 @@ doNotCompress:
 - META-INF/androidx.appcompat_appcompat.version
 - META-INF/androidx.arch.core_core-runtime.version
 - META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.browser_browser.version
 - META-INF/androidx.cardview_cardview.version
 - META-INF/androidx.coordinatorlayout_coordinatorlayout.version
 - META-INF/androidx.core_core.version
@@ -49,22 +50,19 @@ doNotCompress:
 - META-INF/services/org.apache.xalan.extensions.bsf.BSFManager
 - META-INF/services/org.apache.xml.dtm.DTMManager
 - META-INF/services/org.xmlpull.v1.XmlPullParserFactory
-- assets/rule.xml
 - m4a
-- assets/Category_watchface_s3/CategoryListVersion.txt
 - png
-- assets/Category_watchface_sport/CategoryListVersion.txt
-- jpg
-- webp
-- mp4
 - ogg
+- webp
+- jpg
+- mp4
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '21'
-  targetSdkVersion: '31'
+  targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -78,6 +76,7 @@ unknownFiles:
   firebase-iid.properties: '8'
   firebase-measurement-connector.properties: '8'
   firebase-messaging.properties: '8'
+  kotlin-tooling-metadata.json: '8'
   play-services-base.properties: '8'
   play-services-basement.properties: '8'
   play-services-stats.properties: '8'
@@ -1108,5 +1107,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2123031641'
-  versionName: 2.2.03.23031641N
+  versionCode: '2123112251'
+  versionName: 2.2.03.23112251
