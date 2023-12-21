@@ -17,6 +17,7 @@ doNotCompress:
 - META-INF/androidx.cursoradapter_cursoradapter.version
 - META-INF/androidx.customview_customview.version
 - META-INF/androidx.databinding_baseAdapters.version
+- META-INF/androidx.databinding_databindingKtx.version
 - META-INF/androidx.databinding_library.version
 - META-INF/androidx.databinding_viewbinding.version
 - META-INF/androidx.documentfile_documentfile.version
@@ -111,7 +112,7 @@ packageInfo:
   renameManifestPackage: null
 sdkInfo:
   minSdkVersion: '23'
-  targetSdkVersion: '31'
+  targetSdkVersion: '33'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -127,6 +128,7 @@ unknownFiles:
   firebase-iid.properties: '8'
   firebase-measurement-connector.properties: '8'
   firebase-messaging.properties: '8'
+  kotlin-tooling-metadata.json: '8'
   log4j.properties: '8'
   play-services-ads-identifier.properties: '8'
   play-services-base.properties: '8'
@@ -1186,5 +1188,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '123021441'
-  versionName: 2.2.09.23021441N
+  versionCode: '123112841'
+  versionName: 2.2.09.23112841N
