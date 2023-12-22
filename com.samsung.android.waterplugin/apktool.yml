@@ -7,7 +7,6 @@ doNotCompress:
 - META-INF/androidx.annotation_annotation-experimental.version
 - META-INF/androidx.appcompat_appcompat-resources.version
 - META-INF/androidx.appcompat_appcompat.version
-- META-INF/androidx.arch.core_core-runtime.version
 - META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
 - META-INF/androidx.browser_browser.version
 - META-INF/androidx.cardview_cardview.version
@@ -37,19 +36,6 @@ doNotCompress:
 - META-INF/androidx.legacy_legacy-support-core-utils.version
 - META-INF/androidx.legacy_legacy-support-v4.version
 - META-INF/androidx.lifecycle_lifecycle-extensions.version
-- META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version
-- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
-- META-INF/androidx.lifecycle_lifecycle-livedata-ktx.version
-- META-INF/androidx.lifecycle_lifecycle-livedata.version
-- META-INF/androidx.lifecycle_lifecycle-process.version
-- META-INF/androidx.lifecycle_lifecycle-reactivestreams-ktx.version
-- META-INF/androidx.lifecycle_lifecycle-reactivestreams.version
-- META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
-- META-INF/androidx.lifecycle_lifecycle-runtime.version
-- META-INF/androidx.lifecycle_lifecycle-service.version
-- META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
-- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
-- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
 - META-INF/androidx.loader_loader.version
 - META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
 - META-INF/androidx.media_media.version
@@ -66,6 +52,7 @@ doNotCompress:
 - META-INF/androidx.picker_picker-basic.version
 - META-INF/androidx.preference_preference.version
 - META-INF/androidx.print_print.version
+- META-INF/androidx.profileinstaller_profileinstaller.version
 - META-INF/androidx.recyclerview_recyclerview.version
 - META-INF/androidx.room_room-ktx.version
 - META-INF/androidx.room_room-runtime.version
@@ -813,5 +800,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '123111651'
-  versionName: 2.2.11.23111651
+  versionCode: '123120451'
+  versionName: 2.2.11.23120451
