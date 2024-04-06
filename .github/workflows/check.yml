@@ -44,25 +44,23 @@ jobs:
        sudo chmod +x /usr/local/bin/apktool
        sudo wget -O /usr/local/bin/apktool.jar https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.7.0.jar
 
+    - name: Fetch APK
+      run: |
+       curl -L --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --output ${{ matrix.package }}.apk https://d.apkpure.net/b/APK/${{ matrix.package }}?version=latest
+
+    - name: Decompile APK
+      run: |
+       apktool d ${{ matrix.package }}.apk -o ${{ matrix.package }} -f
+
     - name: Compare latest version with current version
       id: check
       run: |
        need_update=0
-       latest=`curl -L https://m.apkpure.net/de/galaxy-wearable-samsung-gear/${{ matrix.package }}/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -oP 'data-dt-version="\K[^"]+' | head -n 1`
-       current=`cat ${{ matrix.package }}/apktool.yml | grep 'versionName' | cut -f2 -d ':' | cut -f2 -d ' '` || need_update=1
-       [[ $latest != $current ]] && need_update=1
+       latest=`cat ${{ matrix.package }}/apktool.yml | grep 'versionName' | cut -f2 -d ':' | cut -f2 -d ' '` || need_update=1
+       git add ${{ matrix.package }}/apktool.yml
+       [ ! -z "$(git diff --staged -- ${{ matrix.package }}/apktool.yml)" ] && need_update=1
        echo "latest_version=$latest" >> $GITHUB_OUTPUT
        echo "need_update=$need_update" >> $GITHUB_OUTPUT
-
-    - name: Fetch APK
-      if: steps.check.outputs.need_update == 1
-      run: |
-       curl --silent -L --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --output ${{ matrix.package }}.apk $(curl -L https://m.apkpure.net/de/galaxy-wearable-samsung-gear/${{ matrix.package }}/download?from=details --user-agent 'Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0' --silent | grep -zoP '<a[^<]*id="download_link"[^<]*href="\K[^"]+')
-
-    - name: Decompile APK
-      if: steps.check.outputs.need_update == 1
-      run: |
-       apktool d ${{ matrix.package }}.apk -o ${{ matrix.package }} -f
 
     - name: Remove check for samsung devices running custom ROMs
       if: steps.check.outputs.need_update == 1
