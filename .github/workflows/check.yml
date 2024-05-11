@@ -28,6 +28,7 @@ jobs:
           - package: com.samsung.accessory.pearlmgr
           - package: com.samsung.accessory.popcornmgr
           - package: com.samsung.accessory.neobeanmgr
+          - package: com.samsung.android.fit3plugin
       max-parallel: 1
 
     steps:
