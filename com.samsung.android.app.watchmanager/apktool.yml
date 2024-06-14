@@ -6,8 +6,8 @@ doNotCompress:
 - assets/dexopt/baseline.prof
 - assets/dexopt/baseline.profm
 - png
-- mp4
 - webp
+- mp4
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'
@@ -518,5 +518,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2124030661'
-  versionName: 2.2.59.24030661
+  versionCode: '2124061161'
+  versionName: 2.2.59.24061161
