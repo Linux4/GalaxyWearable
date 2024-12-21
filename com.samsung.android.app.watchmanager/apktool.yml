@@ -5,6 +5,8 @@ doNotCompress:
 - resources.arsc
 - assets/dexopt/baseline.prof
 - assets/dexopt/baseline.profm
+- lib/arm64-v8a/libDiagMonKey.so
+- lib/armeabi-v7a/libDiagMonKey.so
 - png
 - webp
 - mp4
@@ -13,8 +15,8 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '21'
-  targetSdkVersion: '33'
+  minSdkVersion: '26'
+  targetSdkVersion: '34'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -518,5 +520,5 @@ usesFramework:
   tag: null
 version: 2.7.0
 versionInfo:
-  versionCode: '2124061361'
-  versionName: 2.2.59.24061361
+  versionCode: '2124112961'
+  versionName: 2.2.61.24112961
