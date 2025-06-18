@@ -6,6 +6,7 @@ You can download the apks from [Releases](https://github.com/Linux4/GalaxyWearab
 * popcornmgr = Galaxy Buds+
 * atticmgr = Galaxy Buds Pro
 * berrymgr = Galaxy Buds2
+* zenithmgr = Galaxy Buds2 Pro
 * neobeanmgr = Galaxy Buds Live
 * pearlmgr = Galaxy Buds FE
 * watchmanager = Samsung Gear (main application)
